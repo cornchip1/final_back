@@ -70,7 +70,14 @@ def comment_detail(request, comment_pk):
     comment = get_object_or_404(Comment, pk= comment_pk)
     if request.method == 'GET':
         serializer = CommentSerializer(comment)
-        return Response(serializer.data)
+        if request.user == comment.user:
+            dic = serializer.data
+            dic.update({'is_mine':True})
+            return Response(dic)
+        else: 
+            dic = serializer.data
+            dic.update({'is_mine':False})
+            return Response(dic)
     elif request.method == 'PUT':
         if request.user == comment.user:
             serializer = CommentSerializer(comment, data = request.data)
