@@ -88,7 +88,7 @@ MIDDLEWARE = [
     'django.middleware.common.CommonMiddleware',
 ]
 
-CORS_ALLOW_ALL_ORIGINS = Truez
+CORS_ALLOW_ALL_ORIGINS = True
 
 ROOT_URLCONF = 'final.urls'
 
