@@ -34,7 +34,14 @@ def article_detail(request, article_pk):
     article = get_object_or_404(Article, pk=article_pk)
     if request.method == 'GET':
         serializer = ArticleSerializer(article)
-        return Response(serializer.data)
+        if request.user == article.user:
+            dic = serializer.data
+            dic.update({'is_mine':True})
+            return Response(dic)
+        else: 
+            dic = serializer.data
+            dic.update({'is_mine':False})
+            return Response(dic)
     elif request.method == 'DELETE':
         if request.user == article.user:
             article.delete()
