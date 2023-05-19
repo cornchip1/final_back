@@ -15,7 +15,7 @@ class ProfileSerializer(serializers.ModelSerializer):
     
     class Meta:
         model = User
-        # fields = ('username','date_joined','img','articles','articles_count','comments','comments_count')
-        fields = '__all__'
+        fields = ('username','date_joined','img','articles','articles_count','comments','comments_count') # 나중에 review, review_count 만 추가
+        # fields = '__all__'
         read_only_fields = ('username',)
     
