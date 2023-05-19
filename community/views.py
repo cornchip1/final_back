@@ -18,7 +18,7 @@ from .models import Article, Comment
 # @permission_classes([IsAuthenticated])
 def article_list(request):
     if request.method == 'GET':
-        articles = get_list_or_404(Article)
+        articles = get_list_or_404(Article.objects.all().order_by('-created_at'))
         serializer = ArticleListSerializer(articles, many=True)
         return Response(serializer.data)
 
