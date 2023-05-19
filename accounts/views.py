@@ -13,7 +13,7 @@ def profile_detail(request,username):
     user = get_object_or_404(User,username=username)
     if request.method == 'GET':
         serializer = ProfileSerializer(user)
-        if request.user.pk == username :
+        if request.user.username == username :
             dic = serializer.data
             dic.update({'is_mine':True})
             return Response(dic)
@@ -22,7 +22,7 @@ def profile_detail(request,username):
             dic.update({'is_mine':False})
             return Response(dic)
     elif request.method == 'PUT':
-        if request.user.pk == username :
+        if request.user.username == username :
             serializer = ProfileSerializer(user, data=request.data)
             if serializer.is_valid(raise_exception=True):
                 serializer.save()
