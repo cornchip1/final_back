@@ -5,8 +5,8 @@ from datetime import datetime
 
 # Create your models here.
 class User(AbstractUser):
-    img = models.ImageField(upload_to='profile_img/%Y/%m/%d',null=True, default = 'default_profile.jpg')
-    background_img = models.ImageField(upload_to='background_img/%Y/%m/%d',null=True, default = 'default_background.png')
+    img = models.ImageField(upload_to='profile_img/%Y/%m/%d',null=True, default = 'default_profile.png')
+    background_img = models.ImageField(upload_to='background_img/%Y/%m/%d',null=True, default = 'default_background.jpg')
     
 # class Profile(models.Model):
 #     user = models.OneToOneField(User,on_delete=models.CASCADE)
