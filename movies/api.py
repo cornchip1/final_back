@@ -50,7 +50,8 @@ def now_playing_movies_data():
                     'overview':movie['overview'],
                     'poster_path':movie['poster_path'],
                     'release_date':movie['release_date'],
-                    'vote_average':movie['vote_average'],                  
+                    'vote_average':movie['vote_average'],
+        
                 }
                 data = {
                     'pk' : movie['id'],
