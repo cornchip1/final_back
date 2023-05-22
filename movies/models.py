@@ -11,6 +11,7 @@ class Movie(models.Model):
     release_date = models.DateField(blank=True)
     vote_average = models.FloatField(blank=True)
     
+    
 
 class Review(models.Model):
     user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='reviews')
@@ -19,3 +20,4 @@ class Review(models.Model):
     review = models.CharField(max_length=300, null=True)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
+
