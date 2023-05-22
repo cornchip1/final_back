@@ -14,6 +14,7 @@ def popular_movies_data():
         for movie in movies['results']:
             if movie.get('release_date',''):
                 fields = {
+                    'movie_id':movie['id'],
                     'title':movie['title'],
                     'genre_ids':movie['genre_ids'],
                     'overview':movie['overview'],
@@ -43,6 +44,7 @@ def now_playing_movies_data():
         for movie in movies['results']:
             if movie.get('release_date',''):
                 fields = {
+                    'movie_id':movie['id'],
                     'title':movie['title'],
                     'genre_ids':movie['genre_ids'],
                     'overview':movie['overview'],
