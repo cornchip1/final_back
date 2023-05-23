@@ -24,8 +24,8 @@ def popular_movies_data():
                     'poster_path':movie['poster_path'],
                     'release_date':movie['release_date'],
                     'vote_average':movie['vote_average'],
-                    'directors' : [ crew['name'] for crew in credit['crew'] if crew['known_for_department'] == 'Directing' or crew['department'] == 'Directing'],
-                    'casts':  [ cast['name'] for cast in credit['cast'] if cast['known_for_department'] == 'Acting']       
+                    'directors' : list(set( crew['name'] for crew in credit['crew'] if crew['known_for_department'] == 'Directing' or crew['department'] == 'Directing')),
+                    'casts':  list(set(cast['name'] for cast in credit['cast'] if cast['known_for_department'] == 'Acting'))  
                 }
                 data = {
                     'pk' : movie['id'],
@@ -58,8 +58,8 @@ def now_playing_movies_data():
                     'poster_path':movie['poster_path'],
                     'release_date':movie['release_date'],
                     'vote_average':movie['vote_average'],
-                    'directors' : [ crew['name'] for crew in credit['crew'] if crew['known_for_department'] == 'Directing' or crew['department'] == 'Directing'],
-                    'casts':  [ cast['name'] for cast in credit['cast'] if cast['known_for_department'] == 'Acting']              
+                    'directors' : list(set( crew['name'] for crew in credit['crew'] if crew['known_for_department'] == 'Directing' or crew['department'] == 'Directing')),
+                    'casts':  list(set( cast['name'] for cast in credit['cast'] if cast['known_for_department'] == 'Acting'  ))           
         
                 }
                 data = {
@@ -94,6 +94,6 @@ def genres_data():
     w = open('movies/fixtures/genres.json','w',encoding='utf-8')
     json.dump(genres_lst, w, indent=4,ensure_ascii=False)
 
-# popular_movies_data()
-# now_playing_movies_data()
-genres_data()
+popular_movies_data()
+now_playing_movies_data()
+# genres_data()
