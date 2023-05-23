@@ -12,8 +12,6 @@ class Movie(models.Model):
     vote_average = models.FloatField(null=True)
     directors = models.TextField(null=True)
     casts = models.TextField(null=True)
-    
-    
 
 class Review(models.Model):
     user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name='reviews')
