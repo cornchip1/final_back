@@ -4,7 +4,7 @@
         "model": "movies.movie",
         "fields": {
             "movie_id": 502356,
-            "title": "슈퍼 마리오 브라더스",
+            "title": "The Super Mario Bros. Movie",
             "genre_ids": [
                 16,
                 10751,
@@ -12,10 +12,84 @@
                 14,
                 35
             ],
-            "overview": "따단-딴-따단-딴 ♫ 전 세계를 열광시킬 올 타임 슈퍼 어드벤처의 등장! 뉴욕의 평범한 배관공 형제 '마리오'와 ‘루이지’는 배수관 고장으로 위기에 빠진 도시를 구하려다 미스터리한 초록색 파이프 안으로 빨려 들어가게 된다. 파이프를 통해 새로운 세상으로 차원 이동하게 된 형제. 형 '마리오'는 뛰어난 리더십을 지닌 '피치'가 통치하는 버섯왕국에 도착하지만 동생 '루이지'는 빌런 '쿠파'가 있는 다크랜드로 떨어지며 납치를 당하고 ‘마리오’는 동생을 구하기 위해 ‘피치’와 ‘키노피오’의 도움을 받아 '쿠파'에 맞서기로 결심한다. 그러나 슈퍼스타로 세상을 지배하려는 그의 강력한 힘 앞에 이들은 예기치 못한 위험에 빠지게 되는데...!",
-            "poster_path": "/dlGyzCxbBQK1U2O5o31Z1hB6erc.jpg",
+            "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+            "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
             "release_date": "2023-04-05",
-            "vote_average": 7.7
+            "vote_average": 7.7,
+            "directors": [
+                "Michael Jelenic",
+                "Ed Skudder",
+                "Ed Skudder",
+                "Pierre Leduc",
+                "Maxime Delalande",
+                "Augustin Clermont",
+                "Joël Corcia",
+                "Aaron Horvath",
+                "Quentin Sauvinet",
+                "Hugo Falaize",
+                "Florian Magnin",
+                "Peter Rida Michail",
+                "Maria Castro Rodriguez",
+                "Andy Dupont",
+                "Nicholas Olivieri",
+                "AnChi Shen",
+                "Gabriel Jolly-Monge",
+                "Jeff Mednikow",
+                "Fabien Polack",
+                "Brandon Jeffords",
+                "Lorenzo Veracini",
+                "François Briantais",
+                "Kristin Graham",
+                "Margaux Vaxelaire",
+                "James Krenzke",
+                "Astrid Massad",
+                "Hugues Chauvin",
+                "Lucie Daniel",
+                "Maxime Mary",
+                "David Pellé",
+                "Calvin Tsang",
+                "Calvin Tsang",
+                "Aymeric Palermo",
+                "Jed Diffenderfer",
+                "Erin Katrina Hayes"
+            ],
+            "casts": [
+                "Chris Pratt",
+                "Charlie Day",
+                "Anya Taylor-Joy",
+                "Jack Black",
+                "Keegan-Michael Key",
+                "Seth Rogen",
+                "Fred Armisen",
+                "Khary Payton",
+                "Sebastian Maniscalco",
+                "Charles Martinet",
+                "Kevin Michael Richardson",
+                "Juliet Jelenic",
+                "Rino Romano",
+                "John DiMaggio",
+                "Jessica DiCicco",
+                "Eric Bauza",
+                "Scott Menville",
+                "Jason Broad",
+                "Carlos Alazraqui",
+                "Ashly Burch",
+                "Rachel Butera",
+                "Cathy Cavadini",
+                "Will Collyer",
+                "Django Craig",
+                "Willow Geer",
+                "Aaron Hendry",
+                "Andy Hirsch",
+                "Phil LaMarr",
+                "Jeremy Maxwell",
+                "Daniel Mora",
+                "Noreen Reardon",
+                "Lee Shorten",
+                "Cree Summer",
+                "Nisa Ward",
+                "Nora Wyman"
+            ]
         }
     },
     {
@@ -23,16 +97,66 @@
         "model": "movies.movie",
         "fields": {
             "movie_id": 385687,
-            "title": "분노의 질주: 라이드 오어 다이",
+            "title": "Fast X",
             "genre_ids": [
                 28,
                 80,
                 53
             ],
-            "overview": "돔과 그의 패밀리 앞에 나타난 운명의 적 단테. 과거의 그림자는 돔의 모든 것을 파괴하기 위해 달려온다. 단테에 의해 산산히 흩어진 패밀리들은 모두 목숨을 걸고 맞서야 하는 함정에 빠지고 마는데...",
-            "poster_path": "/3JT1oE0JIA6CQJaZDG00y3S0kP3.jpg",
+            "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+            "poster_path": "/1E5baAaEse26fej7uHcjOgEE2t2.jpg",
             "release_date": "2023-05-17",
-            "vote_average": 7.1
+            "vote_average": 6.9,
+            "directors": [
+                "Alexander Witt",
+                "Louis Leterrier",
+                "Justin Lin",
+                "Justin Lin",
+                "Justin Lin",
+                "Spiro Razatos",
+                "Olivier Schneider",
+                "Vincent Lascoumes",
+                "Brunella De Cola"
+            ],
+            "casts": [
+                "Vin Diesel",
+                "Michelle Rodriguez",
+                "Tyrese Gibson",
+                "Ludacris",
+                "John Cena",
+                "Nathalie Emmanuel",
+                "Jordana Brewster",
+                "Sung Kang",
+                "Jason Momoa",
+                "Scott Eastwood",
+                "Daniela Melchior",
+                "Alan Ritchson",
+                "Helen Mirren",
+                "Brie Larson",
+                "Jason Statham",
+                "Charlize Theron",
+                "Rita Moreno",
+                "Joaquim de Almeida",
+                "Leo A. Perry",
+                "Luis Da Silva Jr.",
+                "Jaz Hutchins",
+                "Luka Hays",
+                "Alexander Capon",
+                "Pete Davidson",
+                "Shadrach Agozino",
+                "Ludmilla",
+                "Miraj Gribic",
+                "Meadow Walker Thornton-Allan",
+                "Michael Irby",
+                "Shahir Figueira",
+                "Ben-Hur Santos",
+                "Debby Ryan",
+                "Josh Dun",
+                "Paul Walker",
+                "Ali Baddou",
+                "Gal Gadot",
+                "Dwayne Johnson"
+            ]
         }
     },
     {
@@ -40,33 +164,42 @@
         "model": "movies.movie",
         "fields": {
             "movie_id": 713704,
-            "title": "이블 데드 라이즈",
+            "title": "Evil Dead Rise",
             "genre_ids": [
                 53,
                 27,
                 14
             ],
-            "overview": "길바닥에서 지친 베스가 비좁은 아파트에서 세 아이를 키우는 엘리를 뒤늦게 찾아간다. 아파트에서 신비로운 책이 발견되며 육체에 사로잡힌 악마가 발견되며, 베스가 가장 악몽 같은 버전의 모성애에 직면하게 되면서 생존에 위한 원초적인 싸움에 내몰리게 되는데...",
+            "overview": "Three siblings find an ancient vinyl that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
             "poster_path": "/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",
             "release_date": "2023-04-12",
-            "vote_average": 7.1
-        }
-    },
-    {
-        "pk": 882569,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 882569,
-            "title": "더 커버넌트",
-            "genre_ids": [
-                10752,
-                28,
-                53
+            "vote_average": 7.1,
+            "directors": [
+                "Sam Raimi",
+                "Sam Raimi",
+                "Lee Cronin",
+                "Lee Cronin",
+                "Darren Mackie",
+                "Craig Wilson",
+                "Daire Glynn"
             ],
-            "overview": "아프가니스탄에서 적들에게 습격을 받아 죽을뻔했던 미 육군 병사가 현지 통역사의 도움과 노력으로 살아나 미국으로 돌아가게 되는데, 그 통역사와 가족은 약속대로 미국으로 오지 못한 사실을 알게 되자, 자신이 직접 그 가족들을 구하기 위해 아프가니스탄으로 향한다.",
-            "poster_path": "/aX0H63vho7rZ9Rm3I567Zf00Z1t.jpg",
-            "release_date": "2023-04-19",
-            "vote_average": 7.8
+            "casts": [
+                "Alyssa Sutherland",
+                "Lily Sullivan",
+                "Gabrielle Echols",
+                "Nell Fisher",
+                "Anna-Maree Thomas",
+                "Morgan Davies",
+                "Mirabai Pease",
+                "Richard Crouchley",
+                "Jayden Daniels",
+                "Mark Mitchinson",
+                "Tai Wano",
+                "Billy Reynolds-McCarthy",
+                "Noah Paul",
+                "Melissa Xiao",
+                "Bruce Campbell"
+            ]
         }
     },
     {
@@ -74,16 +207,127 @@
         "model": "movies.movie",
         "fields": {
             "movie_id": 842675,
-            "title": "유랑지구 2",
+            "title": "The Wandering Earth II",
             "genre_ids": [
                 878,
                 28,
                 18
             ],
-            "overview": "태양계 소멸의 위기를 맞은 인류는 지구 표면에 거대한 엔진을 달아 궤도를 옮기는 ‘유랑지구 프로젝트’에 돌입한다. 하지만, 데이터베이스로 영생을 가지려는 ‘디지털 라이프’와 대립하게 되며 프로젝트는 난관에 부딪히게 되고, 그 과정 속 달과의 충돌이라는 예상치 못한 대재앙에 놓이게 되는데… 살아남기 위한 선택은 단 하나, 달을 파괴하라!",
-            "poster_path": "/pajq0n6FZivirCg1ifpe4zYKvsA.jpg",
+            "overview": "A prequel to The Wandering Earth.",
+            "poster_path": "/pR858ihc6Ls9xohpdRJVjV787ml.jpg",
             "release_date": "2023-01-22",
-            "vote_average": 7.3
+            "vote_average": 7.2,
+            "directors": [
+                "Frant Gwo",
+                "Frant Gwo",
+                "Rao Xiaozhi",
+                "Achille Vanderhaeghen"
+            ],
+            "casts": [
+                "Wu Jing",
+                "Sha Yi",
+                "Zhu-Yan Manzi",
+                "Li Xuejian",
+                "Wang Zhi",
+                "Kawawa Kadichi",
+                "Vatilli Makarychev",
+                "Clara Lee",
+                "Tony Nicholson",
+                "Vladimir Ershov",
+                "Li Ren",
+                "Andy Lau",
+                "Wang Ruoxi",
+                "Ning Li",
+                "Zhang Yi",
+                "Tong Liya",
+                "Ang Cin",
+                "Guo Yiqian",
+                "Wu Enxuan",
+                "Liu Jiayun",
+                "Ding Yanlai",
+                "Andrew Yan Hua",
+                "Huo Qing",
+                "Li Peidong",
+                "Daniela Tassy",
+                "Huang Jiyuan",
+                "Zheng Chuyi",
+                "Yang Hongtao",
+                "Wu Jingyi",
+                "He Jinhelong",
+                "He Jinhejin",
+                "Fu Jiahao",
+                "Hu Xianxu",
+                "Valentin Vorobev",
+                "Ng Man-tat",
+                "Li Luqi",
+                "Li Yiran",
+                "Zhou Qiang",
+                "Wang Lei",
+                "Zhu Chaoyi",
+                "Zhao Yesuo"
+            ]
+        }
+    },
+    {
+        "pk": 882569,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 882569,
+            "title": "Guy Ritchie's The Covenant",
+            "genre_ids": [
+                10752,
+                28,
+                53
+            ],
+            "overview": "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+            "poster_path": "/aX0H63vho7rZ9Rm3I567Zf00Z1t.jpg",
+            "release_date": "2023-04-19",
+            "vote_average": 7.7,
+            "directors": [
+                "Guy Ritchie",
+                "Guy Ritchie",
+                "Guy Ritchie",
+                "Max Keene",
+                "Michela Marini",
+                "Benjamin Schweimler Ricca",
+                "Paul Bennett",
+                "Jairo Murray",
+                "Irene Díaz",
+                "Robert Jones",
+                "Paula Leiva"
+            ],
+            "casts": [
+                "Jake Gyllenhaal",
+                "Dar Salim",
+                "Antony Starr",
+                "Alexander Ludwig",
+                "Jonny Lee Miller",
+                "Emily Beecham",
+                "Jason Wong",
+                "Bobby Schofield",
+                "Sina Parvaneh",
+                "Sean Sagar",
+                "James Nelson-Joyce",
+                "Reza Diako",
+                "Abbas Fasaei",
+                "Swen Temmel",
+                "Rhys Yates",
+                "Ash Goldeh",
+                "Christian Ochoa Lavernia",
+                "Marcel Zadé",
+                "Hadi Khanjanpour",
+                "Gary Anthony Stennette",
+                "Fariba Sheikhan",
+                "Damon Zolfaghari",
+                "Javier Ramos",
+                "Kawa Mawlayee",
+                "Altamasch Noor",
+                "Javid Hakim",
+                "Mo Ahmadi",
+                "Cyrus Khodaveisi",
+                "Paeman Arianfar",
+                "Shoaib Lodin"
+            ]
         }
     },
     {
@@ -91,33 +335,58 @@
         "model": "movies.movie",
         "fields": {
             "movie_id": 758323,
-            "title": "엑소시스트: 더 바티칸",
+            "title": "The Pope's Exorcist",
             "genre_ids": [
                 27,
                 53,
                 14
             ],
-            "overview": "바티칸이 인정한 공식 수석 엑소시스트이자 최고의 구마사제 '가브리엘 아모르트’ 신부(러셀 크로우)는 한 어린 소년에게 들린 악마를 구마하기 위해 스페인으로 향한다. 그리고 그곳에서 바티칸이 숨겨온 충격적인 비밀과 마주하고, '토마스 에스퀴벨’ 신부(다니엘 조바토)와 함께 진실을 파헤치게 되는데...",
-            "poster_path": "/fA1xRPplBqW87wWh0hO1pwbQmX8.jpg",
+            "overview": "Father Gabriele Amorth, Chief Exorcist of the Vatican, investigates a young boy's terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
+            "poster_path": "/4IjRR2OW2itjQWQnmlUzvwLz9DQ.jpg",
             "release_date": "2023-04-05",
-            "vote_average": 7.3
-        }
-    },
-    {
-        "pk": 447365,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 447365,
-            "title": "가디언즈 오브 갤럭시: Volume 3",
-            "genre_ids": [
-                878,
-                12,
-                28
+            "vote_average": 7.3,
+            "directors": [
+                "Julius Avery",
+                "Silvia Bellitto",
+                "Ian Adams",
+                "James McGrady",
+                "Rachel Morgan",
+                "Robert Kiernan",
+                "Dee Doyle",
+                "Alan Elbakidze",
+                "Sarah Harte",
+                "Rachel Wren"
             ],
-            "overview": "가모라를 잃고 슬픔에 빠져 있던 피터 퀼이 위기에 처한 은하계와 동료를 지키기 위해 다시 한 번 가디언즈 팀과 힘을 모으고, 성공하지 못할 경우 그들의 마지막이 될지도 모르는 미션에 나서는 이야기.",
-            "poster_path": "/b7epV2cQZVIR4u5VZraDwD0AgiE.jpg",
-            "release_date": "2023-05-03",
-            "vote_average": 8.1
+            "casts": [
+                "Russell Crowe",
+                "Daniel Zovatto",
+                "Alex Essoe",
+                "Franco Nero",
+                "Peter DeSouza-Feighoney",
+                "Laurel Marsden",
+                "Cornell John",
+                "Ryan O'Grady",
+                "Bianca Bardoe",
+                "Santi Bayón",
+                "Paloma Bloyd",
+                "Alessandro Gruttadauria",
+                "River Hawkins",
+                "Jordi Collet",
+                "Carrie Munro",
+                "Marc Velasco",
+                "Edward Harper-Jones",
+                "Matthew Sim",
+                "Victor Solé",
+                "Tom Bonington",
+                "Andrea Dugoni",
+                "Ed White",
+                "Laila Barwick",
+                "Gennaro Diana",
+                "Pablo Raybould",
+                "Ralph Ineson",
+                "Derek Carroll",
+                "Ella Cannon"
+            ]
         }
     },
     {
@@ -125,15 +394,194 @@
         "model": "movies.movie",
         "fields": {
             "movie_id": 840326,
-            "title": "시수",
+            "title": "Sisu",
             "genre_ids": [
                 28,
                 10752
             ],
-            "overview": "라플란드의 황야 깊은 곳에서 금을 찾던 아타미 코피는 나치 순찰대를 우연히 만나게 되고, 파괴되고 채굴된 라플란드 황야를 가로지르는 숨막히는 추격전이 시작된다.",
-            "poster_path": "/uCAaaAQEDrTllYR4dtsEsfQa8We.jpg",
+            "overview": "Deep in the wilderness of Lapland, Aatami Korpi is searching for gold but after he stumbles upon Nazi patrol, a breathtaking and gold-hungry chase through the destroyed and mined Lapland wilderness begins.",
+            "poster_path": "/pnQYjDxqZ3C6reI8N0MfNi4NMkZ.jpg",
             "release_date": "2023-01-27",
-            "vote_average": 7.3
+            "vote_average": 7.4,
+            "directors": [
+                "Jalmari Helander",
+                "Jalmari Helander",
+                "Tuula Nikkola",
+                "Jani Pinomaa",
+                "Olli Kasper",
+                "Petra Rossi",
+                "Minna Hyypiö",
+                "Minna Hyypiö",
+                "Pia Nurmi",
+                "Pia Nurmi"
+            ],
+            "casts": [
+                "Jorma Tommila",
+                "Aksel Hennie",
+                "Jack Doolan",
+                "Mimosa Willamo",
+                "Onni Tommila",
+                "Tatu Sinisalo",
+                "Wilhelm Enckell",
+                "Vincent Willestrand",
+                "Arttu Kapulainen",
+                "Elina Saarela",
+                "Ilkka Koivula",
+                "Max Ovaska",
+                "Joel Hirvonen",
+                "Pekka Huotari",
+                "Severi Saarinen",
+                "Aamu Milonoff",
+                "Joonas Brilli",
+                "Nicholas Francett",
+                "Eemeli Franssi",
+                "Jussi Kaila",
+                "Jarkko Klemetti",
+                "Henri Koljonen",
+                "Pekka Laakso",
+                "Martti Näätä Leinonen",
+                "Joosua Oja",
+                "Pietari Paappanen",
+                "Oskari Skyttä",
+                "Mila Leppälä",
+                "Jasmi Mäenpää",
+                "Nora Nevia",
+                "Jenna Tyni",
+                "Anssi-Pekka Fredriksson",
+                "Jarmo Hietamäki",
+                "Akseli Hakovirta",
+                "Juho-Lauri Hakovirta",
+                "Iisko Hirvasvuopio",
+                "Jukka Vuorela",
+                "Ari Joki",
+                "Nikita Makkojev",
+                "Jasmin Valjas",
+                "Linnea Vilppunen",
+                "Hannu Anttila",
+                "Mario Esposito",
+                "Tarmo Hassinen",
+                "Miia Heikkinen",
+                "Kimmo Henriksson",
+                "Arto Kairajärvi",
+                "Risto Korhonen",
+                "Mirva Korvala",
+                "Steven Madlin",
+                "Julia Malmsten",
+                "Annika Moisio",
+                "Kari Parkkinen",
+                "Tommi Pelkonen",
+                "Arto Peltomäki",
+                "Leena Sormunen",
+                "Pekka Virkkunen",
+                "Jukka Virtanen",
+                "Tinwelindon Belbog"
+            ]
+        }
+    },
+    {
+        "pk": 447365,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 447365,
+            "title": "Guardians of the Galaxy Vol. 3",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+            "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+            "release_date": "2023-05-03",
+            "vote_average": 8.1,
+            "directors": [
+                "James Gunn",
+                "Lars P. Winther",
+                "James Edward Tilden",
+                "Ryan J. Pezdirc"
+            ],
+            "casts": [
+                "Chris Pratt",
+                "Zoe Saldaña",
+                "Dave Bautista",
+                "Karen Gillan",
+                "Pom Klementieff",
+                "Vin Diesel",
+                "Bradley Cooper",
+                "Sean Gunn",
+                "Chukwudi Iwuji",
+                "Will Poulter",
+                "Maria Bakalova",
+                "Elizabeth Debicki",
+                "Sylvester Stallone",
+                "Austin Freeman",
+                "Stephen Blackehart",
+                "Terence Rosemore",
+                "Sarah Alami",
+                "Jasmine Sunshine Munoz",
+                "Giovannie Cruz",
+                "Nico Santos",
+                "Miriam Shor",
+                "Noa Raskin",
+                "Linda Cardellini",
+                "Asim Chaudhry",
+                "Mikaela Hoover",
+                "Judy Greer",
+                "Reinaldo Faberlle",
+                "Tara Strong",
+                "Jared Leland Gore",
+                "Michael Rosenbaum",
+                "Molly C. Quinn",
+                "Gerardo Davila",
+                "Dee Bradley Baker",
+                "Hanna Pak",
+                "Jennifer Holland",
+                "Nathan Fillion",
+                "Benjamin Byron Davis",
+                "Tiffany Smith",
+                "Joe Daru",
+                "Daniela Melchior",
+                "Jonathan Fritschi",
+                "Max Bickelhaup",
+                "Brandon Morales",
+                "Alexis Hadesty",
+                "Tara Warren",
+                "Candi VandiZandi",
+                "Grecia Balboa",
+                "Caleb Spillyards",
+                "Darla Delgado",
+                "Michelle Civile",
+                "Ken Lyle",
+                "Elodie Clarke",
+                "John William Wright",
+                "Autumn Griffin",
+                "Skylar Huntley",
+                "Randy Havens",
+                "Dane DiLiegro",
+                "Kai Zen",
+                "Sarah Anne",
+                "Yael Ocasio",
+                "Adelynn Spoon",
+                "Henry Heffernan",
+                "Brooklyn Skye Oliver",
+                "Scarlett Blum",
+                "Baby Dro",
+                "Emery Grilliot",
+                "Amelia Waters",
+                "Christopher Fairbank",
+                "Rhett Miller",
+                "Natalia Safran",
+                "Murphy Weed",
+                "Michael Rooker",
+                "Jessica Fontaine",
+                "Karen Abercrombie",
+                "Gregg Henry",
+                "Bonnie Discepolo",
+                "Clare Grant",
+                "Grace Gunn",
+                "Will Gunn",
+                "Seth Green",
+                "Pete Davidson"
+            ]
         }
     },
     {
@@ -141,32 +589,58 @@
         "model": "movies.movie",
         "fields": {
             "movie_id": 552688,
-            "title": "내 이름은 마더",
+            "title": "The Mother",
             "genre_ids": [
                 28,
                 53
             ],
-            "overview": "은둔 생활을 하던 군 출신 암살자. 복수에 혈안이 된 무자비한 범죄자들의 손아귀에서 한 번도 만난 적 없는 딸을 지키기 위해 세상 밖으로 나온다.",
+            "overview": "A deadly female assassin comes out of hiding to protect the daughter that she gave up years before, while on the run from dangerous men.",
             "poster_path": "/vnRthEZz16Q9VWcP5homkHxyHoy.jpg",
             "release_date": "2023-05-04",
-            "vote_average": 6.7
-        }
-    },
-    {
-        "pk": 649609,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 649609,
-            "title": "렌필드",
-            "genre_ids": [
-                27,
-                35,
-                14
+            "vote_average": 6.7,
+            "directors": [
+                "Jeff Habberstad",
+                "Niki Caro",
+                "Liz Tan",
+                "Andrey García Mijailov",
+                "Chad Belair",
+                "Crystal Munson",
+                "Sabrina Demers",
+                "Haley Lauten",
+                "Joel Márquez"
             ],
-            "overview": "정년 보장 + 평생 직장의 대가는 밤낮없는 24시간 FULL 근무? 사내 복지는 만성 피로, 불면증, 소화불량, 짙은 다크서클입니다! 불멸의 삶과 폭발적인 힘의 대가는 악당용 배민이 되는 것?! ‘드라큘라’에게 취업 사기를 당하고 24시간 밤낮없이 그에게 순결한 제물을 바치는 직속비서 ‘렌필드’는 남들과 다른 특별한 꼰대 상사에 점차 피폐해져 간다. 그러던 어느 날, 여느 때처럼 ‘드라큘라’에게 바칠 제물을 찾던 중 자신의 인생을 뒤바꿔줄 친구 ‘레베카’를 만나게 되고 지금껏 가슴 한 켠에 숨 죽여 있었던 퇴사의 희망을 발견하게 되는데.. 과연 퇴사 없는 종신계약에서 ‘렌필드’는 벗어날 수 있을까?  슈퍼 을(乙) ‘렌필드’, 자네 꿈이 뭔가? “이 지독한 관계에서 벗어나고 싶어요! 퇴사하겠습니다!”",
-            "poster_path": "/wJXgQ3FgVIyVUwdoaKoeobET3po.jpg",
-            "release_date": "2023-04-07",
-            "vote_average": 7
+            "casts": [
+                "Jennifer Lopez",
+                "Joseph Fiennes",
+                "Omari Hardwick",
+                "Gael García Bernal",
+                "Paul Raci",
+                "Lucy Paez",
+                "Fahim Fazli",
+                "Michael Karl Richards",
+                "Saif Mohsen",
+                "Yvonne Senat Jones",
+                "Jesse Garcia",
+                "Edie Falco",
+                "Link Baker",
+                "Mayumi Yoshida",
+                "Ryan Cowie",
+                "Todd Matthews",
+                "Yadier Fernández",
+                "Olivia Lucas",
+                "Mehdi Regragui",
+                "Jay Cardinal Villeneuve",
+                "Daniel Whittaker",
+                "Richard Miro",
+                "Juan Jose Rodriguez Gil",
+                "Gabriel Bonilla",
+                "Noah Crawford",
+                "Yorkie Joaquin",
+                "Leslie Lluvet",
+                "Carlos Robles",
+                "Isaac Gonzalez Rossi",
+                "Damon Zolfaghari"
+            ]
         }
     },
     {
@@ -174,16 +648,120 @@
         "model": "movies.movie",
         "fields": {
             "movie_id": 603692,
-            "title": "존 윅 4",
+            "title": "John Wick: Chapter 4",
             "genre_ids": [
                 28,
                 53,
                 80
             ],
-            "overview": "죽을 위기에서 살아난 존 윅은 최고 회의를 쓰러트릴 방법을 찾아낸다. 비로소 완전한 자유의 희망을 보지만, 빌런 그라몽 후작과 전 세계의 최강 연합은 존 윅의 오랜 친구까지 적으로 만들어 버리고, 새로운 위기에 놓인 존 윅은 최후의 반격을 준비하는데...",
-            "poster_path": "/9WF6TxCYwdiZw51NM92ConaQz1w.jpg",
+            "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
             "release_date": "2023-03-22",
-            "vote_average": 7.9
+            "vote_average": 7.9,
+            "directors": [
+                "Chad Stahelski",
+                "Chad Stahelski",
+                "David Leitch",
+                "Mark Anthony Little",
+                "Scott Rogers",
+                "Aria Harrison",
+                "Jeremy Marks",
+                "Maud Ducre",
+                "Ahmad Khomakho",
+                "Samuel Payen"
+            ],
+            "casts": [
+                "Keanu Reeves",
+                "Donnie Yen",
+                "Bill Skarsgård",
+                "Ian McShane",
+                "Laurence Fishburne",
+                "Lance Reddick",
+                "Clancy Brown",
+                "Hiroyuki Sanada",
+                "Shamier Anderson",
+                "Rina Sawayama",
+                "Scott Adkins",
+                "Aimée Kwan",
+                "Marko Zaror",
+                "Natalia Tena",
+                "George Georgiou",
+                "Vhelma Richardson",
+                "Jackey Mishra",
+                "Brahim Achabbakhe",
+                "Selman Iyi",
+                "Lous and the Yakuza",
+                "Daiki Suzuki",
+                "Yoshinori Tashiro",
+                "Hiroki Sumi",
+                "Julia  Asuka Riedl",
+                "Milena Rendón",
+                "Ivy Quainoo",
+                "Irina Trifanov",
+                "Iryna Fedorova",
+                "Raicho Vasilev",
+                "Andrej Kaminsky",
+                "Robert Bess",
+                "Mako Sanjō",
+                "Sven Marquardt"
+            ]
+        }
+    },
+    {
+        "pk": 649609,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 649609,
+            "title": "Renfield",
+            "genre_ids": [
+                27,
+                35,
+                14
+            ],
+            "overview": "Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds a new lease on life — and maybe even redemption — when he falls for feisty, perennially angry traffic cop Rebecca Quincy.",
+            "poster_path": "/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",
+            "release_date": "2023-04-07",
+            "vote_average": 7,
+            "directors": [
+                "Chris McKay",
+                "Chris McKay",
+                "Shane B. Scott",
+                "James E. Price",
+                "Jason Inman",
+                "Zack Earl Edwards",
+                "Kristina M. Peterson",
+                "Chris Brewster",
+                "Alan Breton",
+                "Ava Amundsen"
+            ],
+            "casts": [
+                "Nicholas Hoult",
+                "Nicolas Cage",
+                "Awkwafina",
+                "Ben Schwartz",
+                "Shohreh Aghdashloo",
+                "Brandon Scott Jones",
+                "Adrian Martinez",
+                "Camille Chen",
+                "Bess Rous",
+                "Jenna Kanell",
+                "Danya LaBelle",
+                "Rhonda Johnson Dents",
+                "Christopher Matthew Cook",
+                "Michael P. Sullivan",
+                "Rosha Washington",
+                "James Moses Black",
+                "T.C. Matherne",
+                "Caroline Williams",
+                "Joshua Mikel",
+                "Derek Russo",
+                "Dave Davis",
+                "Marcus Lewis",
+                "William Ragsdale",
+                "Miles Doleac",
+                "Camden McKinnon",
+                "Krystal Tomlin"
+            ]
         }
     },
     {
@@ -191,32 +769,101 @@
         "model": "movies.movie",
         "fields": {
             "movie_id": 493529,
-            "title": "던전 앤 드래곤 - 도적들의 명예",
+            "title": "Dungeons & Dragons: Honor Among Thieves",
             "genre_ids": [
                 12,
                 14,
                 35
             ],
-            "overview": "한때는 명예로운 기사였지만, 어떤 사건 이후 홀가, 사이먼, 포지와 함께 도적질을 하게 된 에드긴. 소피나의 제안으로 부활의 서판을 얻기 위해 코린의 성에 잠입하지만 포지와 소피나의 배신으로 실패하고 감옥에 갇힌다. 기발한 방법으로 탈옥에 성공한 에드긴과 홀가는 소중한 사람들과 다시 만나고, 부활의 서판도 되찾기 위해  자신만의 팀을 꾸리기 시작한다. 옛 동료인 소질 없는 소서러 사이먼과 새롭게 합류한 변신 천재 드루이드 도릭, 재미 빼고 다 가진 팔라딘 젠크까지 어딘가 2% 부족한 오합지졸로 가득한 이 팀, 과연 무사히 모험을 끝마칠 수 있을까?",
-            "poster_path": "/eg4vGqZo1BpjY3ZoCUAGk09Pq7T.jpg",
+            "overview": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+            "poster_path": "/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",
             "release_date": "2023-03-23",
-            "vote_average": 7.5
-        }
-    },
-    {
-        "pk": 1111140,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 1111140,
-            "title": "두 죄인과 노새",
-            "genre_ids": [
-                37,
-                28
+            "vote_average": 7.5,
+            "directors": [
+                "John Francis Daley",
+                "Chris McKay",
+                "Brad Martin",
+                "Jonathan M. Goldstein",
+                "Gregg Smrz",
+                "Matthew Booth",
+                "Michael Salven",
+                "Sam Barry-Parker",
+                "Therese Friel",
+                "Andrew Carstairs",
+                "Graham Kinniburgh",
+                "Sheena Kelly"
             ],
-            "overview": "이 작품은 자유로운 영혼을 지닌 두 여자가 총상 입은 현상금 사냥꾼을 만나고, 그의 현상금을 나눠 갖기 위해 추적에 동참하는 흥미진진한 서부극이다.",
-            "poster_path": "/rd8sP6KMIL3xNdE6eVjcHpBGMF9.jpg",
-            "release_date": "2023-04-21",
-            "vote_average": 6
+            "casts": [
+                "Chris Pine",
+                "Michelle Rodriguez",
+                "Regé-Jean Page",
+                "Justice Smith",
+                "Sophia Lillis",
+                "Hugh Grant",
+                "Chloe Coleman",
+                "Daisy Head",
+                "Kyle Hixon",
+                "Jason Wong",
+                "Bradley Cooper",
+                "Hayley-Marie Axe",
+                "Ian Hanmore",
+                "Kenneth Collard",
+                "Philip Brodie",
+                "Michael Redmond",
+                "Daniel Campbell",
+                "Sharon Blynn",
+                "Jude Hill",
+                "Niamh McCormack",
+                "Anton Simpson-Tidy",
+                "Edd Osmond",
+                "Fionnlagh Allan",
+                "Jeanne Nicole Ní Áinle",
+                "Richard Croxford",
+                "Rylee Neilly-Large",
+                "Rylan Jackson",
+                "Emer McDaid",
+                "Spencer Wilding",
+                "Will Irvine",
+                "Nicholas Blane",
+                "Bryan Larkin",
+                "Sarah Amankwah",
+                "Colin Carnegie",
+                "Georgia Landers",
+                "Sophia Nell Huntley",
+                "San Shella",
+                "Barry O'Connor",
+                "Adam Behan",
+                "Dan Poole",
+                "Natali Servat",
+                "Paul Bazely",
+                "Darren Kent",
+                "Claude Starling",
+                "Paul Lancaster",
+                "Appy Pratt",
+                "David Durham",
+                "Harriet Barrow",
+                "Justice Ritchie",
+                "Adrian Christopher",
+                "Richard Hall",
+                "Luke Bennett",
+                "Trevor Kaneswaran",
+                "Seamus O'Hara",
+                "Edgar Abram",
+                "Tom Morello",
+                "R.F. Daley",
+                "David Sobolov",
+                "Jeff Bottoms",
+                "David Stanbra",
+                "Matthew Waterson",
+                "John Francis Daley",
+                "KIm Chapman",
+                "Tom Mason Duffy",
+                "Garry Harper",
+                "Gavin Lee Lewis",
+                "Laura Przybilla",
+                "Aidan Rhys",
+                "Gordon Tarpley"
+            ]
         }
     },
     {
@@ -224,15 +871,92 @@
         "model": "movies.movie",
         "fields": {
             "movie_id": 727340,
-            "title": "헌트",
+            "title": "Hunt",
             "genre_ids": [
                 53,
                 28
             ],
-            "overview": "북한 고위 관리가 망명을 요청한 이후, 안기부 해외팀 차장 박평호와 국내팀 차장 김정도는 동림으로 알려진 안기부 내 스파이, 남파간첩 총책임자를 밝혀내는 임무를 맡는다. 이윽고 동림이 국가 안보를 위태롭게 할 1급 비밀 정보를 누설하기 시작하고 안기부의 해외팀과 국내팀은 서로를 조사하기에 이른다. 당장 스파이를 밝혀내지 못하면 자신이 혐의를 받을 수 있는 일촉즉발의 상황에서 평호와 정도는 서서히 진실을 찾아내고, 마침내 대한민국 1호 암살 작전이라는 거대한 사건과 직면하게 되는데...",
-            "poster_path": "/owt8hAoRxyK2tkLj9G0nh0r3Vpr.jpg",
+            "overview": "After a high-ranking North Korean official requests asylum, KCIA Foreign Unit chief Park Pyong-ho and Domestic Unit chief Kim Jung-do are tasked with uncovering a North Korean spy, known as Donglim, who is deeply embedded within their agency. When the spy begins leaking top secret intel that could jeopardize national security, the two units are each assigned to investigate each other.",
+            "poster_path": "/tDe5eLxAbeK7sYckUn5aH3ngWnn.jpg",
             "release_date": "2022-08-10",
-            "vote_average": 6.9
+            "vote_average": 6.9,
+            "directors": [
+                "Lee Jung-jae",
+                "Yang Woo-seok",
+                "Kim Byung-seo",
+                "Park Sin-woong"
+            ],
+            "casts": [
+                "Lee Jung-jae",
+                "Jung Woo-sung",
+                "Jeon Hye-jin",
+                "Heo Sung-tae",
+                "Go Youn-jung",
+                "Kim Jong-soo",
+                "Jeong Man-sik",
+                "Lim Hyung-kook",
+                "Jung Kyung-soon",
+                "Jung Jae-sung",
+                "Song Young-chang",
+                "Hwang Jung-min",
+                "Lee Sung-min",
+                "You Chea-myung",
+                "Kang Kyung-hun",
+                "Im Sung-jae",
+                "Jeong Seong-mo",
+                "Paul Battle",
+                "Kim Hak-sun",
+                "Oh Man-seok",
+                "Andreas Fronk",
+                "Lee Chae-eun",
+                "Song Duk-ho",
+                "Kim Chan-hyung",
+                "Kim Hyeong-beom",
+                "Yoon Jeong-sub",
+                "Choi Woo-jun",
+                "Park Sung-woong",
+                "Jo Woo-jin",
+                "Kim Nam-gil",
+                "Ju Ji-hoon",
+                "Cha Rae-hyung",
+                "Lee Han-ju",
+                "Go Seo-hee",
+                "Son Kyoung-won",
+                "Lee Tae Hyung",
+                "Cha Woo-jin",
+                "Son Seung-beom",
+                "Joe Nowell"
+            ]
+        }
+    },
+    {
+        "pk": 1111140,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1111140,
+            "title": "Two Sinners and a Mule",
+            "genre_ids": [
+                37,
+                28
+            ],
+            "overview": "Kicked out of a small Western town for sinful behavior, free-spirited Alice and Nora set out for Virginia City to pursue their dream of opening a restaurant. Out on the prairie, they come across an injured bounty hunter named Elden. Hoping to share in the reward, they nurse Elden back to health and help him stalk his prey, Grimes. But as Nora and Alice both develop feelings for Elden, no one notices that Grimes is now on their tail, and the hunters become the hunted…",
+            "poster_path": "/icL1zn5z1L5ULIpxkuOLjeUgURY.jpg",
+            "release_date": "2023-04-21",
+            "vote_average": 6,
+            "directors": [
+                "Raliegh Wilson"
+            ],
+            "casts": [
+                "Cam Gigandet",
+                "Chantelle Albers",
+                "Hannah James",
+                "Cord Newman",
+                "Buck Taylor",
+                "Luce Rains",
+                "Mohamed Karim",
+                "Richard Gabai",
+                "Robert Woods"
+            ]
         }
     },
     {
@@ -240,32 +964,43 @@
         "model": "movies.movie",
         "fields": {
             "movie_id": 876969,
-            "title": "어쎄신 클럽",
+            "title": "Assassin Club",
             "genre_ids": [
                 28,
                 9648,
                 53
             ],
-            "overview": "오랫동안 킬러 생활을 하면서 무의미한 삶을 살던 모건은 소피를 만나면서부터 인간다운 인생을 꿈꾸기 시작한다. 그래서 고민 끝에 킬러 생활을 청산하려고 하지만, 자신도 모르는 사이에 자신이 누군가 설계한 킬러들의 RPG 게임에 합류했다는 사실을 깨닫는다. 플레이어는 총 7명. 처음에는 영문을 몰라 어리둥절해 하던 킬러들. 하지만 곧 전투본능을 되살려 돈과 목숨을 지키기 위해서 치열한 사투를 벌인다. 그렇게 죽고 죽이는 게임 끝에 마침내 단 두 명의 킬러만이 남는다. 바로 모건과 정체불명의 인물 포크! 포크는 게임 설계자를 찾아 제거하자고 하면서 모건에게 접근하는데... 과연 모건은 최후의 승리자가 되고 킬러들의 세계에서 벗어날 수 있을까?",
+            "overview": "In this world of contract killers, Morgan Gaines is the best of the best. When Morgan is hired to kill six people around the world, he soon discovers all the targets are also assassins unknowingly hired to kill each other.",
             "poster_path": "/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg",
             "release_date": "2023-02-24",
-            "vote_average": 6.7
-        }
-    },
-    {
-        "pk": 964980,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 964980,
-            "title": "에어",
-            "genre_ids": [
-                18,
-                36
+            "vote_average": 6.7,
+            "directors": [
+                "Camille Delamarre",
+                "Thomas Dunn"
             ],
-            "overview": "세기의 아이콘을 만든 그들의 실화! 당신이 알고 있는 그 이상의 이야기  1984년, 업계 꼴찌를 벗어나지 못하고 있는 나이키는 브랜드의 간판이 되어 줄 새로운 모델을 찾는다. 나이키의 스카우터 소니 바카로(맷 데이먼)는 NBA의 떠오르는 루키 마이클 조던이 나이키의 미래라고 생각한다. 그런데, 이미 시장을 장악한 컨버스와 아디다스가 그와의 계약을 노리는 상황 나이키 팀은 조던의 마음을 얻기 위한 전략을 세우는데….",
-            "poster_path": "/u72FzpfOZLBkeUdL3o3jyYK9OxU.jpg",
-            "release_date": "2023-04-05",
-            "vote_average": 7.5
+            "casts": [
+                "Henry Golding",
+                "Noomi Rapace",
+                "Daniela Melchior",
+                "Jimmy Jean-Louis",
+                "Sam Neill",
+                "Anastasia Doaga",
+                "Claudio Del Falco",
+                "Gabriele Mira Rossi",
+                "Bruno Bilotta",
+                "Sheena Hao",
+                "Lorenzo Buran",
+                "G-Max",
+                "Natalia Shulzhenko",
+                "Dafne Renate Broglia",
+                "Borut Velesko",
+                "Rinat Khismatouline",
+                "Giulio Pampiglione",
+                "Samata Khalid",
+                "Gianluca Bottoni",
+                "Alessia Alciati",
+                "Sangis Galstyn"
+            ]
         }
     },
     {
@@ -273,16 +1008,112 @@
         "model": "movies.movie",
         "fields": {
             "movie_id": 804150,
-            "title": "코카인 베어",
+            "title": "Cocaine Bear",
             "genre_ids": [
                 53,
                 35,
                 80
             ],
-            "overview": "1985년 마약 밀매업자의 비행기 추락 사고로 인해 비행기에 실려있던 코카인이 조지아주 채터후치 국유림에 떨어지고 코카인을 손에 넣기 위한 마약상들과 관광객들이 코카인을 먹은 흑곰에 의해 처참하게 죽임을 당한다는 내용의 실화를 바탕으로 한 영화",
+            "overview": "Inspired by a true story, an oddball group of cops, criminals, tourists and teens converge in a Georgia forest where a 500-pound black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
             "poster_path": "/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
             "release_date": "2023-02-22",
-            "vote_average": 6.3
+            "vote_average": 6.3,
+            "directors": [
+                "Elizabeth Banks",
+                "Melissa R. Stubbs",
+                "Melissa R. Stubbs",
+                "Cleta Elaine Ellington",
+                "Louise Gaffney",
+                "Conor Flannery",
+                "Alan D'Antoni",
+                "Nick Thomas",
+                "Richard Cosgrove"
+            ],
+            "casts": [
+                "Keri Russell",
+                "Brooklynn Prince",
+                "Christian Convery",
+                "O'Shea Jackson Jr.",
+                "Alden Ehrenreich",
+                "Ray Liotta",
+                "Isiah Whitlock Jr.",
+                "Margo Martindale",
+                "Jesse Tyler Ferguson",
+                "Kristofer Hivju",
+                "Kahyun Kim",
+                "Scott Seiss",
+                "Ayoola Smart",
+                "Aaron Holliday",
+                "Conor Lambert",
+                "Shane Connellan",
+                "J.B. Moore",
+                "Leo Hanna",
+                "Christopher Livingston",
+                "Matthew Rhys",
+                "Chloe Harris",
+                "Hannah Hoekstra",
+                "Paul Reubens",
+                "Nancy Davis Reagan"
+            ]
+        }
+    },
+    {
+        "pk": 964980,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 964980,
+            "title": "Air",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "overview": "Discover the game-changing partnership between a then undiscovered Michael Jordan and Nike's fledgling basketball division which revolutionized the world of sports and culture with the Air Jordan brand.",
+            "poster_path": "/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+            "release_date": "2023-04-05",
+            "vote_average": 7.5,
+            "directors": [
+                "Ben Affleck",
+                "Trevor Tavares"
+            ],
+            "casts": [
+                "Matt Damon",
+                "Ben Affleck",
+                "Jason Bateman",
+                "Viola Davis",
+                "Chris Tucker",
+                "Chris Messina",
+                "Matthew Maher",
+                "Marlon Wayans",
+                "Julius Tennon",
+                "Damian Young",
+                "Jay Mohr",
+                "Dan Bucatinsky",
+                "Gustaf Skarsgård",
+                "Barbara Sukowa",
+                "Joel Gretsch",
+                "Michael O'Neill",
+                "Asanté Deshon",
+                "Billy Smith",
+                "Al Madrigal",
+                "Jackson Damon",
+                "Jessica Green",
+                "Gabrielle Bourne",
+                "Joshua Funk",
+                "Andy Hirsch",
+                "Tami Jordan",
+                "Jeff Cook",
+                "Albert Stroth",
+                "Mackenzie Rayne",
+                "Jerry Plummer",
+                "Haylee Baldwin",
+                "Martina De Leon Diaz",
+                "Ure Egbuho",
+                "Dempsey Gibson",
+                "Geoffrey Gould",
+                "Richard Allan Jones",
+                "Tom Papa",
+                "LeChristopher Williams"
+            ]
         }
     },
     {
@@ -296,10 +1127,36 @@
                 12,
                 53
             ],
-            "overview": "우주 비행 중 행성과의 치명적인 충돌이 일어난 후, 조종사 밀스와 유일한 탑승 생존자 코아는 6,500만 년 전 공룡의 시대 지구에 불시착한다.  모든 것이 위험과 죽음과 맞닿아 있는 상황, 그들은 거대한 행성과의 충돌 전, 반드시 지구를 탈출해야만 한다!",
-            "poster_path": "/o9ItQpKVvhGcAcJFyIpFM7YYKuv.jpg",
+            "overview": "65 million years ago, the only 2 survivors of a spaceship from Somaris that crash-landed on Earth must fend off dinosaurs and reach the escape vessel in time before an imminent asteroid strike threatens to destroy the planet.",
+            "poster_path": "/rzRb63TldOKdKydCvWJM8B6EkPM.jpg",
             "release_date": "2023-03-02",
-            "vote_average": 6.3
+            "vote_average": 6.3,
+            "directors": [
+                "Aldric La'Auli Porter",
+                "Sam Raimi",
+                "Richard Elias",
+                "Scott Beck",
+                "Bryan Woods",
+                "Suzanne C. Swindle",
+                "Benjamin Hilton",
+                "Fernando Guerrero Jr.",
+                "Danny Donahue",
+                "Heidy Villafane",
+                "Zack Earl Edwards",
+                "Nicola Jackson",
+                "Ava Amundsen",
+                "Rachel Ryan",
+                "Karen Byrne",
+                "Josh Courtney",
+                "Chris McIntyre"
+            ],
+            "casts": [
+                "Adam Driver",
+                "Ariana Greenblatt",
+                "Chloe Coleman",
+                "Nika King",
+                "Brian Dare"
+            ]
         }
     },
     {
@@ -307,17 +1164,51 @@
         "model": "movies.movie",
         "fields": {
             "movie_id": 447277,
-            "title": "인어공주",
+            "title": "The Little Mermaid",
             "genre_ids": [
                 12,
                 10751,
                 14,
                 10749
             ],
-            "overview": "아틀란티카 바다의 왕 트라이튼의 사랑스러운 막내딸인 인어 에리얼은 늘 인간들이 사는 바다 너머 세상으로의 모험을 꿈꾼다. 어느 날, 우연히 바다 위로 올라갔다가 폭풍우 속 가라앉는 배에 탄 인간 에릭 왕자의 목숨을 구해준다. 갈망하던 꿈과 운명적인 사랑을 이루기 위해 용기를 낸 에리얼은 사악한 바다 마녀 울슐라와의 위험한 거래를 통해 다리를 얻게 된다. 드디어 바다를 벗어나 그토록 원하던 인간 세상으로 가게 되지만, 그 선택으로 에리얼과 아틀란티카 왕국 모두 위험에 처하게 되는데… 바닷속, 그리고 그 너머 아름다운 꿈과 사랑의 멜로디가 펼쳐진다!",
-            "poster_path": "/8k8tmcx5e6ShpackLnDswBo1tnB.jpg",
+            "overview": "The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy.",
+            "poster_path": "/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
             "release_date": "2023-05-18",
-            "vote_average": 6
+            "vote_average": 5.9,
+            "directors": [
+                "Adam Kirley",
+                "Rob Marshall",
+                "Rob Marshall",
+                "Ben Howarth",
+                "John Sorapure"
+            ],
+            "casts": [
+                "Halle Bailey",
+                "Jonah Hauer-King",
+                "Daveed Diggs",
+                "Awkwafina",
+                "Jacob Tremblay",
+                "Noma Dumezweni",
+                "Javier Bardem",
+                "Melissa McCarthy",
+                "Art Malik",
+                "Jessica Alexander",
+                "Emily Coates",
+                "Lin-Manuel Miranda",
+                "Jude Akuwudike",
+                "Russell Balogh",
+                "Adrian Christopher",
+                "Simone Ashley",
+                "Martina Laird",
+                "John Dagleish",
+                "Sienna King",
+                "Karolina Conchet",
+                "Craig Stein",
+                "Lorena Andrea",
+                "Kajsa Mohammar",
+                "Nathalie Sorrell",
+                "Jodi Benson"
+            ]
         }
     },
     {
@@ -325,7 +1216,7 @@
         "model": "movies.movie",
         "fields": {
             "movie_id": 816904,
-            "title": "머미즈",
+            "title": "Mummies",
             "genre_ids": [
                 16,
                 35,
@@ -333,10 +1224,32 @@
                 12,
                 14
             ],
-            "overview": "고대 세 명의 미라가 고고학자 카나비 경이 훔친 왕실 소유의 오래된 반지를 찾기 위해 런던으로 떠난 여정을 그린 애니메이션",
-            "poster_path": "/g5vkJAPj4XFlaOXZMYE97LZ7lns.jpg",
+            "overview": "Through a series of unfortunate events, three mummies end up in present-day London and embark on a wacky and hilarious journey in search of an old ring belonging to the Royal Family, stolen by ambitious archaeologist Lord Carnaby.",
+            "poster_path": "/qVdrYN8qu7xUtsdEFeGiIVIaYd.jpg",
             "release_date": "2023-01-05",
-            "vote_average": 7.1
+            "vote_average": 7.1,
+            "directors": [
+                "Juan Jesús García Galocha"
+            ],
+            "casts": [
+                "Óscar Barberán",
+                "Ana Esther Alborg",
+                "Luis Pérez Reina",
+                "María Luisa Solá",
+                "Jaume Solà",
+                "José Luis Mediavilla",
+                "José Javier Serrano Rodríguez",
+                "Aleix Estadella",
+                "María Moscardó",
+                "Juan Carlos Gustems",
+                "Roberto Cuenca Martínez",
+                "Luis Torrelles Gallego",
+                "Roser Aldabó Arnau",
+                "Francesc Belda",
+                "Pilar Esteras Casanova",
+                "Judith Güell Muñoz",
+                "Rafael Parra"
+            ]
         }
     },
     {
@@ -352,39 +1265,31 @@
             "overview": "어릴 적 친구로부터 버림받은 곰돌이 ‘푸’와 ‘피글렛’  참을 수 없는 분노와 배신감을 느끼며 잔혹한 복수를 시작한다.",
             "poster_path": "/fcCbzcEbAEQ5gWzx7EX78qLEVFw.jpg",
             "release_date": "2023-01-27",
-            "vote_average": 5.7
-        }
-    },
-    {
-        "pk": 455476,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 455476,
-            "title": "세인트 세이야: 더 비기닝",
-            "genre_ids": [
-                14,
-                28,
-                12
+            "vote_average": 5.7,
+            "directors": [
+                "Rhys Frake-Waterfield",
+                "Hunter Clin"
             ],
-            "overview": "슬럼가 격투장에서 싸우던 중 이상한 힘이 발현된 ‘세이야’가 자신이 아테나의 환생인 ‘시에나’를 지킬 운명임을 받아들이고 세상을 구하는 이야기",
-            "poster_path": "/fBNl8kpFMz5ugi3RGYfenKctzjq.jpg",
-            "release_date": "2023-04-27",
-            "vote_average": 6.4
-        }
-    },
-    {
-        "pk": 1118721,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 1118721,
-            "title": "Quiero Tu Vida",
-            "genre_ids": [
-                35
-            ],
-            "overview": "",
-            "poster_path": "/hk2kW6uwTEa8cxDeF1UPfIpEYkF.jpg",
-            "release_date": "2023-05-03",
-            "vote_average": 6.5
+            "casts": [
+                "Craig David Dowsett",
+                "Chris Cordell",
+                "Amber Doig-Thorne",
+                "Natasha Tosini",
+                "Maria Taylor",
+                "Nikolai Leon",
+                "May Kelly",
+                "Danielle Ronald",
+                "Danielle Scott",
+                "Natasha Rose Mills",
+                "Paula Coiz",
+                "Simon Ellis",
+                "Richard D. Myers",
+                "Jase Rivers",
+                "Bao Tieu",
+                "Marcus Massey",
+                "Gillian Broderick",
+                "Richard Harfst"
+            ]
         }
     },
     {
@@ -399,7 +1304,56 @@
             "overview": "",
             "poster_path": "/gbGHezV6yrhua0KfAgwrknSOiIY.jpg",
             "release_date": "2023-03-17",
-            "vote_average": 6.2
+            "vote_average": 6.2,
+            "directors": [
+                "Nimrod Zalmanowitz",
+                "Brooks Kephart",
+                "Keith Splinter Davis",
+                "Anna Elizabeth James",
+                "Herbert James Winterstern",
+                "Herbert James Winterstern",
+                "Chelsea Tummolo",
+                "Benjamin M. Dessecker"
+            ],
+            "casts": [
+                "Skeet Ulrich",
+                "Anne Heche",
+                "Daniel Diemer",
+                "Jordan Kristine Seamón",
+                "Alec Baldwin",
+                "Richard Gunn",
+                "Praya Lundberg",
+                "Johnny Wactor",
+                "Anjul Nigam",
+                "Gabriel Clark",
+                "Rob Moran"
+            ]
+        }
+    },
+    {
+        "pk": 1118721,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1118721,
+            "title": "Quiero Tu Vida",
+            "genre_ids": [
+                35
+            ],
+            "overview": "",
+            "poster_path": "/hk2kW6uwTEa8cxDeF1UPfIpEYkF.jpg",
+            "release_date": "2023-05-03",
+            "vote_average": 6.5,
+            "directors": [
+                "Jorge Colón",
+                "Jorge Colón"
+            ],
+            "casts": [
+                "Erick Elías",
+                "Zuria Vega",
+                "Jesús Zavala",
+                "Bárbara de Regil",
+                "Natalia Téllez"
+            ]
         }
     },
     {
@@ -415,60 +1369,39 @@
             "overview": "휴가를 떠난 한 가족은 별장에 무단침입한 낯선 방문자들과 대치하게 된다. ‘레너드’(데이브 바티스타)와 낯선 방문자들은 세상의 종말을 막으러 왔다며, 가족 중 한 명을 희생시켜야만 인류의 멸망을 막을 수 있다는 잔혹한 선택을 하게 하는데… 가족을 살리면 인류가 멸망하고, 인류를 살리면 가족이 죽는다!",
             "poster_path": "/mCDSOfcVJfMkGUNrNpXWFO7oNBY.jpg",
             "release_date": "2023-02-01",
-            "vote_average": 6.4
-        }
-    },
-    {
-        "pk": 296271,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 296271,
-            "title": "더 데빌 컨스피러시",
-            "genre_ids": [
-                27,
-                14,
-                878,
-                53
+            "vote_average": 6.4,
+            "directors": [
+                "M. Night Shyamalan",
+                "M. Night Shyamalan",
+                "M. Night Shyamalan",
+                "Ishana Night Shyamalan",
+                "Anthony Keating"
             ],
-            "overview": "",
-            "poster_path": "/2lUYbD2C3XSuwqMUbDVDQuz9mqz.jpg",
-            "release_date": "2023-01-13",
-            "vote_average": 6.3
-        }
-    },
-    {
-        "pk": 994128,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 994128,
-            "title": "엘더리",
-            "genre_ids": [
-                27,
-                53,
-                14
-            ],
-            "overview": "",
-            "poster_path": "/31W5qM3rfsdJwQCWjDRXa00T8xJ.jpg",
-            "release_date": "2023-04-21",
-            "vote_average": 7.4
-        }
-    },
-    {
-        "pk": 875104,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 875104,
-            "title": "엽문: 종사각성",
-            "genre_ids": [
-                28,
-                12,
-                36,
-                18
-            ],
-            "overview": "1915년, 고향 불산을 떠나 홍콩에서 학교를 다니게 된 엽문은 예전 고향 집에서 일하던 호보풍과 재회한다. 어느 날, 엽문과 호보풍은 인신매매 현장을 목격하고 영국인 악당 무리와 싸움을 벌이게 된다. 영국인 악당 우두머리인 스타크는 호보풍의 여동생을 납치하고서 인질을 풀어주는 대가로 중국 무술인 영춘권과 영국 무술인 바티츠의 공개 대결을 제안하는데...",
-            "poster_path": "/u5inEFexijeDQdytlkoSspIoWsU.jpg",
-            "release_date": "2023-05-05",
-            "vote_average": 6.5
+            "casts": [
+                "Dave Bautista",
+                "Jonathan Groff",
+                "Ben Aldridge",
+                "Kristen Cui",
+                "Nikki Amuka-Bird",
+                "Rupert Grint",
+                "Abby Quinn",
+                "McKenna Kerrigan",
+                "Ian Merrill Peakes",
+                "Saria Chen",
+                "Clare Louise Frost",
+                "Odera Adimorah",
+                "Rose Luardo",
+                "Kittson O'Neill",
+                "Denise Nakano",
+                "Satomi Hofmann",
+                "Lee Avant",
+                "Kelvin Leung",
+                "Billy Vargus",
+                "Katy Murphy",
+                "Lya Yanne",
+                "Hanna Gaffney",
+                "Monica Fleurette"
+            ]
         }
     },
     {
@@ -486,7 +1419,111 @@
             "overview": "큐슈의 작은 마을에서 살고 있는 소녀 ‘스즈메’는 어느 날, 여행을 하며 ‘문’을 찾고 있는 한 청년을 만난다. 그의 뒤를 쫓아간 소녀는 산속 폐허에서 덩그러니 남겨진 낡은 문을 발견한다. 무언가에 이끌린 듯 ‘스즈메’는 문으로 손을 뻗는데…",
             "poster_path": "/kVS51ssZF1y0IXF342h54cIJ0EK.jpg",
             "release_date": "2022-11-11",
-            "vote_average": 7.9
+            "vote_average": 7.9,
+            "directors": [
+                "Makoto Shinkai",
+                "Makoto Shinkai",
+                "Makoto Shinkai",
+                "Makoto Shinkai",
+                "Makoto Shinkai",
+                "Satoshi Nishimura",
+                "Hiroshi Kawamata",
+                "Ai Yukimura",
+                "Daisuke Tokudo"
+            ],
+            "casts": [
+                "Nanoka Hara",
+                "Hokuto Matsumura",
+                "Eri Fukatsu",
+                "Shota Sometani",
+                "Sairi Ito",
+                "Kotone Hanase",
+                "Kana Hanazawa",
+                "Matsumoto Hakuō II",
+                "Ryunosuke Kamiki",
+                "Ann Yamane",
+                "Akari Miura",
+                "Aimi"
+            ]
+        }
+    },
+    {
+        "pk": 296271,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 296271,
+            "title": "더 데빌 컨스피러시",
+            "genre_ids": [
+                27,
+                14,
+                878,
+                53
+            ],
+            "overview": "",
+            "poster_path": "/2lUYbD2C3XSuwqMUbDVDQuz9mqz.jpg",
+            "release_date": "2023-01-13",
+            "vote_average": 6.3,
+            "directors": [
+                "Nathan Frankowski"
+            ],
+            "casts": [
+                "Alice Orr-Ewing",
+                "Joe Doyle",
+                "Eveline Hall",
+                "Peter Mensah",
+                "Joe Anderson",
+                "Brian Caspe",
+                "Spencer Wilding",
+                "James Faulkner",
+                "Victoria Chilap",
+                "Wendy Rosas",
+                "Natalia Germani",
+                "Pavel Kříž",
+                "Jiří Valeš",
+                "Anushka Holding",
+                "Kevin Michael Clarke",
+                "Jim High",
+                "Andrea Scarduzio",
+                "Natassia Bustamante",
+                "Petr Vaněk",
+                "Ilaria Antonello",
+                "William Lizr"
+            ]
+        }
+    },
+    {
+        "pk": 455476,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 455476,
+            "title": "세인트 세이야: 더 비기닝",
+            "genre_ids": [
+                14,
+                28,
+                12
+            ],
+            "overview": "강력한 힘을 가진 전쟁과 지혜의 신 ‘아테나’의 환생!\r 세상을 구할 수호 기사가 깨어난다!  어린 시절 누나 ‘패트리샤’가 납치된 후 홀로 자란 ‘세이야’\r 슬럼가 지하 격투장에서 벌어지는 결투로 근근이 살아가던 중,\r 위기의 상황에서 자신도 알지 못했던 미스터리한 힘이 발현되면서\r ‘아테나’를 찾고 있던 ‘구라드’의 무장 조직에게 쫓기게 된다.  수수께끼의 남자 ‘알먼 키도’에 의해 가까스로 목숨을 구한 ‘세이야’는\r 그를 따라 도착한 은신처에서 ‘아테나’의 환생인 ‘시에나’와 마주한다.  오래전, 다른 신들에 맞서 인간을 지키던 전쟁과 지혜의 신 ‘아테나’\r ‘알먼 키도’는 ‘시에나’에게 잠재된 ‘아테나’의 힘이 곧 깨어날 것이며,\r ‘세이야’는 ‘아테나’를 수호하고 세상을 지킬 성투사의 운명을 가졌다는 사실을 알려주는데...",
+            "poster_path": "/fBNl8kpFMz5ugi3RGYfenKctzjq.jpg",
+            "release_date": "2023-04-27",
+            "vote_average": 6.4,
+            "directors": [
+                "Andy Cheng",
+                "Tomek Baginski",
+                "Kouzou Morishita"
+            ],
+            "casts": [
+                "Mackenyu",
+                "Famke Janssen",
+                "Madison Iseman",
+                "Diego Tinoco",
+                "Mark Dacascos",
+                "Nick Stahl",
+                "Sean Bean",
+                "Kaylan Teague",
+                "Ryusei Iwata",
+                "T.J. Storm",
+                "David Torok"
+            ]
         }
     },
     {
@@ -501,7 +1538,81 @@
             "overview": "",
             "poster_path": "/d07xtqwq1uriQ1hda6qeu8Skt5m.jpg",
             "release_date": "2022-11-02",
-            "vote_average": 5.9
+            "vote_average": 5.8,
+            "directors": [
+                "Adrián García Bogliano"
+            ],
+            "casts": [
+                "María Evoli",
+                "Diana Bracho",
+                "Tina Romero",
+                "Norma Lazareno",
+                "Pilar Santacruz",
+                "Salvador Sánchez",
+                "Julio Bracho",
+                "Ramón Medína"
+            ]
+        }
+    },
+    {
+        "pk": 994128,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 994128,
+            "title": "엘더리",
+            "genre_ids": [
+                27,
+                53,
+                14
+            ],
+            "overview": "",
+            "poster_path": "/31W5qM3rfsdJwQCWjDRXa00T8xJ.jpg",
+            "release_date": "2023-04-21",
+            "vote_average": 7.1,
+            "directors": [
+                "Fernando González Gómez",
+                "Raúl Cerezo",
+                "Raúl Cerezo"
+            ],
+            "casts": [
+                "Irene Anula",
+                "Zorion Eguileor",
+                "Josele Román",
+                "Paula Gallego",
+                "Juan Acedo",
+                "Gustavo Salmerón",
+                "Carmen Ibeas"
+            ]
+        }
+    },
+    {
+        "pk": 875104,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 875104,
+            "title": "엽문: 종사각성",
+            "genre_ids": [
+                28,
+                12,
+                36,
+                18
+            ],
+            "overview": "1915년, 고향 불산을 떠나 홍콩에서 학교를 다니게 된 엽문은 예전 고향 집에서 일하던 호보풍과 재회한다. 어느 날, 엽문과 호보풍은 인신매매 현장을 목격하고 영국인 악당 무리와 싸움을 벌이게 된다. 영국인 악당 우두머리인 스타크는 호보풍의 여동생을 납치하고서 인질을 풀어주는 대가로 중국 무술인 영춘권과 영국 무술인 바티츠의 공개 대결을 제안하는데...",
+            "poster_path": "/u5inEFexijeDQdytlkoSspIoWsU.jpg",
+            "release_date": "2023-05-05",
+            "vote_average": 6.5,
+            "directors": [
+                "Zhang Zhulin",
+                "Li Xijie",
+                "Liu Bayin"
+            ],
+            "casts": [
+                "Tse Miu",
+                "Chen Guanying",
+                "Sergio De Ieso",
+                "Hou Tongjiang",
+                "Gu Lei"
+            ]
         }
     },
     {
@@ -518,22 +1629,22 @@
             "overview": "",
             "poster_path": "/A3qrVjsBd4IZ3QWHMs2x1dwRxuX.jpg",
             "release_date": "2023-04-27",
-            "vote_average": 6.5
-        }
-    },
-    {
-        "pk": 785084,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 785084,
-            "title": "더 웨일",
-            "genre_ids": [
-                18
+            "vote_average": 6.5,
+            "directors": [
+                "Franklin Ritch"
             ],
-            "overview": "272kg의 거구로 세상을 거부한 채 살아가는 대학 강사 찰리는 남은 시간이 얼마 없음을 느끼고 오랫동안 만나지 못한 10대 딸 엘리를 집으로 초대한다. 그리고, 매일 자신을 찾아와 에세이 한 편을 완성하면 전 재산을 주겠다고 제안한다.",
-            "poster_path": "/q0xV5Lnq30JiegbVGBOvVwrgUDT.jpg",
-            "release_date": "2022-12-09",
-            "vote_average": 8
+            "casts": [
+                "Tatum Matthews",
+                "David Girard",
+                "Sinda Nichols",
+                "Franklin Ritch",
+                "Lance Henriksen",
+                "Rashaud Sessoms",
+                "Alyssa Moody",
+                "Lucy Noelle",
+                "Andi Ciccotelli",
+                "Ivana Barnes"
+            ]
         }
     },
     {
@@ -549,41 +1660,134 @@
             "overview": "용병들이 결혼식 도중 외딴 리조트 호텔을 장악하고 인질로 잡은 사람들을 구출하기 위해 신랑, 베스트맨, 그리고 그의 술 취한 친구들의 인질 구조 작전",
             "poster_path": "/c9f6mFZqkyz4AD0sxGmynE1pe0v.jpg",
             "release_date": "2023-04-21",
-            "vote_average": 6
+            "vote_average": 6.1,
+            "directors": [
+                "Shane Dax Taylor",
+                "Daniel Zirilli"
+            ],
+            "casts": [
+                "Brendan Fehr",
+                "Dolph Lundgren",
+                "Luke Wilson",
+                "Nicky Whelan",
+                "Scout Taylor-Compton",
+                "Ryan Devlin",
+                "Andrey Ivchenko",
+                "Chris Mullinax",
+                "King Orba",
+                "Michael Proctor",
+                "Alex Reymundo"
+            ]
         }
     },
     {
-        "pk": 942199,
+        "pk": 785084,
         "model": "movies.movie",
         "fields": {
-            "movie_id": 942199,
-            "title": "시뮬런트",
+            "movie_id": 785084,
+            "title": "더 웨일",
             "genre_ids": [
-                878,
-                53
+                18
             ],
-            "overview": "",
-            "poster_path": "/kmDJhZIq1xnu5ZiMOlb0nHJH1qb.jpg",
-            "release_date": "2023-03-29",
-            "vote_average": 6.1
+            "overview": "272kg의 거구로 세상을 거부한 채 살아가는 대학 강사 찰리는 남은 시간이 얼마 없음을 느끼고 오랫동안 만나지 못한 10대 딸 엘리를 집으로 초대한다. 그리고, 매일 자신을 찾아와 에세이 한 편을 완성하면 전 재산을 주겠다고 제안한다.",
+            "poster_path": "/q0xV5Lnq30JiegbVGBOvVwrgUDT.jpg",
+            "release_date": "2022-12-09",
+            "vote_average": 8,
+            "directors": [
+                "Darren Aronofsky",
+                "Darren Aronofsky",
+                "Alexandra Torterotot",
+                "Duccio Fabbri",
+                "Alice Johnson",
+                "Hans Augustave"
+            ],
+            "casts": [
+                "Brendan Fraser",
+                "Sadie Sink",
+                "Hong Chau",
+                "Ty Simpkins",
+                "Samantha Morton",
+                "Sathya Sridharan",
+                "Jacey Sink",
+                "Wilhelm Schalaudek"
+            ]
         }
     },
     {
-        "pk": 605886,
+        "pk": 643215,
         "model": "movies.movie",
         "fields": {
-            "movie_id": 605886,
-            "title": "투 캐치 어 킬러",
+            "movie_id": 643215,
+            "title": "아스테릭스 & 오벨릭스: 더 미들 킹덤",
             "genre_ids": [
-                28,
-                80,
-                53,
-                9648
+                35,
+                12,
+                10751
             ],
             "overview": "",
-            "poster_path": "/mFp3l4lZg1NSEsyxKrdi0rNK8r1.jpg",
-            "release_date": "2023-04-06",
-            "vote_average": 7
+            "poster_path": "/hZvqv0iRg5S3Aqw3HjXw7gShG6g.jpg",
+            "release_date": "2023-02-01",
+            "vote_average": 4.8,
+            "directors": [
+                "Guillaume Canet",
+                "Chloé Rudolf",
+                "Carl Demaille",
+                "Sophie Clavaizolle",
+                "Clara Zegrodzki",
+                "Hélène Fabre",
+                "Virginie Jousset",
+                "Théo Richard",
+                "Angèle Pignon",
+                "Vianney Perez",
+                "Victoria Correia",
+                "Romain Hervieux",
+                "Julie Pliouchtch",
+                "Théodore Vuillequez"
+            ],
+            "casts": [
+                "Guillaume Canet",
+                "Gilles Lellouche",
+                "Vincent Cassel",
+                "Jonathan Cohen",
+                "Julie Chen",
+                "Leanna Chea",
+                "Marion Cotillard",
+                "José Garcia",
+                "Manu Payet",
+                "Ramzy Bedia",
+                "Bun-hay Mean",
+                "Linh-Dan Pham",
+                "Pierre Richard",
+                "Gérard Darmon",
+                "Tran Vu Tran",
+                "Philippe Katerine",
+                "Jérôme Commandeur",
+                "Audrey Lamy",
+                "Franck Gastambide",
+                "Vincent Desagnat",
+                "Orelsan",
+                "Laura Felpin",
+                "Issa Doumbia",
+                "Thomas Vandenberghe",
+                "Monsieur Fraize",
+                "Florian Ordonez",
+                "Olivio Ordonez",
+                "David Coscas",
+                "Raphaël Carlier",
+                "Tatiana Gousseff",
+                "Yann Papin",
+                "Angèle",
+                "Matthieu Chedid",
+                "Zlatan Ibrahimović",
+                "Samuel Hibon",
+                "Marc Hoang",
+                "Philippe Canet",
+                "Florent Manaudou",
+                "Ted Etienne",
+                "Ragnar Le Breton",
+                "Wesley Weigel",
+                "Sakhone Holaphong"
+            ]
         }
     },
     {
@@ -599,7 +1803,62 @@
             "overview": "",
             "poster_path": "/A7vFFZHbDyxfjuYKzJwruTnwwjT.jpg",
             "release_date": "2023-01-09",
-            "vote_average": 5.3
+            "vote_average": 5.3,
+            "directors": [
+                "Tibor Takács",
+                "Daniel Zirilli"
+            ],
+            "casts": [
+                "Tom Berenger",
+                "Cam Gigandet",
+                "Jeff Fahey",
+                "Jonathan Avigdori",
+                "Sara Seyed",
+                "Rafael Cabrera",
+                "Rodrigo Abed",
+                "Tonantzin Esparza"
+            ]
+        }
+    },
+    {
+        "pk": 942199,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 942199,
+            "title": "시뮬런트",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "overview": "",
+            "poster_path": "/kmDJhZIq1xnu5ZiMOlb0nHJH1qb.jpg",
+            "release_date": "2023-03-29",
+            "vote_average": 6.1,
+            "directors": [
+                "April Mullen",
+                "April Mullen"
+            ],
+            "casts": [
+                "Robbie Amell",
+                "Jordana Brewster",
+                "Simu Liu",
+                "Sam Worthington",
+                "Alicia Sanz",
+                "Mayko Nguyen",
+                "Masa Lizdek",
+                "Christine L. Nguyen",
+                "Emmanuel Kabongo",
+                "Samantha Helt",
+                "Keethan Krish",
+                "Vienna Hehir",
+                "Mercedes Leggett",
+                "Zarrin Darnell-Martin",
+                "Moni Ogunsuyi",
+                "Byron Abalos",
+                "Patrick Stevenson",
+                "Ivan Lopez",
+                "Tremaine Nelson"
+            ]
         }
     },
     {
@@ -617,41 +1876,26 @@
             "overview": "아기 팬더를 배달한 게 엊그제 같은데, 이번엔 아기 반달곰이 뚝! 떨어졌다. 그런데 무려, 동물왕국 대통령 후보의 아들이라고?! ‘믹믹’과 ‘오스카’는 동물왕국의 평화를 위해, 다시 한번 아기를 배달하기로 결심한다. 애니멀 특송단, 배달 시작합니다!",
             "poster_path": "/t4KQRvKUsRTw66cRiGD2w65oKdo.jpg",
             "release_date": "2022-10-07",
-            "vote_average": 6.5
-        }
-    },
-    {
-        "pk": 717728,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 717728,
-            "title": "지퍼스 크리퍼스: 리본",
-            "genre_ids": [
-                27,
-                53,
-                9648
+            "vote_average": 6.5,
+            "directors": [
+                "Vasiliy Rovenskiy"
             ],
-            "overview": "무시무시한 살인마 ‘크리퍼’의 존재에 푹 빠져 있는 호러 마니아 ‘체이스’와 그의 여자친구 ‘레인’. 그들은 마을에서 열리는 호러 마니아들의 축제, 호러 하운드 페스티벌에 참석한다. 순간 계속해서 떠오르는 정체 모를 기억과 소름 돋는 느낌에 레인은 혼란스러움을 느끼지만, 페스티벌 속 호러 이벤트에 당첨되어 신난 체이스를 따라 호러 저택 탐험을 떠난다. 한껏 고대하던 저택 탐험을 하게 된 설렘도 잠시, 무언가가 레인을 덮치고 체이스와 탐험 일행들은 피 비린내 나는 저택에 갇히게 되는데... 공포를 쫓던 호러 매니아들, 진짜 공포 ‘크리퍼’에게 쫓기다!",
-            "poster_path": "/yt0lsyn7ortWByXrHRScEmSisvO.jpg",
-            "release_date": "2022-09-15",
-            "vote_average": 5.7
-        }
-    },
-    {
-        "pk": 643215,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 643215,
-            "title": "아스테릭스 & 오벨릭스: 더 미들 킹덤",
-            "genre_ids": [
-                35,
-                12,
-                10751
-            ],
-            "overview": "",
-            "poster_path": "/hZvqv0iRg5S3Aqw3HjXw7gShG6g.jpg",
-            "release_date": "2023-02-01",
-            "vote_average": 4.8
+            "casts": [
+                "Daniil Medvedev",
+                "Bernard Jacobsen",
+                "Stephen Thomas Ochsner",
+                "Liza Klimova",
+                "Kate Lann",
+                "Jonathan Salway",
+                "Jordan Worsley",
+                "David Andrew Grout",
+                "Andrey Kurganov",
+                "Cayce Orion",
+                "Arthur Cook",
+                "Brodey Evan",
+                "Jacqueline Vouga",
+                "Josh Wilson"
+            ]
         }
     },
     {
@@ -670,7 +1914,94 @@
             "overview": "두 딸 ‘메어’, ‘노라’와 함께 시간을 보내기 위해 친구 ‘마틴’이 있는 남아프리카를 찾은 의사 ‘네이트’.  그러나 즐거운 여행도 잠시, 처참히 죽어 있는 마을 사람들을 목격한 이들은 곧이어 이 모든 상황을 벌인 사자에게 맹목적으로 쫓기기 시작한다.  무전조차 터지지 않는 고립된 지역에서 마을을 완전히 장악해버린 사자로부터 벗어나기 위해 서로 의지하며 고군분투하는데…",
             "poster_path": "/xp6EOh0HEN4bx4ot8UfcYnUpT8U.jpg",
             "release_date": "2022-08-11",
-            "vote_average": 6.8
+            "vote_average": 6.8,
+            "directors": [
+                "Baltasar Kormákur"
+            ],
+            "casts": [
+                "Idris Elba",
+                "Leah Sava Jeffries",
+                "Iyana Halley",
+                "Sharlto Copley",
+                "Martin Munro",
+                "Liyabuya Gongo",
+                "Daniel Hadebe",
+                "Thapelo Sebogodi",
+                "Mduduzi Mavimbela",
+                "Chris Gxalaba",
+                "Kazi Khuboni",
+                "Chris Langa"
+            ]
+        }
+    },
+    {
+        "pk": 605886,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 605886,
+            "title": "투 캐치 어 킬러",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                9648
+            ],
+            "overview": "",
+            "poster_path": "/mFp3l4lZg1NSEsyxKrdi0rNK8r1.jpg",
+            "release_date": "2023-04-06",
+            "vote_average": 7,
+            "directors": [
+                "Damián Szifron",
+                "Damián Szifron",
+                "Damián Szifron",
+                "Renato De Cotiis",
+                "Gaelle Renzaglia",
+                "Vincent Bélisle-Ducharme",
+                "Alejandro Valbuena",
+                "Marlee Gruss-Neidhardt",
+                "Ayesha Sheikh",
+                "Mathieu Jacques",
+                "Blanche Boisvert",
+                "Natalia Grijalva"
+            ],
+            "casts": [
+                "Shailene Woodley",
+                "Ben Mendelsohn",
+                "Jovan Adepo",
+                "Ralph Ineson",
+                "Rosemary Dunsmore",
+                "Jason Cavalier",
+                "Mark Camacho",
+                "Darcy Laurie",
+                "Karine Dion",
+                "Arthur Holden",
+                "Richard Zeman",
+                "Adam LeBlanc",
+                "Sean Tucker",
+                "Erniel Baez Duenas",
+                "Dusan Dukic",
+                "Bobby Brown",
+                "Mark Antony Krupa",
+                "Michael Cram",
+                "Nabil Khatib",
+                "Joan Hart",
+                "Teneisha Collins",
+                "Luc Morissette",
+                "Christian Jadah",
+                "Leyda Aleyli",
+                "Daniel Elston",
+                "Lilou Roy-Lanouette",
+                "Edith Dandenault",
+                "Ted Pluviose",
+                "Maxime Afshar",
+                "Patrick Labbé",
+                "Lesley Pahl",
+                "Alain Chanoine",
+                "Maurizio Terrazzano",
+                "Daniel Brochu",
+                "Martyne Musau",
+                "Dawn Lambing"
+            ]
         }
     },
     {
@@ -687,7 +2018,191 @@
             "overview": "첫 아이를 임신하게 된 발레리아는 사악한 존재에게 저주를 받는다. 끔찍하고 위험한 세계에 휩쓸리게 된 그녀가 마주친 한 무리의 마녀들은 그녀의 유일한 희망이자 구원으로 떠올랐지만 그렇다고 마냥 안심할 수는 없는데…모성과 욕망, 불안과 악령이 여성의 시선을 통해 기묘하게 결합된다.",
             "poster_path": "/aVw74MES2R0kdSN8JhbJC8Xpne9.jpg",
             "release_date": "2023-02-10",
-            "vote_average": 5.8
+            "vote_average": 5.8,
+            "directors": [
+                "Michelle Garza Cervera",
+                "Michelle Garza Cervera"
+            ],
+            "casts": [
+                "Natalia Solián",
+                "Alfonso Dosal",
+                "Mayra Batalla",
+                "Mercedes Hernández",
+                "Aida López",
+                "Martha Claudia Moreno",
+                "Enoc Leaño",
+                "Sonia Couoh",
+                "Samantha Castillo",
+                "Anahí Allue",
+                "Gabriela Velarde"
+            ]
+        }
+    },
+    {
+        "pk": 717728,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 717728,
+            "title": "지퍼스 크리퍼스: 리본",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "overview": "무시무시한 살인마 ‘크리퍼’의 존재에 푹 빠져 있는 호러 마니아 ‘체이스’와 그의 여자친구 ‘레인’. 그들은 마을에서 열리는 호러 마니아들의 축제, 호러 하운드 페스티벌에 참석한다. 순간 계속해서 떠오르는 정체 모를 기억과 소름 돋는 느낌에 레인은 혼란스러움을 느끼지만, 페스티벌 속 호러 이벤트에 당첨되어 신난 체이스를 따라 호러 저택 탐험을 떠난다. 한껏 고대하던 저택 탐험을 하게 된 설렘도 잠시, 무언가가 레인을 덮치고 체이스와 탐험 일행들은 피 비린내 나는 저택에 갇히게 되는데... 공포를 쫓던 호러 매니아들, 진짜 공포 ‘크리퍼’에게 쫓기다!",
+            "poster_path": "/yt0lsyn7ortWByXrHRScEmSisvO.jpg",
+            "release_date": "2022-09-15",
+            "vote_average": 5.7,
+            "directors": [
+                "Timo Vuorensola",
+                "Sean-Michael Argo",
+                "Sean-Michael Argo"
+            ],
+            "casts": [
+                "Sydney Craven",
+                "Imran Adams",
+                "Jarreau Benjamin",
+                "Peter Brooke",
+                "Ocean Navarro",
+                "Matt Barkley",
+                "Dee Wallace",
+                "Gary Graham",
+                "Gabriel Freilich",
+                "Georgia Goodman",
+                "Terry Bird",
+                "Colin Murtagh",
+                "Jodie Mcmullen",
+                "Alexander Halsall",
+                "Sophie Walker",
+                "Helen Lauren",
+                "Reece Shenton",
+                "Joseph Tanner Paul",
+                "Darren Kent",
+                "Romain Faure",
+                "George Hider",
+                "Karina Kinga Kiss",
+                "Al Derado",
+                "Faith Tarby",
+                "Paul Salway",
+                "Steve Saunders",
+                "Lydia None"
+            ]
+        }
+    },
+    {
+        "pk": 931954,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 931954,
+            "title": "비너스",
+            "genre_ids": [
+                18,
+                27,
+                53
+            ],
+            "overview": "도주 중인 클럽 댄서 루시아는 여동생 로시오가 딸 알바와 함께 살고 있는 마드리드 외곽의 불길한 건물로 피신합니다.",
+            "poster_path": "/vyQmDx5CF8x9T6WKCLuoFotGpjf.jpg",
+            "release_date": "2022-12-02",
+            "vote_average": 5.6,
+            "directors": [
+                "Jaume Balagueró",
+                "Jaume Balagueró",
+                "Álex de la Iglesia",
+                "María Giráldez",
+                "María Guerra",
+                "Elena Pardo",
+                "David de Barrio",
+                "Ana Mayandía",
+                "Joel Márquez",
+                "Rosa Fortuño Royo"
+            ],
+            "casts": [
+                "Ester Expósito",
+                "Ángela Cremonte",
+                "Inés Fernández",
+                "Magüi Mira",
+                "Aten Soria",
+                "María José Sarrate",
+                "Sofía Reyes",
+                "Fernando Valdivielso",
+                "Federico Aguado",
+                "Francisco Boira",
+                "Pedro Bachura",
+                "Alejandra Meco",
+                "Rocío Andrés Riber",
+                "Said Taibi",
+                "Sonsoles Benedicto",
+                "Lourdes Llamas",
+                "Nany Reyes",
+                "Claudia Apolonia",
+                "Pedro Piqueras"
+            ]
+        }
+    },
+    {
+        "pk": 989473,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 989473,
+            "title": "살인 초대장",
+            "genre_ids": [
+                9648,
+                53
+            ],
+            "overview": "",
+            "poster_path": "/8OyzvMrVx2tXjyJiE3GZpvaXE2T.jpg",
+            "release_date": "2023-05-05",
+            "vote_average": 6,
+            "directors": [
+                "Stephen Shimek"
+            ],
+            "casts": [
+                "Mischa Barton",
+                "Chris Browning",
+                "Seamus Dever",
+                "Bianca A. Santos",
+                "Giles Matthey",
+                "Grace Lynn Kung",
+                "Amy Sloan",
+                "Alex Hyde-White",
+                "Rae Gray",
+                "Curtis Edward Jackson",
+                "Clark Carmichael",
+                "Don Stuck",
+                "Peter Berwick"
+            ]
+        }
+    },
+    {
+        "pk": 876797,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 876797,
+            "title": "남은 인생 10년",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "overview": "스무 살이 되던 해, 수 만명 중 1명이 걸리는 난치병으로 10년의 삶을 선고받은 ‘마츠리’는 삶의 의지를 잃은 ‘카즈토’를 만나 사랑에 빠진다. 처음 만난 봄, 즐거운 여름, 아름답던 가을, 깊어진 겨울까지 하루하루 애틋하게 사랑한 두 사람 하지만 쌓이는 추억만큼 줄어드는 시간 앞에 결국 ‘마츠리’는 ‘카즈토’를 떠나기로 결심하는데…",
+            "poster_path": "/y2Ucvit19UUfsdLKlYyDz2ZfToS.jpg",
+            "release_date": "2022-03-04",
+            "vote_average": 7.1,
+            "directors": [
+                "Michihito Fujii"
+            ],
+            "casts": [
+                "Nana Komatsu",
+                "Kentaro Sakaguchi",
+                "Yuki Yamada",
+                "Haru Kuroki",
+                "Tetsushi Tanaka",
+                "Hideko Hara",
+                "Yutaka Matsushige",
+                "Lily Franky",
+                "Nao",
+                "Toko Miura",
+                "Hibiki Kitazawa"
+            ]
         }
     },
     {
@@ -704,7 +2219,41 @@
             "overview": "",
             "poster_path": "/bwdLflvCcOCRPqb1x13KPuYIzVx.jpg",
             "release_date": "2023-04-04",
-            "vote_average": 5.5
+            "vote_average": 5.5,
+            "directors": [
+                "Roger Kumble",
+                "Roger Kumble",
+                "Roger Kumble",
+                "Ivan Mitov",
+                "Shelly Stoyanova",
+                "Gerard DiNardi",
+                "Luukas Harlin",
+                "Karina Kostadinova",
+                "Atanas O. Vasilev"
+            ],
+            "casts": [
+                "Dylan Sprouse",
+                "Virginia Gardner",
+                "Austin North",
+                "Libe Barer",
+                "Rob Estes",
+                "Brian Austin Green",
+                "Autumn Reeser",
+                "Samuel Larsen",
+                "Manal El-Feitury",
+                "Jack Hesketh",
+                "Micky Dartford",
+                "Neil Bishop",
+                "Trevor Van Uden",
+                "Declan Michael Laird",
+                "Michael Cudlitz",
+                "Akshay Kumar",
+                "Owen Davis",
+                "Euan MacNaughton",
+                "Leart Dokle",
+                "Marko Novkov",
+                "Luboslav Velev"
+            ]
         }
     },
     {
@@ -720,7 +2269,38 @@
             "overview": "",
             "poster_path": "/18Jz0oJto5lwsZrQ11w3GKI6rtt.jpg",
             "release_date": "2023-04-14",
-            "vote_average": 7.8
+            "vote_average": 7.8,
+            "directors": [
+                "Martin Guigui",
+                "Martin Guigui"
+            ],
+            "casts": [
+                "Everett Osborne",
+                "Cary Elwes",
+                "Jeremy Piven",
+                "Eric Roberts",
+                "Jim Caviezel",
+                "Richard Dreyfuss",
+                "Kevin Pollak",
+                "Mike Starr",
+                "Jim Meskimen",
+                "Jason Sklar",
+                "Ashani Roberts",
+                "Robert Ri'chard",
+                "Paul Hipp",
+                "Eric Etebari",
+                "Gary Clark Jr.",
+                "Ernest Harden Jr.",
+                "Wayne Federman",
+                "Billy Malone",
+                "Dahlia Waingort",
+                "Ca'Ron Jaden Coleman",
+                "Delijah McAlpin",
+                "Dave Cobert",
+                "Herbert 'Flight Time' Lang",
+                "Joshua King Brooks",
+                "Steven Morse"
+            ]
         }
     },
     {
@@ -738,23 +2318,35 @@
             "overview": "동남아시아로 도피한 인터폴 수배자들을 이송할 움직이는 교도소 프론티어 타이탄. 극악무도한 이들과 베테랑 형사들이 필리핀 마닐라 항구에 모이고 탈출을 꿈꾸는 종두, 한국으로 돌아가야만 하는 도일을 비롯해 이들은 각자의 목적과 경계심을 품고 탑승한다. 한국으로 향하던 중, 태평양 한 가운데에서 이들에게는 지금까지 보지 못한 극한의 상황과 마주하게 되는데…",
             "poster_path": "/op2y1gvqKhAh4yAPLwc4PlX3XRv.jpg",
             "release_date": "2022-09-21",
-            "vote_average": 6.5
-        }
-    },
-    {
-        "pk": 876797,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 876797,
-            "title": "남은 인생 10년",
-            "genre_ids": [
-                18,
-                10749
+            "vote_average": 6.5,
+            "directors": [
+                "Kim Hong-sun",
+                "Kim Hong-sun"
             ],
-            "overview": "스무 살이 되던 해, 수 만명 중 1명이 걸리는 난치병으로 10년의 삶을 선고받은 ‘마츠리’는 삶의 의지를 잃은 ‘카즈토’를 만나 사랑에 빠진다. 처음 만난 봄, 즐거운 여름, 아름답던 가을, 깊어진 겨울까지 하루하루 애틋하게 사랑한 두 사람 하지만 쌓이는 추억만큼 줄어드는 시간 앞에 결국 ‘마츠리’는 ‘카즈토’를 떠나기로 결심하는데…",
-            "poster_path": "/y2Ucvit19UUfsdLKlYyDz2ZfToS.jpg",
-            "release_date": "2022-03-04",
-            "vote_average": 7.1
+            "casts": [
+                "Seo In-guk",
+                "Jang Dong-yoon",
+                "Park Ho-san",
+                "Jung So-min",
+                "Ko Chang-seok",
+                "Jang Young-nam",
+                "Sung Dong-il",
+                "Son Jong-hak",
+                "Lee Sung-wook",
+                "Hong Ji-yoon",
+                "Choi Gwi-hwa",
+                "Jung Moon-sung",
+                "Lim Ju-hwan",
+                "Kim Kang-hoon",
+                "Kim Moon-hak",
+                "Kim Chan-hyung",
+                "Kang Shin-chul",
+                "Ahn Ji-hye",
+                "Kang Jung-woo",
+                "Kim Dae-han",
+                "Sung Ryung",
+                "Kim Min-chul"
+            ]
         }
     },
     {
@@ -772,23 +2364,28 @@
             "overview": "",
             "poster_path": "/pDZchncQsRj2QIX8K0lzvM9mXGa.jpg",
             "release_date": "2023-05-19",
-            "vote_average": 4.3
-        }
-    },
-    {
-        "pk": 989473,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 989473,
-            "title": "살인 초대장",
-            "genre_ids": [
-                9648,
-                53
+            "vote_average": 5,
+            "directors": [
+                "Steven Luke"
             ],
-            "overview": "",
-            "poster_path": "/8OyzvMrVx2tXjyJiE3GZpvaXE2T.jpg",
-            "release_date": "2023-05-05",
-            "vote_average": 6
+            "casts": [
+                "Kellan Lutz",
+                "Tyrese Gibson",
+                "Michael Jai White",
+                "Dolph Lundgren",
+                "Vicellous Reon Shannon",
+                "Andrew Stecker",
+                "Hiram A. Murray",
+                "Javad Ramezani",
+                "Jeremy Michael Pereira",
+                "Martin Davis",
+                "Aaron Courteau",
+                "Sayge Terrell",
+                "Edward T Neequaye",
+                "K'Juan Chandler",
+                "Mike Dittmer",
+                "Cedric Mckinzie"
+            ]
         }
     },
     {
@@ -806,24 +2403,112 @@
             "overview": "",
             "poster_path": "/yf7aXA3qC3MA5fqnBmnFsrdZDDN.jpg",
             "release_date": "2023-05-19",
-            "vote_average": 5.8
+            "vote_average": 5.8,
+            "directors": [
+                "Anthony Hines",
+                "Casper Christensen"
+            ],
+            "casts": [
+                "Jack Whitehall",
+                "Shailene Woodley",
+                "Chelsea Edmundson",
+                "Emanuela Postacchini",
+                "Samantha Ashley",
+                "Casey Messer",
+                "Jackamoe Buzzell",
+                "David Grant Wright",
+                "Paul Jurewicz",
+                "Paul Rust"
+            ]
         }
     },
     {
-        "pk": 931954,
+        "pk": 950141,
         "model": "movies.movie",
         "fields": {
-            "movie_id": 931954,
-            "title": "비너스",
+            "movie_id": 950141,
+            "title": "Organ Trail",
             "genre_ids": [
-                18,
-                27,
-                53
+                37,
+                27
             ],
-            "overview": "도주 중인 클럽 댄서 루시아는 여동생 로시오가 딸 알바와 함께 살고 있는 마드리드 외곽의 불길한 건물로 피신합니다.",
-            "poster_path": "/vyQmDx5CF8x9T6WKCLuoFotGpjf.jpg",
-            "release_date": "2022-12-02",
-            "vote_average": 5.6
+            "overview": "",
+            "poster_path": "/s9nwiVMOVvnS2Jt6hdy7UHoFSD0.jpg",
+            "release_date": "2023-04-14",
+            "vote_average": 6.3,
+            "directors": [
+                "Michael Patrick Jann",
+                "Michael Patrick Jann"
+            ],
+            "casts": [
+                "Zoé De Grand Maison",
+                "Nicholas Logan",
+                "Olivia Grace Applegate",
+                "Michael Abbott Jr.",
+                "Jessica Frances Dukes",
+                "Clé Bennett",
+                "Sam Trammell",
+                "Alejandro Akara"
+            ]
+        }
+    },
+    {
+        "pk": 818397,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 818397,
+            "title": "메모리",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "overview": "단 한번의 실패도 실수도 용납할 수 없는 킬러 ‘알렉스’(리암 니슨). 어느 날, 그에게 새로운 의뢰가 들어온다.  오직 자신의 신념에 따라 움직인 그는 이 사건에 한 소녀가 연관되어 있음을 알게 되고 단칼에 거절한다.  의뢰를 거절했다는 이유로, 모두의 표적이 되어버린 그는 오래된 병으로 인해 희미해져 가는 기억을 붙잡고,  소녀와 자신을 지키기 위해 의뢰에 연관된 모든 것들을 응징하기로 한다.  한편, 멕시코 국경에서 사건을 맹렬히 쫓던 FBI 요원 ‘빈센트’(가이 피어스)는 ‘알렉스’를 만나게 되고, 두 사람은 이 사건의 거대한 비밀과 마주하게 되는데···  사라지는 기억, 더욱 선명해지는 정의! 마지막 응징이 시작된다!",
+            "poster_path": "/fWkFnlCQLtfIBGnhMKVw2dttEDk.jpg",
+            "release_date": "2022-04-28",
+            "vote_average": 7,
+            "directors": [
+                "Martin Campbell"
+            ],
+            "casts": [
+                "Liam Neeson",
+                "Guy Pearce",
+                "Taj Atwal",
+                "Harold Torres",
+                "Monica Bellucci",
+                "Ray Stevenson",
+                "Stella Stocker",
+                "Antonio Jaramillo",
+                "Louis Mandylor",
+                "Ray Fearon",
+                "Lee Boardman",
+                "Rebecca Calder",
+                "Natalie Anderson",
+                "Harold Torres",
+                "Atanas Srebrev",
+                "Scot Williams",
+                "Kate Nichols",
+                "Trevor Van Uden",
+                "Sigal Diamant",
+                "Doug Rao",
+                "Daniel De Bourg",
+                "Mia Sanchez",
+                "Petar Kirilov",
+                "J.R. Esposito",
+                "Kalina Stancheva",
+                "Josh Taylor",
+                "Vlado Mihailov",
+                "Josh Macrena",
+                "Tudor Chirilă",
+                "Sofia Soltess",
+                "Lyubomir Bachvarov",
+                "Mariana Krumova",
+                "Danaya Velinova",
+                "Neda Spasova",
+                "Devina Vassileva",
+                "Dee",
+                "Raluca Aprodu"
+            ]
         }
     },
     {
@@ -841,24 +2526,71 @@
             "overview": "꿀성대, 수트 핏, 어나더 레벨 액션, 모든 것이 완벽한 스파이 ‘포춘’과 전 세계 최고 요원들이 뭉쳐 세계 평화를 지키기 위해 고군분투하는 첩보 액션 블록버스터",
             "poster_path": "/gEFzlw5tnkJYthVfDS8WuIDZAhU.jpg",
             "release_date": "2023-01-04",
-            "vote_average": 6.6
-        }
-    },
-    {
-        "pk": 818397,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 818397,
-            "title": "메모리",
-            "genre_ids": [
-                28,
-                53,
-                80
+            "vote_average": 6.6,
+            "directors": [
+                "Guy Ritchie",
+                "Guy Ritchie",
+                "Guy Ritchie",
+                "Max Keene",
+                "Max Keene",
+                "Aaron Winckler",
+                "Ulas Parlakyildiz",
+                "Michela Marini",
+                "Paul Bennett",
+                "Norina Mackey",
+                "Hannah Adey",
+                "Cansu Nur Gunevi",
+                "Buse Halaçoğlu",
+                "Duygu Öztürk Yerlikaya",
+                "Hasret Arpaci",
+                "Barney Hughes"
             ],
-            "overview": "단 한번의 실패도 실수도 용납할 수 없는 킬러 ‘알렉스’(리암 니슨). 어느 날, 그에게 새로운 의뢰가 들어온다.  오직 자신의 신념에 따라 움직인 그는 이 사건에 한 소녀가 연관되어 있음을 알게 되고 단칼에 거절한다.  의뢰를 거절했다는 이유로, 모두의 표적이 되어버린 그는 오래된 병으로 인해 희미해져 가는 기억을 붙잡고,  소녀와 자신을 지키기 위해 의뢰에 연관된 모든 것들을 응징하기로 한다.  한편, 멕시코 국경에서 사건을 맹렬히 쫓던 FBI 요원 ‘빈센트’(가이 피어스)는 ‘알렉스’를 만나게 되고, 두 사람은 이 사건의 거대한 비밀과 마주하게 되는데···  사라지는 기억, 더욱 선명해지는 정의! 마지막 응징이 시작된다!",
-            "poster_path": "/fWkFnlCQLtfIBGnhMKVw2dttEDk.jpg",
-            "release_date": "2022-04-28",
-            "vote_average": 7
+            "casts": [
+                "Jason Statham",
+                "Aubrey Plaza",
+                "Josh Hartnett",
+                "Hugh Grant",
+                "Cary Elwes",
+                "Bugzy Malone",
+                "Peter Ferdinando",
+                "Eddie Marsan",
+                "Lourdes Faberes",
+                "Max Beesley",
+                "Sam Douglas",
+                "Aksel Üstün",
+                "Oliver Maltman",
+                "Ergun Kuyucu",
+                "Eugenia Kuzmina",
+                "Vincent Wang",
+                "Kaan Urgancıoğlu",
+                "Tim Seyfi",
+                "Nicholas Facey",
+                "Ian Bartholomew",
+                "Tom Rosenthal",
+                "Parker Sawyers",
+                "Ayhan Eroğlu",
+                "Savaş Ak",
+                "Matthew Hawksley",
+                "Zehra Karadağ",
+                "Oleksandra Zharikova",
+                "Mishel Lazarenko",
+                "Bensu Uğur",
+                "Merve Akman",
+                "Ozan Ayhan",
+                "Doğan Barış Yaşar",
+                "Bestemsu Özdemir",
+                "Kerim Pehlivan",
+                "Conor MacNeill",
+                "Begzat Ergeshov",
+                "Çağdaş Agun",
+                "Gökhan Demirbaş",
+                "Md Numan Ahmed",
+                "Antonio Bustorff",
+                "Joshua Flickema",
+                "Amy Jackson",
+                "James Travis",
+                "Sinan Yildiz"
+            ]
         }
     },
     {
@@ -875,7 +2607,38 @@
             "overview": "내 이름은 사라. 나를 돼지라 부르며 괴롭히던 친구들이 납치당하는 것을 보게 되었다. 작은 마을에서 살인 사건도 벌어졌다.끔찍한 사건의 유일한 목격자가 된 것 같다 그렇다면… 신고한다VS 안 한다",
             "poster_path": "/xRdV63kKgWoEwt022e75OBlDeEO.jpg",
             "release_date": "2022-10-07",
-            "vote_average": 6.7
+            "vote_average": 6.7,
+            "directors": [
+                "Álvaro Longoria",
+                "Sara San Martín",
+                "Carlota Pereda",
+                "Carlota Pereda",
+                "Carlota Pereda"
+            ],
+            "casts": [
+                "Laura Galán",
+                "Richard Holmes",
+                "Carmen Machi",
+                "Irene Ferreiro",
+                "Camille Aguilar",
+                "Claudia Salas",
+                "José Pastor",
+                "Fernando Delgado-Hierro",
+                "Julián Valcárcel",
+                "Amets Otxoa",
+                "Pilar Castro",
+                "Chema del Barco",
+                "Fred Tatien",
+                "Stéphanie Magnin",
+                "Malena Gutiérrez",
+                "Ana Trinidad",
+                "Lía Lois",
+                "Mabel del Pozo",
+                "José Vicente Moirón",
+                "Calero",
+                "Jarfaiter",
+                "José Luis Cantón"
+            ]
         }
     },
     {
@@ -893,7 +2656,25 @@
             "overview": "SOFT & QUIET 라는  같은 생각을 가진 여성들의 창립 동아리 모임을 조직하는 초등학교 교사 에밀리.  모임에서 그녀는 와인을 계속 마시기 위해 모임을 에밀리의 집으로 옮기기로 결정한다.  다과를 사러 들린 동네 가게에서 에밀리와 그룹 사이에 말다툼이 발생하여 불안정한 기류속에 일련의 사건이 발생한다.",
             "poster_path": "/hrtO0sVcXolaiIjVoOADO2M24jm.jpg",
             "release_date": "2022-11-04",
-            "vote_average": 6
+            "vote_average": 6,
+            "directors": [
+                "Kate Alden",
+                "Beth de Araújo",
+                "Beth de Araújo",
+                "Beth de Araújo",
+                "Claudia Anahí Ramirez"
+            ],
+            "casts": [
+                "Stefanie Estes",
+                "Olivia Luccardi",
+                "Eleanore Pienta",
+                "Dana Millican",
+                "Melissa Paulo",
+                "Jon Beavers",
+                "Cissy Ly",
+                "Rebekah Wiggins",
+                "Shannon Mahoney"
+            ]
         }
     },
     {
@@ -909,7 +2690,192 @@
             "overview": "17세기 엄격한 사회 질서에 숨막혀 하는 미국 상류층 로즈는 사교계의 굴레에서 벗어나지 못하는 어머니와 권위적인 재벌 귀족 약혼자와 함께 미국으로 향하는 타이타닉호 1등실에 승선한다. 부두의 선술집에서 도박으로 운 좋게 타이타닉호의 3등실 티켓을 얻은 가난한 화가 잭 역시 아슬아슬하게 배에 승선한다. 첫 눈에 로즈에게 반한 잭은 갑판에서 바다로 몸을 던지려 하는 로즈를 발견하고 재치 있는 언변과 행동으로 그녀의 생명을 구한다. 이 사건을 계기로 1등실의 저녁식사에 초대받게 되고 서로에게 끌리는 자신들을 발견한다.",
             "poster_path": "/132KjhVrWUqKFVfMAKKNkherytA.jpg",
             "release_date": "1997-11-18",
-            "vote_average": 7.9
+            "vote_average": 7.9,
+            "directors": [
+                "James Cameron",
+                "James Cameron",
+                "James Cameron",
+                "James Cameron",
+                "Josh McLaglen",
+                "Aaron Schneider",
+                "Steven Quale",
+                "Al Giddings",
+                "Guy Norman Bee",
+                "Shelley Crawford"
+            ],
+            "casts": [
+                "Leonardo DiCaprio",
+                "Kate Winslet",
+                "Billy Zane",
+                "Kathy Bates",
+                "Frances Fisher",
+                "Gloria Stuart",
+                "Victor Garber",
+                "Bill Paxton",
+                "Bernard Hill",
+                "David Warner",
+                "Jonathan Hyde",
+                "Suzy Amis",
+                "Nicholas Cascone",
+                "Danny Nucci",
+                "Jason Barry",
+                "Lew Palter",
+                "Eric Braeden",
+                "Ewan Stewart",
+                "Bernard Fox",
+                "Ioan Gruffudd",
+                "Jonny Phillips",
+                "Edward Fletcher",
+                "Scott G. Anderson",
+                "Martin East",
+                "Gregory Cooke",
+                "Alexandrea Owens",
+                "Seth Adkins",
+                "Michael Ensign",
+                "Anatoly M. Sagalevitch",
+                "Martin Hub",
+                "Mark Lindsay Chapman",
+                "Richard Graham",
+                "Paul Brightwell",
+                "Craig Kelly",
+                "Ron Donachie",
+                "Charlotte Chatton",
+                "Fannie Brett",
+                "Jenette Goldstein",
+                "Camilla Overbye Roos",
+                "Linda Kerns",
+                "Amy Gaipa",
+                "Martin Jarvis",
+                "Rosalind Ayres",
+                "Rochelle Rose",
+                "Jonathan Evans-Jones",
+                "Liam Tuohy",
+                "James Lancaster",
+                "Elsa Raven",
+                "Reece P. Thompson III",
+                "Laramie Landis",
+                "Mark Rafael Truitt",
+                "John Walcutt",
+                "Derek Lea",
+                "Richard Ashton",
+                "Sean Nepita",
+                "Brendan Connolly",
+                "Garth Wilton",
+                "Richard Fox",
+                "Nick Meaney",
+                "Kevin Owers",
+                "Mark Capri",
+                "Chris Byrne",
+                "Oliver Page",
+                "James Garrett",
+                "Erik Holland",
+                "Jari Kinnunen",
+                "Barry Dennen",
+                "Vern Urich",
+                "Rebecca Klingler",
+                "Tricia O'Neil",
+                "Romeo Francis",
+                "Mandana Marino",
+                "Bjørn Olsen",
+                "Dan Pettersson",
+                "Shay Duffin",
+                "Greg Ellis",
+                "Diana Morgan",
+                "Kris Andersson",
+                "Bobbie Bates",
+                "Aaron James Cash",
+                "Edmond Alan Forsyth",
+                "Scott Hislop",
+                "Stan Mazin",
+                "Lisa Ratzin",
+                "Julene Renee",
+                "Brian Walsh",
+                "Alexandra Boyd",
+                "Mike Butters",
+                "Bruno Campolo",
+                "Sean Lawlor",
+                "Don Lynch",
+                "Ryan McClurkin",
+                "Meghan McLeod",
+                "Phil Parlapiano",
+                "Olivia Rosewood",
+                "John Slade",
+                "Brian McDermott"
+            ]
+        }
+    },
+    {
+        "pk": 931935,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 931935,
+            "title": "La extorsión",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "overview": "",
+            "poster_path": "/fn3Z1gfVUDWd8ZQ9m2VhdwCFCMW.jpg",
+            "release_date": "2023-04-06",
+            "vote_average": 7.1,
+            "directors": [
+                "Martino Zaidelis"
+            ],
+            "casts": [
+                "Guillermo Francella",
+                "Pablo Rago",
+                "Andrea Frigerio",
+                "Carlos Portaluppi",
+                "Alberto Ajaka",
+                "Guillermo Arengo",
+                "Mónica Villa",
+                "Ruben Cirocco"
+            ]
+        }
+    },
+    {
+        "pk": 901563,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 901563,
+            "title": "클로즈",
+            "genre_ids": [
+                18
+            ],
+            "overview": "서로가 세상의 전부였던 레오와 레미는 친구들에게 관계를 의심받기 시작한다. 이후 낯선 시선이 두려워진 레오는 레미와 거리를 두고, 홀로 남겨진 레미는 걷잡을 수 없는 감정에 빠져들고 만다. 점차 균열이 깊어져 가던 어느 날, 레오는 믿을 수 없는 현실을 마주하게 되는데...",
+            "poster_path": "/2zWgF5rHhoi42foPKOayVJQooLd.jpg",
+            "release_date": "2022-11-01",
+            "vote_average": 7.8,
+            "directors": [
+                "Lukas Dhont",
+                "Lukas Dhont",
+                "Siel Van Daele",
+                "Michiel Dhont",
+                "Elise Van Durme",
+                "Anéline Plateau"
+            ],
+            "casts": [
+                "Eden Dambrine",
+                "Gustav De Waele",
+                "Émilie Dequenne",
+                "Léa Drucker",
+                "Igor van Dessel",
+                "Kevin Janssens",
+                "Marc Weiss",
+                "Léon Bataille",
+                "Serine Ayari",
+                "Robin Keyaert",
+                "Herman van Slambrouck",
+                "Iven Deduytschaver",
+                "Jeffrey Vanhaeren",
+                "Hélène Theunissen",
+                "Baptiste Bataille",
+                "Pieter Piron",
+                "Freya De Corte",
+                "Cachou Kirsch",
+                "Ahlaam Teghadouini",
+                "Hervé Guerrisi"
+            ]
         }
     },
     {
@@ -925,38 +2891,22 @@
             "overview": "",
             "poster_path": "/aGp9ghdIcw74K2VJ1Godcsb9MQo.jpg",
             "release_date": "2022-12-28",
-            "vote_average": 6.8
-        }
-    },
-    {
-        "pk": 950141,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 950141,
-            "title": "Organ Trail",
-            "genre_ids": [
-                37,
-                27
+            "vote_average": 6.8,
+            "directors": [
+                "Julio Soto Gurpide"
             ],
-            "overview": "",
-            "poster_path": "/s9nwiVMOVvnS2Jt6hdy7UHoFSD0.jpg",
-            "release_date": "2023-04-14",
-            "vote_average": 7
-        }
-    },
-    {
-        "pk": 901563,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 901563,
-            "title": "클로즈",
-            "genre_ids": [
-                18
-            ],
-            "overview": "서로가 세상의 전부였던 레오와 레미는 친구들에게 관계를 의심받기 시작한다. 이후 낯선 시선이 두려워진 레오는 레미와 거리를 두고, 홀로 남겨진 레미는 걷잡을 수 없는 감정에 빠져들고 만다. 점차 균열이 깊어져 가던 어느 날, 레오는 믿을 수 없는 현실을 마주하게 되는데...",
-            "poster_path": "/2zWgF5rHhoi42foPKOayVJQooLd.jpg",
-            "release_date": "2022-11-01",
-            "vote_average": 7.8
+            "casts": [
+                "Fernando Cabrera",
+                "Catherina Martínez",
+                "Ana Jiménez",
+                "Txema Moscoso",
+                "Vicente Gil",
+                "Jesús Barreda",
+                "Pedro Tena Ramos",
+                "María Luisa Marciel",
+                "Isabel Donate",
+                "Juan Rueda"
+            ]
         }
     },
     {
@@ -972,55 +2922,35 @@
             "overview": "",
             "poster_path": "/6toz74j1OgbQrsZUjgr2Ohs1AsE.jpg",
             "release_date": "2023-03-23",
-            "vote_average": 7
-        }
-    },
-    {
-        "pk": 800301,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 800301,
-            "title": "왓츠 러브 갓 투 두 위드 잇?",
-            "genre_ids": [
-                10749,
-                35
+            "vote_average": 7,
+            "directors": [
+                "Zach Braff",
+                "Neil Daly",
+                "Janissa Ramirez"
             ],
-            "overview": "",
-            "poster_path": "/14fGGPAL5PQxuesjO4CFoDJEH5G.jpg",
-            "release_date": "2023-01-26",
-            "vote_average": 6.3
-        }
-    },
-    {
-        "pk": 619329,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 619329,
-            "title": "முந்திரிக்காடு",
-            "genre_ids": [
-                18,
-                28
-            ],
-            "overview": "",
-            "poster_path": "/k7iEwxmphkr1bwb66CHA4dhyyBF.jpg",
-            "release_date": "2023-04-07",
-            "vote_average": 4.3
-        }
-    },
-    {
-        "pk": 497828,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 497828,
-            "title": "슬픔의 삼각형",
-            "genre_ids": [
-                35,
-                18
-            ],
-            "overview": "호화 크루즈에 협찬으로 승선한 인플루언서 모델 커플. 각양각색의 부자들과 휴가를 즐기던 사이, 뜻밖의 사건으로 배가 전복되고 8명만이 간신히 무인도에 도착한다. 할 줄 아는 거라곤 구조 대기뿐인 사람들. 이때 존재감을 드러내는 건...",
-            "poster_path": "/ltEblZr0pwTf585kbrZSWyNf4uj.jpg",
-            "release_date": "2022-09-18",
-            "vote_average": 7.2
+            "casts": [
+                "Florence Pugh",
+                "Morgan Freeman",
+                "Molly Shannon",
+                "Celeste O'Connor",
+                "Zoe Lister-Jones",
+                "Chinaza Uche",
+                "Toby Onwumere",
+                "Nichelle Hines",
+                "Ignacio Diaz-Silverio",
+                "Oli Green",
+                "Brian Rojas",
+                "Ryann Redmond",
+                "Sydney Morton",
+                "Jackie Hoffman",
+                "Victor Cruz",
+                "Izzy Raye",
+                "Anthony Cedeño",
+                "Alexander Nicastro",
+                "Emilia Suárez",
+                "Lauren Yaffe",
+                "Alex Wolff"
+            ]
         }
     },
     {
@@ -1038,7 +2968,497 @@
             "overview": "그레이트노스웨스트 지역에 위치한 샌티부론 교도소는 초능력자 죄수들을 가두기 위해 세워진 곳으로 온갖 괴물, 사이보그 그리고 돌연변이들이 넘쳐난다. 그중에 가장 악명 높은 죄수는 추적할 수 없는 재산을 가진 슈퍼 천재 '러브'이다. 부정부패의 온상인 교도소 총책임자 데블린의 유일한 관심은 러브의 숨겨진 재산이다. 이 교도소의 불안한 평화는 불온한 의도로 교도소에 잠입한 살인 자경단 페이백과 날조된 형량을 받은 디에고 도벌이 등장하면서 위기에 처한다. 수감자와 간수들 사이에 긴장이 고조되면서 교도소는 무정부 상태가 되고 질서는 발칵 뒤집힌다.",
             "poster_path": "/fAKWgJxfmogyXEcae7lGkC39GvX.jpg",
             "release_date": "2022-04-29",
-            "vote_average": 5.3
+            "vote_average": 5.3,
+            "directors": [
+                "Sean Patrick O'Reilly"
+            ],
+            "casts": [
+                "Bruce Willis",
+                "Michael Rooker",
+                "Hayley Sales",
+                "Kat Ruston",
+                "Matthew Kevin Anderson",
+                "Doug Bradley",
+                "Tom Cavanagh",
+                "Dan Payne",
+                "Brennan Mejia",
+                "Daniel Cudmore",
+                "Kevin Zegers",
+                "Malcolm Sparrow-Crawford",
+                "Celia Aloma",
+                "Chase James"
+            ]
+        }
+    },
+    {
+        "pk": 800301,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 800301,
+            "title": "왓츠 러브 갓 투 두 위드 잇?",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "overview": "",
+            "poster_path": "/14fGGPAL5PQxuesjO4CFoDJEH5G.jpg",
+            "release_date": "2023-01-26",
+            "vote_average": 6.3,
+            "directors": [
+                "Shekhar Kapur",
+                "Sarmad Masud"
+            ],
+            "casts": [
+                "Lily James",
+                "Shazad Latif",
+                "Shabana Azmi",
+                "Emma Thompson",
+                "Sajal Ali",
+                "Oliver Chris",
+                "Asim Chaudhry",
+                "Jeff Mirza",
+                "Alice Orr-Ewing",
+                "Shaheen Khan",
+                "Sindhu Vee",
+                "Hamzah Ahmed"
+            ]
+        }
+    },
+    {
+        "pk": 497828,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 497828,
+            "title": "슬픔의 삼각형",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "overview": "호화 크루즈에 협찬으로 승선한 인플루언서 모델 커플. 각양각색의 부자들과 휴가를 즐기던 사이, 뜻밖의 사건으로 배가 전복되고 8명만이 간신히 무인도에 도착한다. 할 줄 아는 거라곤 구조 대기뿐인 사람들. 이때 존재감을 드러내는 건...",
+            "poster_path": "/ltEblZr0pwTf585kbrZSWyNf4uj.jpg",
+            "release_date": "2022-09-18",
+            "vote_average": 7.2,
+            "directors": [
+                "Ruben Östlund",
+                "Ruben Östlund",
+                "Ruben Östlund",
+                "Mikel Cee Karlsson",
+                "Mikel Cee Karlsson",
+                "Pierre Wallon",
+                "Rikard Waxin",
+                "Rikard Waxin",
+                "Yorgos Korakianitis",
+                "Anna Hällgren",
+                "Linton Lundin",
+                "Markus Lusth",
+                "Christoffer Sjöman"
+            ],
+            "casts": [
+                "Harris Dickinson",
+                "Charlbi Dean",
+                "Woody Harrelson",
+                "Zlatko Burić",
+                "Vicki Berlin",
+                "Dolly de Leon",
+                "Henrik Dorsin",
+                "Iris Berben",
+                "Jean-Christophe Folly",
+                "Amanda Walker",
+                "Oliver Ford Davies",
+                "Sunnyi Melles",
+                "Thobias Thorwid",
+                "Jiannis Moustos",
+                "Timoleon Gketsos",
+                "Alicia Eriksson",
+                "Carolina Gynning",
+                "Ralph Schicha",
+                "Arvin Kananian",
+                "Mia Benson",
+                "Stefan Gödicke",
+                "Nana Manu",
+                "Fredrik Quinones",
+                "Filip Roséen",
+                "Chidiegwu Chidi",
+                "Charlie Westerberg",
+                "Erik Andersson",
+                "Hamlet Talje Willoughby",
+                "Victor Köhler",
+                "Daniel Estehghari",
+                "Alfons Miari",
+                "Isak Barrow",
+                "Alexander Virenhem",
+                "Malte Gårdinger",
+                "Alfred Lindström",
+                "Augustine Kajue",
+                "William-Patrik Molvén",
+                "Florand Kaufeldt",
+                "Theodor Öhrn",
+                "Jin Zou",
+                "David Alexanderson",
+                "Olof Källström",
+                "Julian Redaelli",
+                "Egil Ahlenius",
+                "Carl Jood",
+                "Chand Smith",
+                "Malick Afocozi",
+                "Ludvig Fast",
+                "Victor Norlander",
+                "Anton Isaksson",
+                "Brian Kamara",
+                "Eric Svirins",
+                "Hugo Palm",
+                "Simon Bredenberg",
+                "Noa Del Castillo Hallberg",
+                "Ann-Sofi Back",
+                "Robert Rydberg",
+                "Robert Nordberg",
+                "Charlotte Brattin",
+                "Mira Uszkureit",
+                "Alex Schulman",
+                "Amanda Schulman",
+                "Emma Warg",
+                "Christina Saliba",
+                "Karin Myrenberg Faber",
+                "Linnea Olsson",
+                "Asta Stensson",
+                "Elsa Sjökvist",
+                "Johanna Ovelius",
+                "Shaniaz Hama Ali",
+                "Catrin Nilsson",
+                "Jacob Papinniemi",
+                "Mimmi Brundin",
+                "Ellen Dixdotter",
+                "Sofia Lücke",
+                "Ronja Kruus",
+                "Chris Westerstrom",
+                "Hedda Rehnberg",
+                "Robert Martufi",
+                "Hanna Oldenburg",
+                "Arnella Zetterström",
+                "Sepideh Mazloom",
+                "Eric Dernsjö",
+                "Nikolas Drosopoulos",
+                "Chrysanthi Theodosi",
+                "Maria Alexiou",
+                "Marilena Lampropoulou",
+                "Christos Ntoulas",
+                "Nikolas Chalkiadakis",
+                "Grace Milaszewski",
+                "Melina Marksaitis",
+                "Theresa Johannesson",
+                "Leocilyn Capanas",
+                "Nanette Lipponen",
+                "Maria Danica Herrera",
+                "Maria Grace Concepcion",
+                "Kristin Delfinado",
+                "Shanilou Del Mundo",
+                "John Michael Yadao",
+                "Freedom Ziad Ahmed",
+                "Robert Jomar",
+                "Garry Villador Deveratturda",
+                "Christopher Janiola",
+                "Mario Rowen Bugtai",
+                "Mohamed Lachras",
+                "Taye Nathanail",
+                "Athanasios Papaioannou",
+                "Alexandros Sargologos",
+                "Allen Bandiola",
+                "Nicolas Refin",
+                "Lontoc Rolyn",
+                "John Paul Paugio",
+                "John Paulo",
+                "Anne Brocklin Bergman",
+                "Johnny Bergman",
+                "Fredrik Wikingsson",
+                "Henrik Thott",
+                "Thomas Peteus",
+                "Magnus Jeansson",
+                "Stefan Martikainen",
+                "Britt-Marie Svensson",
+                "Arash Raoufi",
+                "Nafiseh Hadizadeh",
+                "Inga Hahn",
+                "Lennart Hahn",
+                "Linda Anborg",
+                "Karina Baldock Wiking",
+                "Olof Myhrman",
+                "Rebecca Fager",
+                "Hilde Fager",
+                "Emmylou Saguindel-Holmé",
+                "Ann-Marie Eriksson",
+                "Pål Svensson",
+                "Giorgos Kyriakopoulos",
+                "Pavlos Laoutaris",
+                "Eva Koroli",
+                "Alexia Mpogdanou",
+                "Giannis Papathymios",
+                "Achilles Vatrikas",
+                "Gianna Andritsaki",
+                "Dauda Coneth",
+                "Beh Solo Kone",
+                "Yussif Zakaria",
+                "Papa Cheik Jade"
+            ]
+        }
+    },
+    {
+        "pk": 736732,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 736732,
+            "title": "브로커",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "overview": "세탁소를 운영하지만 늘 빚에 시달리는 상현과 베이비 박스 시설에서 일하는 보육원 출신의 동수. 거센 비가 내리는 어느 날 밤, 그들은 베이비 박스에 놓인 한 아기를 몰래 데려간다. 하지만 이튿날, 생각지 못하게 엄마 소영이 아기 우성을 찾으러 돌아온다. 아기가 사라진 것을 안 소영이 경찰에 신고하려 하자 솔직하게 털어놓는 두 사람. 우성이를 잘 키울 적임자를 찾아 주기 위해서 그랬다는 변명이 기가 막히지만 소영은 우성이의 새 부모를 찾는 여정에 상현, 동수와 함께하기로 한다. 한편 이 모든 과정을 지켜본 형사 수진과 후배 이형사. 반 년째 이어온 수사를 마무리할 수 있는 결정적 증거를 포착하기 위해 이들의 뒤를 조용히 쫓는다.",
+            "poster_path": "/8pAoMLsA1h3z2uXvt353P5aScPO.jpg",
+            "release_date": "2022-06-08",
+            "vote_average": 7.2,
+            "directors": [
+                "Hirokazu Kore-eda",
+                "Hirokazu Kore-eda",
+                "Hirokazu Kore-eda",
+                "Shinsuke Fujimoto",
+                "Lee Beom-seok"
+            ],
+            "casts": [
+                "Song Kang-ho",
+                "Gang Dong-won",
+                "Bae Doona",
+                "IU",
+                "Lee Joo-young",
+                "Lim Seung-soo",
+                "Park Ji-yong",
+                "Song Sae-byuk",
+                "Kim Sun-young",
+                "Lee Mu-saeng",
+                "Lee Dong-hwi",
+                "Kim Sae-byuk",
+                "Bek Hyun-jin",
+                "Oh Hee-joon",
+                "Ryu Kyung-soo",
+                "Jong Ho",
+                "Seong Yu-bin",
+                "Park Kang-sup",
+                "Kim Keum-soon",
+                "Kang Gil-woo",
+                "Kim Yae-eun",
+                "Park Hae-jun",
+                "Jung Ji-woo",
+                "Ryu Ji-an",
+                "Yun Seul",
+                "Jeong Jong-yeol",
+                "Choi Hee-jin",
+                "Lee Do-goon",
+                "Kim Do-yeon",
+                "Lee Doo-seok"
+            ]
+        }
+    },
+    {
+        "pk": 619329,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 619329,
+            "title": "முந்திரிக்காடு",
+            "genre_ids": [
+                18,
+                28
+            ],
+            "overview": "",
+            "poster_path": "/k7iEwxmphkr1bwb66CHA4dhyyBF.jpg",
+            "release_date": "2023-04-07",
+            "vote_average": 4.3,
+            "directors": [
+                "Mu Kalanjiyam",
+                "Mu Kalanjiyam",
+                "Mu Kalanjiyam"
+            ],
+            "casts": [
+                "Pugazh Mahendran",
+                "Palamedu Parthipan",
+                "Subapriya",
+                "C.H. Jayarao",
+                "Kalai Sekaran"
+            ]
+        }
+    },
+    {
+        "pk": 878361,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 878361,
+            "title": "빅 조지 포먼",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "overview": "",
+            "poster_path": "/4RWtygeDuA7p7IMgcWHr7oCq8wI.jpg",
+            "release_date": "2023-04-27",
+            "vote_average": 7,
+            "directors": [
+                "George Tillman, Jr.",
+                "George Tillman, Jr.",
+                "George Tillman, Jr.",
+                "Maurice Sessoms",
+                "Soren Miltich"
+            ],
+            "casts": [
+                "Khris Davis",
+                "Jasmine Mathews",
+                "Sullivan Jones",
+                "Lawrence Gilliard Jr.",
+                "John Magaro",
+                "Sam Trammell",
+                "Sonja Sohn",
+                "Forest Whitaker",
+                "Shein Mompremier",
+                "Robert Cicchini",
+                "Matthew Glave",
+                "Erica Tazel",
+                "Dwayne L. Barnes",
+                "Deion Smith",
+                "K. Steele",
+                "Austin David Jones",
+                "Jordan Yarborough",
+                "Philip Fornah",
+                "Al Sapienza",
+                "Brian Ibsen",
+                "Kei",
+                "Judd Lormand",
+                "Don Tieri",
+                "Robert Larriviere",
+                "Ayden Gavin",
+                "Azaria Carter",
+                "Tom Virtue",
+                "Anthony Marble",
+                "Jordan Bates",
+                "Dinetia Dean",
+                "Russell Mora",
+                "Deneen Tyler",
+                "Madison Dirks",
+                "April Dupré",
+                "Nile Memmezzwattay",
+                "T.C. Matherne",
+                "Julia Lashae",
+                "Ray King Sr.",
+                "Slim Danger Barkowska",
+                "Martin Bats Bradford",
+                "Greg Wattkis",
+                "Samantha Beaulieu",
+                "Eric Hanson",
+                "Kenneth Martin Jr.",
+                "Selase Botchway",
+                "Makario Glenn",
+                "Tom Gregory",
+                "Michael Papajohn",
+                "Matthew Rimmer",
+                "Tre Styles",
+                "Billy Slaughter",
+                "Chukwuma Onwuchekwa",
+                "Lara Grice",
+                "Keith Hughes",
+                "Michael Harrity",
+                "Chance C Morris",
+                "Bill Martin Williams",
+                "Desiree Edwards",
+                "Jimbo Stevenson",
+                "Jason Elwood Hanna",
+                "John Palmeri",
+                "Michael Thomas",
+                "José José Reinaldo Flora",
+                "Tommy Wright",
+                "Cedric Boswell",
+                "Charles Brewer Jr.",
+                "DJ Walton",
+                "David Jite",
+                "Carlos Takam",
+                "Barry Hanley",
+                "Zephaniah Terry",
+                "Philip Craddock",
+                "Matt Frost",
+                "Bob Pelletier",
+                "Michael Ricca",
+                "David Proctor Jr.",
+                "Joshua Wade",
+                "Adnan Virk",
+                "Brian Kenny",
+                "Robert Flores",
+                "Al Bernstein"
+            ]
+        }
+    },
+    {
+        "pk": 933419,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 933419,
+            "title": "챔피언스",
+            "genre_ids": [
+                35
+            ],
+            "overview": "고집 세고 다혈질인 마이너리그 농구 코치는 사회봉사 명령을 받고 장애인 올림픽 팀을 훈련시키게 되는데...",
+            "poster_path": "/yVgtsoXyTZBww7SWE4JE1U4Wcel.jpg",
+            "release_date": "2023-03-09",
+            "vote_average": 6.9,
+            "directors": [
+                "Bobby Farrelly",
+                "Javier Fesser",
+                "Álvaro Longoria"
+            ],
+            "casts": [
+                "Woody Harrelson",
+                "Kaitlin Olson",
+                "Cheech Marin",
+                "Matt Cook",
+                "Ernie Hudson",
+                "Madison Tevlin",
+                "Joshua Felder",
+                "Kevin Iannucci",
+                "Ashton Gunning",
+                "Matthew Von Der Ahe",
+                "James Day Keith",
+                "Alex Hintz",
+                "Casey Metcalfe",
+                "Bradley Edens",
+                "Alicia Johnston",
+                "Tom Sinclair",
+                "Mike Smith",
+                "Barbara Pollard",
+                "Alexandra Castillo"
+            ]
+        }
+    },
+    {
+        "pk": 926924,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 926924,
+            "title": "¡Vaya vacaciones!",
+            "genre_ids": [
+                35
+            ],
+            "overview": "",
+            "poster_path": "/fSdvrg6Z37Wcdw7ZhSEFfkAwHrO.jpg",
+            "release_date": "2023-04-21",
+            "vote_average": 6.1,
+            "directors": [
+                "Víctor García León"
+            ],
+            "casts": [
+                "Tito Valverde",
+                "Gracia Olayo",
+                "Toni Acosta",
+                "Ernesto Sevilla",
+                "Daniela Rubio",
+                "Ricardo Mas",
+                "Ramón Barea",
+                "Nuria Herrero",
+                "Marta de Toro",
+                "Nicolás Costi"
+            ]
         }
     },
     {
@@ -1055,37 +3475,440 @@
             "overview": "",
             "poster_path": "/Af1izSvHbGu6JiFTVzgfKxWQOfs.jpg",
             "release_date": "2023-04-27",
-            "vote_average": 7.2
+            "vote_average": 7.1,
+            "directors": [
+                "Nida Manzoor",
+                "Nida Manzoor",
+                "Darren Baba"
+            ],
+            "casts": [
+                "Priya Kansara",
+                "Ritu Arya",
+                "Shobu Kapoor",
+                "Ella Bruccoleri",
+                "Seraphina Beh",
+                "Shona Babayemi",
+                "Nimra Bucha",
+                "Jeff Mirza",
+                "Akshay Khanna",
+                "Renu Brindle",
+                "Rekha John-Cheriyan",
+                "Sally Ann",
+                "Jenny Funnell",
+                "Sona Babayeva",
+                "Sophie Aisling",
+                "Su McLaughlin",
+                "Tia Dutt"
+            ]
         }
     },
     {
-        "pk": 931935,
+        "pk": 916386,
         "model": "movies.movie",
         "fields": {
-            "movie_id": 931935,
-            "title": "La extorsión",
+            "movie_id": 916386,
+            "title": "Der Passfälscher",
             "genre_ids": [
+                18,
+                36
+            ],
+            "overview": "",
+            "poster_path": "/zgIL0Rr0vBi6TLO4blIXZAgLWwg.jpg",
+            "release_date": "2022-10-13",
+            "vote_average": 6.1,
+            "directors": [
+                "Maggie Peren",
+                "Maggie Peren",
+                "Korbinian Wandinger"
+            ],
+            "casts": [
+                "Louis Hofmann",
+                "Jonathan Berlin",
+                "Luna Wedler",
+                "Nina Gummich",
+                "Marc Limpach",
+                "André Jung",
+                "Yotam Ishay",
+                "Luc Feit",
+                "Anouk Elias",
+                "Thomas Gräßle",
+                "Jochanah Mahnke",
+                "Valentin Mirow",
+                "Anselm Juhani Müllerschön",
+                "Dorothée Neff",
+                "Adrien Papritz",
+                "Sina Reiß",
+                "Philippe Thelen",
+                "Jeanne Werner",
+                "Konstantin Moreth",
+                "Géraldine Raths"
+            ]
+        }
+    },
+    {
+        "pk": 919570,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 919570,
+            "title": "R.M.N.",
+            "genre_ids": [
+                18
+            ],
+            "overview": "인종차별적 비방에 격분한 마티아스는 동료를 때려눕히고 야반도주한다. 고향에 돌아온 그는 옛 연인 칠러와 재회하는데, 칠러가 일하는 빵 공장은 최저임금으로 주민 고용이 어려워지자 외국인 노동자를 데려오기 시작한다. 어느새 작은 마을은 적대감과 분열로 들썩거린다.",
+            "poster_path": "/5Sq2460CtKPxwJAbD1kKC60yRcD.jpg",
+            "release_date": "2022-06-03",
+            "vote_average": 6.9,
+            "directors": [
+                "Cristian Mungiu",
+                "Cristian Mungiu",
+                "Cristian Mungiu"
+            ],
+            "casts": [
+                "Marin Grigore",
+                "Judith State",
+                "Macrina Bârlădeanu",
+                "Orsolya Moldovan",
+                "András Hatházi",
+                "Rácz Endre",
+                "József Bíró",
+                "Ovidiu Crișan",
+                "Cerasela Iosifescu",
+                "Andrei Finti",
+                "Miklos Bacs",
+                "Alin Panc",
+                "Victor Benderra",
+                "Amitha Jayasinghe",
+                "Gihan Edirisinghe",
+                "Nuwan Karunarathna",
+                "Kovacs Levente Jr.",
+                "Némedi-Varga Csilla",
+                "Orban Attila",
+                "Boros-Piroska Klara",
+                "Lucian Ifrim",
+                "Mark Edward Blenyesi",
+                "Fekete Beata",
+                "Szucs Tamas",
+                "Nagy Csilla",
+                "Szabo Andras-Botond",
+                "Axel Moustache",
+                "Rares Hontzu",
+                "Carla Todoran",
+                "Maria Dragus",
+                "Ecaterina Ladin",
+                "Gheorghe Ifrim"
+            ]
+        }
+    },
+    {
+        "pk": 955644,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 955644,
+            "title": "Mia and Me: The Hero of Centopia",
+            "genre_ids": [
+                16,
+                14,
+                12
+            ],
+            "overview": "",
+            "poster_path": "/a3ZpDsvNCQUOD7ApAs9y3mFwVU4.jpg",
+            "release_date": "2022-05-26",
+            "vote_average": 7.1,
+            "directors": [
+                "Gerhard Hahn",
+                "Matthias Temmermans",
+                "Adam Gunn"
+            ],
+            "casts": [
+                "Julian Maroun",
+                "Bettina Kenney",
+                "Margot Nuccetelli",
+                "Elisa Boyd",
+                "James Dyke",
+                "Vivien Battley",
+                "Dave Willetts"
+            ]
+        }
+    },
+    {
+        "pk": 1020696,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1020696,
+            "title": "플레이 데드",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "overview": "법의학을 전공하고 있는 의대생 “클로이”, 그녀는 범죄를 저지른 동생의 증거인멸을 위해 자신의 몸을 일시적으로 죽은 상태로 만들어 영안실에 몰래 잠입한다. 그녀는 증거를 찾던 중, 영안실 검사관의 끔찍한 장기 밀매 사실을 알게 되고, 자신이 살아있다는 사실 또한 검사관에게 발각되게 되는데... 서서히 목을 조여오는 죽음의 그림자를 피해 도망쳐라!",
+            "poster_path": "/z58ZJGKNKjQr2l80OpLairwBjJY.jpg",
+            "release_date": "2022-12-09",
+            "vote_average": 6.8,
+            "directors": [
+                "Patrick Lussier"
+            ],
+            "casts": [
+                "Bailee Madison",
+                "Jerry O'Connell",
+                "Anthony Turpel",
+                "Chris Butler",
+                "Chris Lee",
+                "Jorge-Luis Pallo",
+                "Sterling Beaumon",
+                "Josh Harp"
+            ]
+        }
+    },
+    {
+        "pk": 333339,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 333339,
+            "title": "레디 플레이어 원",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "overview": "2045년, 암울한 현실과 달리 가상현실 오아시스에서는 누구든 원하는 캐릭터로 상상하는 모든 걸 할 수 있다. 웨이드 와츠의 유일한 낙은 오아시스에 접속하는 것. 어느 날 오아시스의 창시자인 괴짜 천재 제임스 할리데이는 자신이 가상현실 속에 숨겨둔 3개의 미션에서 우승하는 사람에게 오아시스의 소유권과 막대한 유산을 상속한다는 유언을 남기고, 그가 사랑했던 80년대 대중문화 속에 힌트가 있음을 알린다. 와츠가 첫 번째 수수께끼를 푸는 데 성공하자 이를 저지하기 위해 현실에서 살인도 마다하지 않는 IOI라는 거대 기업이 뛰어드는데...",
+            "poster_path": "/j4TIfwFrm8WnckByTnMFEAuIVju.jpg",
+            "release_date": "2018-03-28",
+            "vote_average": 7.6,
+            "directors": [
+                "Steven Spielberg",
+                "Steven Spielberg",
+                "Zoe Morgan",
+                "Kris Smith",
+                "Hannah Rosner"
+            ],
+            "casts": [
+                "Tye Sheridan",
+                "Olivia Cooke",
+                "Ben Mendelsohn",
+                "Lena Waithe",
+                "T.J. Miller",
+                "Simon Pegg",
+                "Mark Rylance",
+                "Philip Zhao",
+                "Win Morisaki",
+                "Hannah John-Kamen",
+                "Ralph Ineson",
+                "Susan Lynch",
+                "Clare Higgins",
+                "Perdita Weeks",
+                "Letitia Wright",
+                "Mckenna Grace",
+                "Lulu Wilson",
+                "Cara Pifko",
+                "Vic Chao",
+                "Cara Theobold",
+                "Isaac Andrews",
+                "Joel MacCormack",
+                "Kit Connor",
+                "Leo Heller",
+                "Antonio Mattera",
+                "Lynne Wilmot",
+                "Kae Alexander",
+                "Michael Wildman",
+                "Adolfo Álvarez",
+                "Alonso Alvarez",
+                "Jadah Marie",
+                "Arianna Jaffier",
+                "Armani Jackson",
+                "Britain Dalton",
+                "Jacob Bertrand",
+                "Gareth Mason",
+                "Ronkẹ Adékoluẹjo",
+                "Daniel Zolghadri",
+                "William Gross",
+                "Laurence Spellman",
+                "Daniel Eghan",
+                "Julia Nickson",
+                "Kiera Bell",
+                "Samantha Russell",
+                "James Dryden",
+                "Violet McGraw",
+                "Jayden Fowora-Knight",
+                "Turlough Convery",
+                "Rona Morison",
+                "Elliot Barnes-Worrell",
+                "Asan N'Jie",
+                "Amy Clare Beales",
+                "Racheal Ofori",
+                "Sandra Dickinson",
+                "Mark Stanley",
+                "Emily Beacock",
+                "Rosanna Beacock",
+                "Gemma Refoufi",
+                "Jane Leaney",
+                "Robert Gilbert",
+                "Stephen Mitchell",
+                "Joshua Archer",
+                "Avye Leventis",
+                "Dean Street",
+                "Joe Hurst",
+                "Eric Sigmundsson",
+                "Danielle Phillips",
+                "Khalil Madovi",
+                "Bruce Lester-Johnson",
+                "Tom Turner",
+                "Paul Barnhill",
+                "Maeve Bluebell Wells",
+                "Neet Mohan",
+                "Georgie Farmer",
+                "Kathryn Wilder",
+                "Sid Sagar",
+                "Ian Davies",
+                "Dallas Dupree Young",
+                "Sydney Brower",
+                "Jaeden Bettencourt",
+                "Gavin Marshall",
+                "Juan Carlos Cantu",
+                "Annarie Boor"
+            ]
+        }
+    },
+    {
+        "pk": 855263,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 855263,
+            "title": "어 사우전드 앤 원",
+            "genre_ids": [
+                18
+            ],
+            "overview": "",
+            "poster_path": "/9yMQxHIQERFxNPnbbhxOO8nqVdq.jpg",
+            "release_date": "2023-03-31",
+            "vote_average": 6.9,
+            "directors": [
+                "A.V. Rockwell",
+                "A.V. Rockwell",
+                "Daniel Lugo",
+                "Donté Bouyer",
+                "Teena Marie Delerme-Lugo"
+            ],
+            "casts": [
+                "Teyana Taylor",
+                "William Catlett",
+                "Josiah Cross",
+                "Aven Courtney",
+                "Aaron Kingsley Adetola",
+                "Terri Abney",
+                "Delissa Reynolds",
+                "Amelia Workman",
+                "Adriane Lenox",
+                "Gavin Schlosser",
+                "Jolly Swag",
+                "Azza El",
+                "Alicia Pilgrim",
+                "Jennean Farmer",
+                "Kal-El White",
+                "Jamier Williams",
+                "Naya Desir-Johnson",
+                "Mychelle Dangerfield",
+                "John Maria Gutierrez",
+                "Artrece Johnson",
+                "Emmy Harrington"
+            ]
+        }
+    },
+    {
+        "pk": 889699,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 889699,
+            "title": "성스러운 거미",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "overview": "‘순교자의 땅’이라는 뜻을 가진 이란 최대의 종교도시, 마슈하드 그곳에서 1년 사이 16명의 여성을 살해한 연쇄 살인마 ‘거미’는 자신의 범행과 시체 유기 장소를 직접 언론에 제보하는 대담한 행동을 이어간다. 살인마의 행동에 정당성을 부여하는 여론이 일고 정부와 경찰마저 적극적으로 수사하지 않는 가운데 여성 저널리스트 ‘라히미’만이 홀로 살인마의 실체를 밝히기 위해 그의 뒤를 쫓는데…",
+            "poster_path": "/bdaUrseeOHSaChDSaRypa11T3YZ.jpg",
+            "release_date": "2022-07-13",
+            "vote_average": 7.4,
+            "directors": [
+                "Ali Abbasi",
+                "Ali Abbasi",
+                "Tarik Afifi"
+            ],
+            "casts": [
+                "Zar Amir Ebrahimi",
+                "Mehdi Bajestani",
+                "Forouzan Jamshidnejad",
+                "Sina Parvaneh",
+                "Sara Fazilat",
+                "Alice Rahimi",
+                "Ali Nazarian",
+                "Sima Seyed",
+                "Firouz Ageli",
+                "Farhad Faghih Habibi",
+                "Mesbah Taleb",
+                "Ariane Naziri",
+                "Majd Eid",
+                "Sohaib Qishta",
+                "Maryam Taleb",
+                "Salma Alabed"
+            ]
+        }
+    },
+    {
+        "pk": 843380,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 843380,
+            "title": "데드 포 어 달러",
+            "genre_ids": [
+                37,
                 53
             ],
             "overview": "",
-            "poster_path": "/fn3Z1gfVUDWd8ZQ9m2VhdwCFCMW.jpg",
-            "release_date": "2023-04-06",
-            "vote_average": 7
-        }
-    },
-    {
-        "pk": 926924,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 926924,
-            "title": "¡Vaya vacaciones!",
-            "genre_ids": [
-                35
+            "poster_path": "/1AnXfjxFqMsQmUPSvt9YxUJhfFw.jpg",
+            "release_date": "2022-09-30",
+            "vote_average": 5.7,
+            "directors": [
+                "Walter Hill",
+                "Walter Hill",
+                "Walter Hill",
+                "Budd Boetticher",
+                "Allan Graf",
+                "Rosser Goodman",
+                "Carly James",
+                "Scott Corban Sikma",
+                "Bobbie Sumberg",
+                "Michael Dix"
             ],
-            "overview": "",
-            "poster_path": "/fSdvrg6Z37Wcdw7ZhSEFfkAwHrO.jpg",
-            "release_date": "2023-04-21",
-            "vote_average": 6.1
+            "casts": [
+                "Christoph Waltz",
+                "Willem Dafoe",
+                "Rachel Brosnahan",
+                "Hamish Linklater",
+                "Benjamin Bratt",
+                "Guy Burnet",
+                "Brandon Scott",
+                "Scott Peat",
+                "Warren Burke",
+                "Luis Chávez",
+                "Jackamoe Buzzell",
+                "J.D. Garfield",
+                "Shawn-Caulin Young",
+                "Vic Browder",
+                "Alfredo Quiroz",
+                "Rocko Reyes",
+                "Diane Villegas",
+                "Herman Johansen",
+                "Fidel Gomez",
+                "James Espinoza",
+                "Jeremiah Core",
+                "Devin Gutierrez",
+                "Lupe Preciado",
+                "Marco Fuller",
+                "J.D. Marmion",
+                "Ivan Lee Holmes",
+                "Gonzalo Robles",
+                "Otgadahe Whitman-Fox"
+            ]
         }
     },
     {
@@ -1103,23 +3926,107 @@
             "overview": "",
             "poster_path": "/gWrZNGfGz68mBrVPn47cBMXPej3.jpg",
             "release_date": "2023-04-14",
-            "vote_average": 6
+            "vote_average": 6,
+            "directors": [
+                "Yuzuru Tachikawa"
+            ],
+            "casts": [
+                "Minami Takayama",
+                "Wakana Yamazaki",
+                "Rikiya Koyama",
+                "Megumi Hayashibara",
+                "Shuichi Ikeda",
+                "Kazuhiko Inoue",
+                "Kenichi Ogata",
+                "Atsuko Yuya",
+                "Yukimasa Kishino",
+                "Yukitoshi Hori",
+                "Fumihiko Tachiki",
+                "Mami Koyama",
+                "Toru Furuya",
+                "Kotono Mitsuishi",
+                "Kikuko Inoue",
+                "Hiroyuki Kinoshita",
+                "Shigeru Chiba",
+                "Ikki Sawamura",
+                "Chafurin",
+                "Kazuhiko Inoue",
+                "Miyuki Ichijou",
+                "Iemasa Kayumi",
+                "Kiyoyuki Yanada"
+            ]
         }
     },
     {
-        "pk": 878361,
+        "pk": 893370,
         "model": "movies.movie",
         "fields": {
-            "movie_id": 878361,
-            "title": "빅 조지 포먼",
+            "movie_id": 893370,
+            "title": "Virus: 32",
             "genre_ids": [
-                36,
-                18
+                27
             ],
             "overview": "",
-            "poster_path": "/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg",
-            "release_date": "2023-04-27",
-            "vote_average": 7.1
+            "poster_path": "/qDNZWDJGU2LTPpPpVGPQMxKv8xl.jpg",
+            "release_date": "2022-04-21",
+            "vote_average": 6.9,
+            "directors": [
+                "Gustavo Hernández"
+            ],
+            "casts": [
+                "Daniel Hendler",
+                "Paula Silva",
+                "Franco Rilla",
+                "Sofía González"
+            ]
+        }
+    },
+    {
+        "pk": 878375,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 878375,
+            "title": "온 어 윙 앤드 어 프레이어",
+            "genre_ids": [
+                18
+            ],
+            "overview": "조종사가 비행기를 조종하다 예기치 않게 사망한 후 가족을 구하기 위해 안전하게 비행기를 조종해야만 하는 한 남자의 이야기",
+            "poster_path": "/wXiLzb5QiibYSDupKKtAi2MSu06.jpg",
+            "release_date": "2023-04-06",
+            "vote_average": 6.4,
+            "directors": [
+                "Sean McNamara",
+                "Stephen W. Moore"
+            ],
+            "casts": [
+                "Dennis Quaid",
+                "Heather Graham",
+                "Jesse Metcalfe",
+                "Abbey Rhyne",
+                "Jessi Case",
+                "Brett Rice",
+                "Rocky Myers",
+                "Selena Anduze",
+                "E. Roger Mitchell",
+                "Joe Knezevich",
+                "Brandon Quinn",
+                "Roger Anthony",
+                "Raina Grey",
+                "Trayce Malachi",
+                "Anna Enger Ritch",
+                "Wilbur Fitzgerald",
+                "Holly Morris",
+                "Rachael Markarian",
+                "James Healy Jr.",
+                "Philip Boyd",
+                "Big Moe Cason",
+                "Matt Mercurio",
+                "Scott Poythress",
+                "Paden Fallis",
+                "Sean Patrick McNamara",
+                "Mark Rowe",
+                "Myke Holmes"
+            ]
         }
     },
     {
@@ -1136,152 +4043,69 @@
             "overview": "다부진 체격, 깔끔한 정장 그리고 그윽한 담배 연기. 할리우드의 탐정 ‘말로’(리암 니슨)는 사라진 애인을 찾아 달라는 매력적인 여인 '캐빈디시'(다이앤 크루거)의 의뢰를 받아 조사에 나서고, 거대한 조직에 얽힌 충격적인 비밀을 마주하게 되는데… 역사상 가장 매력적인 하드보일드 탐정이 온다!",
             "poster_path": "/vjAMj81oYBryzGBhJk4gcK0M636.jpg",
             "release_date": "2023-02-15",
-            "vote_average": 6.1
+            "vote_average": 6.1,
+            "directors": [
+                "Neil Jordan",
+                "Neil Jordan"
+            ],
+            "casts": [
+                "Liam Neeson",
+                "Diane Kruger",
+                "Jessica Lange",
+                "Danny Huston",
+                "Alan Cumming",
+                "Ian Hart",
+                "Adewale Akinnuoye-Agbaje",
+                "Daniela Melchior",
+                "Patrick Muldoon",
+                "Colm Meaney",
+                "François Arnaud",
+                "Kim DeLonghi",
+                "Julius Cotter",
+                "Mark Schardan",
+                "Gary Anthony Stennette",
+                "Billy Jeffries"
+            ]
         }
     },
     {
-        "pk": 919570,
+        "pk": 850028,
         "model": "movies.movie",
         "fields": {
-            "movie_id": 919570,
-            "title": "R.M.N.",
+            "movie_id": 850028,
+            "title": "앨리스, 달링",
             "genre_ids": [
+                53,
+                9648,
                 18
             ],
-            "overview": "인종차별적 비방에 격분한 마티아스는 동료를 때려눕히고 야반도주한다. 고향에 돌아온 그는 옛 연인 칠러와 재회하는데, 칠러가 일하는 빵 공장은 최저임금으로 주민 고용이 어려워지자 외국인 노동자를 데려오기 시작한다. 어느새 작은 마을은 적대감과 분열로 들썩거린다.",
-            "poster_path": "/5Sq2460CtKPxwJAbD1kKC60yRcD.jpg",
-            "release_date": "2022-06-03",
-            "vote_average": 6.9
-        }
-    },
-    {
-        "pk": 333339,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 333339,
-            "title": "레디 플레이어 원",
-            "genre_ids": [
-                878,
-                12,
-                28
+            "overview": "앨리스는 어릴 적 친구 테스, 소피와 와인 바에서 만나 저녁을 먹는다. 소피는 테스의 생일을 축하하기 위해 주말에 별장으로 여행을 가자고 제안한다. 남자친구 사이먼의 전화를 받은 앨리스는 불안한 눈빛으로 집으로 돌아간다. 앨리스는 테스와 소피를 좋아하지 않는 사이먼의 눈치를 보며 콜린의 판매 일 때문에 주말에 출장을 가야 한다고 거짓말한다. 사이먼은 테스의 별장에 있는 앨리스에게 빨리 돌아오라고 문자를 보낸다. 앨리스는 사이먼의 압력과 친구의 우정 사이에서 내적 갈등을 겪는다. 앨리스가 사이먼으로부터 심각한 정신적 학대를 받고 있었다는 사실이 드러난다. 마음대로 앨리스의 이메일을 열어본 사이먼은 집으로 오라고 압박한다. 테스는 앨리스가 집으로 가는 걸 막기 위해 그녀의 휴대폰과 지갑을 숨긴다. 테스와 소피는 앨리스가 사이먼에게 심리 지배(가스라이팅)되고 있음을 알게 되는데...",
+            "poster_path": "/ybqS7I4tuMs1TIssvuLMk2lYlLe.jpg",
+            "release_date": "2022-12-30",
+            "vote_average": 5.9,
+            "directors": [
+                "Mary Nighy"
             ],
-            "overview": "2045년, 암울한 현실과 달리 가상현실 오아시스에서는 누구든 원하는 캐릭터로 상상하는 모든 걸 할 수 있다. 웨이드 와츠의 유일한 낙은 오아시스에 접속하는 것. 어느 날 오아시스의 창시자인 괴짜 천재 제임스 할리데이는 자신이 가상현실 속에 숨겨둔 3개의 미션에서 우승하는 사람에게 오아시스의 소유권과 막대한 유산을 상속한다는 유언을 남기고, 그가 사랑했던 80년대 대중문화 속에 힌트가 있음을 알린다. 와츠가 첫 번째 수수께끼를 푸는 데 성공하자 이를 저지하기 위해 현실에서 살인도 마다하지 않는 IOI라는 거대 기업이 뛰어드는데...",
-            "poster_path": "/j4TIfwFrm8WnckByTnMFEAuIVju.jpg",
-            "release_date": "2018-03-28",
-            "vote_average": 7.6
-        }
-    },
-    {
-        "pk": 933419,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 933419,
-            "title": "챔피언스",
-            "genre_ids": [
-                35
-            ],
-            "overview": "고집 세고 다혈질인 마이너리그 농구 코치는 사회봉사 명령을 받고 장애인 올림픽 팀을 훈련시키게 되는데...",
-            "poster_path": "/yVgtsoXyTZBww7SWE4JE1U4Wcel.jpg",
-            "release_date": "2023-03-09",
-            "vote_average": 6.9
-        }
-    },
-    {
-        "pk": 916386,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 916386,
-            "title": "Der Passfälscher",
-            "genre_ids": [
-                18,
-                36
-            ],
-            "overview": "",
-            "poster_path": "/zgIL0Rr0vBi6TLO4blIXZAgLWwg.jpg",
-            "release_date": "2022-10-13",
-            "vote_average": 6.1
-        }
-    },
-    {
-        "pk": 736732,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 736732,
-            "title": "브로커",
-            "genre_ids": [
-                18,
-                35
-            ],
-            "overview": "세탁소를 운영하지만 늘 빚에 시달리는 상현과 베이비 박스 시설에서 일하는 보육원 출신의 동수. 거센 비가 내리는 어느 날 밤, 그들은 베이비 박스에 놓인 한 아기를 몰래 데려간다. 하지만 이튿날, 생각지 못하게 엄마 소영이 아기 우성을 찾으러 돌아온다. 아기가 사라진 것을 안 소영이 경찰에 신고하려 하자 솔직하게 털어놓는 두 사람. 우성이를 잘 키울 적임자를 찾아 주기 위해서 그랬다는 변명이 기가 막히지만 소영은 우성이의 새 부모를 찾는 여정에 상현, 동수와 함께하기로 한다. 한편 이 모든 과정을 지켜본 형사 수진과 후배 이형사. 반 년째 이어온 수사를 마무리할 수 있는 결정적 증거를 포착하기 위해 이들의 뒤를 조용히 쫓는다.",
-            "poster_path": "/8pAoMLsA1h3z2uXvt353P5aScPO.jpg",
-            "release_date": "2022-06-08",
-            "vote_average": 7.2
-        }
-    },
-    {
-        "pk": 955644,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 955644,
-            "title": "Mia and Me: The Hero of Centopia",
-            "genre_ids": [
-                16,
-                14,
-                12
-            ],
-            "overview": "",
-            "poster_path": "/a3ZpDsvNCQUOD7ApAs9y3mFwVU4.jpg",
-            "release_date": "2022-05-26",
-            "vote_average": 7.1
-        }
-    },
-    {
-        "pk": 1020696,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 1020696,
-            "title": "플레이 데드",
-            "genre_ids": [
-                27,
-                53
-            ],
-            "overview": "법의학을 전공하고 있는 의대생 “클로이”, 그녀는 범죄를 저지른 동생의 증거인멸을 위해 자신의 몸을 일시적으로 죽은 상태로 만들어 영안실에 몰래 잠입한다. 그녀는 증거를 찾던 중, 영안실 검사관의 끔찍한 장기 밀매 사실을 알게 되고, 자신이 살아있다는 사실 또한 검사관에게 발각되게 되는데... 서서히 목을 조여오는 죽음의 그림자를 피해 도망쳐라!",
-            "poster_path": "/z58ZJGKNKjQr2l80OpLairwBjJY.jpg",
-            "release_date": "2022-12-09",
-            "vote_average": 6.6
-        }
-    },
-    {
-        "pk": 889699,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 889699,
-            "title": "성스러운 거미",
-            "genre_ids": [
-                80,
-                18,
-                53
-            ],
-            "overview": "‘순교자의 땅’이라는 뜻을 가진 이란 최대의 종교도시, 마슈하드 그곳에서 1년 사이 16명의 여성을 살해한 연쇄 살인마 ‘거미’는 자신의 범행과 시체 유기 장소를 직접 언론에 제보하는 대담한 행동을 이어간다. 살인마의 행동에 정당성을 부여하는 여론이 일고 정부와 경찰마저 적극적으로 수사하지 않는 가운데 여성 저널리스트 ‘라히미’만이 홀로 살인마의 실체를 밝히기 위해 그의 뒤를 쫓는데…",
-            "poster_path": "/bdaUrseeOHSaChDSaRypa11T3YZ.jpg",
-            "release_date": "2022-07-13",
-            "vote_average": 7.5
-        }
-    },
-    {
-        "pk": 843380,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 843380,
-            "title": "데드 포 어 달러",
-            "genre_ids": [
-                37,
-                53
-            ],
-            "overview": "",
-            "poster_path": "/1AnXfjxFqMsQmUPSvt9YxUJhfFw.jpg",
-            "release_date": "2022-09-30",
-            "vote_average": 5.7
+            "casts": [
+                "Anna Kendrick",
+                "Kaniehtiio Horn",
+                "Charlie Carrick",
+                "Wunmi Mosaku",
+                "Markjan Winnick",
+                "Daniel Stolfi",
+                "Susan Applewhaite",
+                "Mairi Babb",
+                "Sara Bradeen",
+                "Toni Ellwand",
+                "Carolyn Fe",
+                "Deborah Grover",
+                "Gordon Harper",
+                "James M. Jenkinson",
+                "Lindsay Leese",
+                "Farah Merani",
+                "Ethan Mitchell",
+                "Viviana Zarrillo"
+            ]
         }
     },
     {
@@ -1297,7 +4121,64 @@
             "overview": "",
             "poster_path": "/uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",
             "release_date": "2023-04-26",
-            "vote_average": 4.3
+            "vote_average": 4.9,
+            "directors": [
+                "Adrian Grünberg",
+                "Adrian Grünberg",
+                "Caleb Andrew Ward",
+                "Boise Esquerra"
+            ],
+            "casts": [
+                "Josh Lucas",
+                "Fernanda Urrejola",
+                "Julio Cedillo",
+                "Venus Ariel",
+                "Carlos Solórzano",
+                "Jorge A. Jimenez",
+                "Raúl Méndez",
+                "Héctor Jiménez",
+                "Edgar Flores",
+                "Omar Chaparro",
+                "Luis del Valle"
+            ]
+        }
+    },
+    {
+        "pk": 783675,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 783675,
+            "title": "더 퍼스트 슬램덩크",
+            "genre_ids": [
+                16,
+                35,
+                18
+            ],
+            "overview": "전국 제패를 꿈꾸는 북산고 농구부 5인방의 꿈과 열정, 멈추지 않는 도전을 그린 영화",
+            "poster_path": "/coiJrdXAXuBkSGDvp9bZ7mkuU6E.jpg",
+            "release_date": "2022-12-03",
+            "vote_average": 8.1,
+            "directors": [
+                "Katsuhiko Kitada",
+                "Fumihiko Suganuma",
+                "Takehiko Inoue",
+                "Yuu Kamatani",
+                "Toshio Ohashi"
+            ],
+            "casts": [
+                "Shugo Nakamura",
+                "Jun Kasama",
+                "Shinichiro Kamio",
+                "Subaru Kimura",
+                "Kenta Miyake",
+                "Ryota Iwasaki",
+                "Maaya Sakamoto",
+                "Chikahiro Kobayashi",
+                "Masafumi Kobatake",
+                "Kenichirou Matsuda",
+                "Asami Seto",
+                "Katsuhisa Houki"
+            ]
         }
     },
     {
@@ -1314,22 +4195,298 @@
             "overview": "",
             "poster_path": "/usfDx1g1eN9eZ8kxfrbLRkKVjit.jpg",
             "release_date": "2023-05-04",
-            "vote_average": 6.1
+            "vote_average": 6.3,
+            "directors": [
+                "Jim Strouse",
+                "Suzanne McGeachan",
+                "Cordelia Hardy",
+                "Jason O'Brien",
+                "Mark Cockren",
+                "Thom McNally"
+            ],
+            "casts": [
+                "Priyanka Chopra Jonas",
+                "Sam Heughan",
+                "Céline Dion",
+                "Sofia Barclay",
+                "Russell Tovey",
+                "Lydia West",
+                "Steve Oram",
+                "Omid Djalili",
+                "Nick Jonas",
+                "Celia Imrie",
+                "Arinzé Kene",
+                "Tom Blake",
+                "Laurence Varda",
+                "Harry Attwell",
+                "Amanda Blake",
+                "Haley McGee"
+            ]
         }
     },
     {
-        "pk": 855263,
+        "pk": 917007,
         "model": "movies.movie",
         "fields": {
-            "movie_id": 855263,
-            "title": "어 사우전드 앤 원",
+            "movie_id": 917007,
+            "title": "Bed Rest",
+            "genre_ids": [
+                27
+            ],
+            "overview": "",
+            "poster_path": "/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg",
+            "release_date": "2022-12-08",
+            "vote_average": 5.8,
+            "directors": [
+                "Lori Evans Taylor"
+            ],
+            "casts": [
+                "Melissa Barrera",
+                "Guy Burnet",
+                "Edie Inksetter",
+                "Sebastian Billingsley-Rodriguez",
+                "Erik Athavale",
+                "Koen Schneiderat",
+                "Paul Essiembre",
+                "Marina Stephenson Kerr",
+                "Diana Botelho-Urbanski",
+                "Kristen Harris",
+                "Stephanie Sy",
+                "Adam Hurtig",
+                "Ava Julien",
+                "Darcy Fehr",
+                "Arne MacPherson",
+                "Jean-Jacques Javier",
+                "Stephanie Moroz"
+            ]
+        }
+    },
+    {
+        "pk": 1110918,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 1110918,
+            "title": "Soltera, casada, viuda, divorciada",
+            "genre_ids": [
+                35
+            ],
+            "overview": "",
+            "poster_path": "/gZCk6VfflTgnDAfeevI31QR9vid.jpg",
+            "release_date": "2023-04-20",
+            "vote_average": 2,
+            "directors": [
+                "Ani Alva Helfer"
+            ],
+            "casts": [
+                "Gianella Neyra",
+                "Katia Condos",
+                "Milene Vásquez",
+                "Patricia Portocarrero",
+                "Diego Bertie",
+                "Rodrigo Sánchez-Patiño",
+                "Rodrigo Palacios",
+                "Giovanni Ciccia"
+            ]
+        }
+    },
+    {
+        "pk": 768362,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 768362,
+            "title": "서치 2",
+            "genre_ids": [
+                53,
+                9648
+            ],
+            "overview": "여행을 끝내고 월요일 귀국을 알린 엄마의 영상통화 그리고 마중 나간 딸. 그러나 엄마가 사라졌다  경찰에 도움을 요청하지만, 결정적인 단서들이 나오지 않는 가운데 딸 준은 엄마의 흔적을 찾기 위해 엄마가 방문한 호텔의 CCTV, 같이 간 지인의 SNS,  거리뷰 지도까지 온라인에 남아있는 모든 흔적을 검색하는데…",
+            "poster_path": "/cSelzPRACuavc4f2VDCkFrNT56S.jpg",
+            "release_date": "2023-01-19",
+            "vote_average": 7.6,
+            "directors": [
+                "Allan Aguilar",
+                "Shawn Tira",
+                "Aneesh Chaganty",
+                "Aneesh Chaganty",
+                "Alexander Armero",
+                "Nicholas D. Johnson",
+                "Will Merrick",
+                "Congyu E"
+            ],
+            "casts": [
+                "Storm Reid",
+                "Joaquim de Almeida",
+                "Ken Leung",
+                "Amy Landecker",
+                "Daniel Henney",
+                "Nia Long",
+                "Megan Suri",
+                "Tim Griffin",
+                "Rick Chambers",
+                "Tracy Vilar",
+                "Kimberly Cheng",
+                "Dalila Ali Rajah",
+                "Kendal Evans",
+                "Lauren B. Mosley",
+                "Lisa Yamada",
+                "Sharar Ali-Speakes",
+                "Michael Segovia",
+                "Jameel Shivji",
+                "Monica Bhatnagar",
+                "Marcello Padilla",
+                "Rita Rucker",
+                "Ava Zaria Lee",
+                "Roy Abramsohn",
+                "Briana McLean",
+                "Karina Noelle Castillo",
+                "Jasmin Savoy Brown",
+                "Viviana Salinas",
+                "Juan Carlos Goméz Ortega",
+                "Danielle Nottingham",
+                "Thomas Barbusca",
+                "Esteban Dager",
+                "Sean O'Bryan",
+                "Zeke Alton",
+                "Billie Jordan",
+                "Dalila Ali Rajah",
+                "Jill Smith",
+                "Scott Menville",
+                "Wolfie Trausch",
+                "Kelly Stables",
+                "Javier Grajeda",
+                "Mauricio Mendoza",
+                "Jill Remez"
+            ]
+        }
+    },
+    {
+        "pk": 785398,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 785398,
+            "title": "당나귀 EO",
             "genre_ids": [
                 18
             ],
+            "overview": "타이틀롤을 맡은 주인공 EO(당나귀 울음소리에서 착안한 이름)는 동물보호단체에 의해 서커스단으로부터 ‘구조’된다. 이어서 우리는 EO가 농장에서 일하고, 훌리건들에 의해 축구팀 마스코트로 끌려 다니고, 소시지 공장에서 탈출하고, 머나먼 이탈리아의 저택까지 이르는 여정을 따라가게 된다. 동물의 눈으로 바라본 세상은 참으로 낯설고 위협적이며, EO가 거치는 고난의 행군은 예수의 수난에 비견될 만하다.",
+            "poster_path": "/a9owp5MlydhRmz3vYixffNigRBH.jpg",
+            "release_date": "2022-09-30",
+            "vote_average": 6.6,
+            "directors": [
+                "Jerzy Skolimowski",
+                "Jerzy Skolimowski",
+                "Jerzy Skolimowski",
+                "Giorgio Melidoni",
+                "Maria Wider",
+                "Maja Astrid Diedenhofen",
+                "Pawel Powolny",
+                "Maria Vittoria Daquino"
+            ],
+            "casts": [
+                "Sandra Drzymalska",
+                "Isabelle Huppert",
+                "Lorenzo Zurzolo",
+                "Mateusz Kościukiewicz",
+                "Tomasz Organek",
+                "Lolita Chammah",
+                "Agata Sasinowska",
+                "Anna Rokita",
+                "Michał Przybysławski",
+                "Gloria Iradukunda",
+                "Piotr Szaja",
+                "Aleksander Janiszewski",
+                "Delfina Wilkońska",
+                "Andrzej Szeremeta",
+                "Wojciech Andrzejuk",
+                "Mateusz Murański",
+                "Marcin Drabicki",
+                "Maciej Stępniak",
+                "Fernando Junior Gomes da Silva",
+                "Krzysztof Karczmarz",
+                "Waldemar Barwiński",
+                "Saverio Fabbri",
+                "Katarzyna Russ",
+                "Kateřina Holánová"
+            ]
+        }
+    },
+    {
+        "pk": 844396,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 844396,
+            "title": "The Friendship Game",
+            "genre_ids": [
+                878,
+                27
+            ],
             "overview": "",
-            "poster_path": "/9WyipqK3wOf8lJLWqFX0r7aBodm.jpg",
-            "release_date": "2023-03-31",
-            "vote_average": 6.9
+            "poster_path": "/qXaJkaVTNMhrOylFi6xrWnBQGE8.jpg",
+            "release_date": "2022-11-11",
+            "vote_average": 5.4,
+            "directors": [
+                "Scooter Corkle"
+            ],
+            "casts": [
+                "Peyton List",
+                "Brendan Meyer",
+                "Kelcey Mawema",
+                "Kaitlyn Santa Juana",
+                "Dylan Schombing",
+                "Miriam Smith",
+                "Jennifer Copping",
+                "Miranda Edwards",
+                "Annette Reilly",
+                "Lynn Whyte",
+                "Maria Hart"
+            ]
+        }
+    },
+    {
+        "pk": 630,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 630,
+            "title": "오즈의 마법사",
+            "genre_ids": [
+                12,
+                14,
+                10751
+            ],
+            "overview": "회오리 바람에 휩쓸려 오즈의 나라로 내던져진 도로시는 집으로 되돌아갈 수 있는 유일한 길이 위대한 오즈의 마법사를 만나는 것임을 알고 그를 찾아 긴 여정이 시작된다. 도로시는 애견 토토와 함께 노란 길을 따라 오즈의 마법사가 사는 에메랄드 시티로 향한다. 도중에 만난 세 명의 친구들, 지능을 얻고자 하는 허수아비와 심장을 원하는 양철 나뭇꾼, 용기를 가지고 싶어하는 겁장이 사자와 함께 오즈의 마법사에게 자신의 소원이 이루어지도록 부탁하기 위해 도로시와 함께 경쾌한 발걸음을 옮긴다. 그러나 도로시 일행을 방해하기 위해 뒤쫓아오는 서쪽 나라 마녀의 검은 그림자.",
+            "poster_path": "/yyWpOqSAd8uewpzrnPI9IiBhzSs.jpg",
+            "release_date": "1939-08-15",
+            "vote_average": 7.6,
+            "directors": [
+                "Victor Fleming",
+                "Mervyn LeRoy"
+            ],
+            "casts": [
+                "Judy Garland",
+                "Ray Bolger",
+                "Jack Haley",
+                "Bert Lahr",
+                "Margaret Hamilton",
+                "Frank Morgan",
+                "Clara Blandick",
+                "Charley Grapewin",
+                "Billie Burke",
+                "Pat Walshe",
+                "Terry",
+                "Adriana Caselotti",
+                "Harry Earles",
+                "Jerry Maren",
+                "Parnell St. Aubin",
+                "Billy Bletcher",
+                "Pinto Colvig",
+                "Charles Becker",
+                "Mitchell Lewis",
+                "Buster Brodie",
+                "Ethelreda Leopold",
+                "Billy Curtis",
+                "Jimmy the Crow",
+                "Eleanor Keaton"
+            ]
         }
     },
     {
@@ -1347,183 +4504,30 @@
             "overview": "혈기왕성한 형사 우밍한은 중요한 사건 현장에서 도로에 흩어진 증거물을 수집하던 중 의문의 붉은 봉투를 발견하고 무심코 줍는다. 그때부터 밍한에게 벌어지는 불길한 사건들! 자신에게 다가온 '운명'을 한사코 거부하던 밍한은 거듭되는 생명의 위협에 마지못해 인생 최대의 결심을 하는데... 얼결에 '부부'가 된 귀신과 최악의 빌런을 잡기 위해 인간+귀신 콤비가 벌이는 극강의 공조 수사! 코믹과 액션을 버무리고 감동과 반전까지 가미한, 풀옵션 오감으로 즐기는 블록버스터. 인류애 넘치는 콤비의 격정적인 공조가 마침내 시작된다! 이 콤비도, 두 사람의 공조 수사도 완전히 다 미쳤다!!!",
             "poster_path": "/m9UIiiTDTx6w1gPQgVr8cvgol91.jpg",
             "release_date": "2023-02-10",
-            "vote_average": 6.4
-        }
-    },
-    {
-        "pk": 850028,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 850028,
-            "title": "앨리스, 달링",
-            "genre_ids": [
-                53,
-                9648,
-                18
+            "vote_average": 6.4,
+            "directors": [
+                "Cheng Wei-Hao",
+                "Cheng Wei-Hao",
+                "Shi-Hao Hong"
             ],
-            "overview": "앨리스는 어릴 적 친구 테스, 소피와 와인 바에서 만나 저녁을 먹는다. 소피는 테스의 생일을 축하하기 위해 주말에 별장으로 여행을 가자고 제안한다. 남자친구 사이먼의 전화를 받은 앨리스는 불안한 눈빛으로 집으로 돌아간다. 앨리스는 테스와 소피를 좋아하지 않는 사이먼의 눈치를 보며 콜린의 판매 일 때문에 주말에 출장을 가야 한다고 거짓말한다. 사이먼은 테스의 별장에 있는 앨리스에게 빨리 돌아오라고 문자를 보낸다. 앨리스는 사이먼의 압력과 친구의 우정 사이에서 내적 갈등을 겪는다. 앨리스가 사이먼으로부터 심각한 정신적 학대를 받고 있었다는 사실이 드러난다. 마음대로 앨리스의 이메일을 열어본 사이먼은 집으로 오라고 압박한다. 테스는 앨리스가 집으로 가는 걸 막기 위해 그녀의 휴대폰과 지갑을 숨긴다. 테스와 소피는 앨리스가 사이먼에게 심리 지배(가스라이팅)되고 있음을 알게 되는데...",
-            "poster_path": "/ybqS7I4tuMs1TIssvuLMk2lYlLe.jpg",
-            "release_date": "2022-12-30",
-            "vote_average": 5.9
-        }
-    },
-    {
-        "pk": 783675,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 783675,
-            "title": "더 퍼스트 슬램덩크",
-            "genre_ids": [
-                16,
-                35,
-                18
-            ],
-            "overview": "전국 제패를 꿈꾸는 북산고 농구부 5인방의 꿈과 열정, 멈추지 않는 도전을 그린 영화",
-            "poster_path": "/coiJrdXAXuBkSGDvp9bZ7mkuU6E.jpg",
-            "release_date": "2022-12-03",
-            "vote_average": 8.1
-        }
-    },
-    {
-        "pk": 917007,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 917007,
-            "title": "Bed Rest",
-            "genre_ids": [
-                27
-            ],
-            "overview": "",
-            "poster_path": "/tiZF8b9T9fMcwvsEEkJ5ik1wCnV.jpg",
-            "release_date": "2022-12-08",
-            "vote_average": 5.8
-        }
-    },
-    {
-        "pk": 536437,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 536437,
-            "title": "힙노틱",
-            "genre_ids": [
-                80,
-                9648,
-                53
-            ],
-            "overview": "",
-            "poster_path": "/mv362kHXz4Yr33wtQhqfcJWFM8G.jpg",
-            "release_date": "2023-05-11",
-            "vote_average": 7.2
-        }
-    },
-    {
-        "pk": 893370,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 893370,
-            "title": "Virus: 32",
-            "genre_ids": [
-                27
-            ],
-            "overview": "",
-            "poster_path": "/qDNZWDJGU2LTPpPpVGPQMxKv8xl.jpg",
-            "release_date": "2022-04-21",
-            "vote_average": 6.9
-        }
-    },
-    {
-        "pk": 878375,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 878375,
-            "title": "온 어 윙 앤드 어 프레이어",
-            "genre_ids": [
-                18
-            ],
-            "overview": "조종사가 비행기를 조종하다 예기치 않게 사망한 후 가족을 구하기 위해 안전하게 비행기를 조종해야만 하는 한 남자의 이야기",
-            "poster_path": "/wXiLzb5QiibYSDupKKtAi2MSu06.jpg",
-            "release_date": "2023-04-06",
-            "vote_average": 6.4
-        }
-    },
-    {
-        "pk": 768362,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 768362,
-            "title": "서치 2",
-            "genre_ids": [
-                53
-            ],
-            "overview": "여행을 끝내고 월요일 귀국을 알린 엄마의 영상통화 그리고 마중 나간 딸. 그러나 엄마가 사라졌다  경찰에 도움을 요청하지만, 결정적인 단서들이 나오지 않는 가운데 딸 준은 엄마의 흔적을 찾기 위해 엄마가 방문한 호텔의 CCTV, 같이 간 지인의 SNS,  거리뷰 지도까지 온라인에 남아있는 모든 흔적을 검색하는데…",
-            "poster_path": "/cSelzPRACuavc4f2VDCkFrNT56S.jpg",
-            "release_date": "2023-01-19",
-            "vote_average": 7.6
-        }
-    },
-    {
-        "pk": 809787,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 809787,
-            "title": "마피아 마마",
-            "genre_ids": [
-                80,
-                35
-            ],
-            "overview": "",
-            "poster_path": "/zi0Lrmtvhrz52VXUjwEKlXItF9q.jpg",
-            "release_date": "2023-04-13",
-            "vote_average": 7
-        }
-    },
-    {
-        "pk": 1110918,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 1110918,
-            "title": "Soltera, casada, viuda, divorciada",
-            "genre_ids": [
-                35
-            ],
-            "overview": "",
-            "poster_path": "/gZCk6VfflTgnDAfeevI31QR9vid.jpg",
-            "release_date": "2023-04-20",
-            "vote_average": 2
-        }
-    },
-    {
-        "pk": 798286,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 798286,
-            "title": "보 이즈 어프레이드",
-            "genre_ids": [
-                35,
-                12,
-                14
-            ],
-            "overview": "엄마를 만나러 가야 하는 보의 기억과 환상, 현실이 뒤섞인 공포를 경험하게 되는 기이한 여정을 그린 영화.",
-            "poster_path": "/pU8F9qKSoiqcv1nnaYezBzp7MoZ.jpg",
-            "release_date": "2023-04-14",
-            "vote_average": 7.3
-        }
-    },
-    {
-        "pk": 630,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 630,
-            "title": "오즈의 마법사",
-            "genre_ids": [
-                12,
-                14,
-                10751
-            ],
-            "overview": "회오리 바람에 휩쓸려 오즈의 나라로 내던져진 도로시는 집으로 되돌아갈 수 있는 유일한 길이 위대한 오즈의 마법사를 만나는 것임을 알고 그를 찾아 긴 여정이 시작된다. 도로시는 애견 토토와 함께 노란 길을 따라 오즈의 마법사가 사는 에메랄드 시티로 향한다. 도중에 만난 세 명의 친구들, 지능을 얻고자 하는 허수아비와 심장을 원하는 양철 나뭇꾼, 용기를 가지고 싶어하는 겁장이 사자와 함께 오즈의 마법사에게 자신의 소원이 이루어지도록 부탁하기 위해 도로시와 함께 경쾌한 발걸음을 옮긴다. 그러나 도로시 일행을 방해하기 위해 뒤쫓아오는 서쪽 나라 마녀의 검은 그림자.",
-            "poster_path": "/yyWpOqSAd8uewpzrnPI9IiBhzSs.jpg",
-            "release_date": "1939-08-15",
-            "vote_average": 7.6
+            "casts": [
+                "Greg Hsu",
+                "Austin Lin",
+                "Gingle Wang",
+                "Tsai Chen-Nan",
+                "Ma Nien-Hsien",
+                "Man-Chiao Wang",
+                "Tsung-Hua Tou",
+                "Cheng Chih-wei",
+                "Aaron Yan",
+                "Tsai-Hsing Chang",
+                "Chen Yen-Tso",
+                "Kuan-Ting Liu",
+                "Chris Lee",
+                "Dean Tang",
+                "Aaron Hong",
+                "He-Hsuan Lin"
+            ]
         }
     },
     {
@@ -1540,90 +4544,336 @@
             "overview": "2019년, 지구의 파괴와 엄청난 인구증가로 인해 다른 행성을 식민지 이주가 본격화된다. 2주전 6명의 복제 인간 리플리컨트가 식민행성에서 탈출, 23명을 죽이고 우주선을 탈취하여 지구로 잠입한다. 전투용 로이 베티와 리온, 살인 훈련을 받은 조라, 식민행성 군인 클럽 소속의 위안부 프리스가 그들이다. 이들은 타이렐사에 침입하려 하지만 한 사람이 죽고, 직원으로 위장한 리온이 회사 간부의 테스트에 발각되어 도주한다. 이에 경찰은 복제 인간을 구별할 능력을 지닌 블레이드 러너 데커드를 호출하는데...",
             "poster_path": "/6yXqNiVIoJcMhio10Nkb5QMNeh8.jpg",
             "release_date": "1982-06-25",
-            "vote_average": 7.9
+            "vote_average": 7.9,
+            "directors": [
+                "Ridley Scott",
+                "Donald Hauer",
+                "Bud Yorkin",
+                "Newt Arnold",
+                "Peter Cornberg",
+                "Richard Peter Schroer",
+                "Ana Maria Quintana",
+                "Morris Chapnick"
+            ],
+            "casts": [
+                "Harrison Ford",
+                "Rutger Hauer",
+                "Sean Young",
+                "Edward James Olmos",
+                "M. Emmet Walsh",
+                "Daryl Hannah",
+                "William Sanderson",
+                "Brion James",
+                "Joe Turkel",
+                "Joanna Cassidy",
+                "James Hong",
+                "Kevin Thompson",
+                "Hy Pyke",
+                "Kimiko Hiroshige",
+                "Ben Astar",
+                "Dawna Lee Heising",
+                "Alexis Rhee",
+                "Bob Okazaki",
+                "Morgan Paull",
+                "Carolyn DeMirjian",
+                "Judith Burnett",
+                "Leo Gorcey Jr.",
+                "Sharon Hesky",
+                "Kelly Hine",
+                "Tom Hutchinson",
+                "Charles Knapp",
+                "Rose Mascari",
+                "Jiro Okazaki",
+                "Robert Reiter"
+            ]
         }
     },
     {
-        "pk": 796185,
+        "pk": 536437,
         "model": "movies.movie",
         "fields": {
-            "movie_id": 796185,
-            "title": "삼총사: 다르타냥",
+            "movie_id": 536437,
+            "title": "힙노틱",
             "genre_ids": [
+                80,
+                9648,
+                53
+            ],
+            "overview": "",
+            "poster_path": "/mv362kHXz4Yr33wtQhqfcJWFM8G.jpg",
+            "release_date": "2023-05-11",
+            "vote_average": 7,
+            "directors": [
+                "Robert Rodriguez",
+                "Robert Rodriguez",
+                "Robert Rodriguez",
+                "Robert Rodriguez",
+                "Jeremy Phoenix",
+                "Jeremy Reisig"
+            ],
+            "casts": [
+                "Ben Affleck",
+                "Alice Braga",
+                "William Fichtner",
+                "J. D. Pardo",
+                "Jeff Fahey",
+                "Dayo Okeniyi",
+                "Jackie Earle Haley",
+                "Kelly Frye",
+                "Melanie Hawkins",
+                "Derek Russo",
+                "Zane Holtz",
+                "Ruben Javier Caballero",
+                "Sandy Avila",
+                "Ryan Ryusaki",
+                "Hala Finley",
+                "Ionie Olivia Nieves",
+                "Corina Calderon",
+                "Nikki Dixon",
+                "Bonnie Discepolo"
+            ]
+        }
+    },
+    {
+        "pk": 798286,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 798286,
+            "title": "보 이즈 어프레이드",
+            "genre_ids": [
+                35,
                 12,
-                36,
+                14
+            ],
+            "overview": "편집증을 앓는 ‘보’와 그를 집착적으로 사랑하는 엄마 ‘모나’\r 엄마를 무조건 만나러 가야 하는 보의 기억과 환상,\r 현실이 뒤섞인 공포를 경험하게 되는 기이한 여정",
+            "poster_path": "/pU8F9qKSoiqcv1nnaYezBzp7MoZ.jpg",
+            "release_date": "2023-04-14",
+            "vote_average": 7.2,
+            "directors": [
+                "Paul Thomas Anderson",
+                "Spike Jonze",
+                "David Fincher",
+                "Ruben Östlund",
+                "Ari Aster",
+                "Ari Aster",
+                "Ari Aster",
+                "Elizabeth Tremblay",
+                "Cristóbal León",
+                "Joaquín Cociña",
+                "Renato De Cotiis",
+                "Vincent Bélisle-Ducharme",
+                "Florelle Del Burgo"
+            ],
+            "casts": [
+                "Joaquin Phoenix",
+                "Patti LuPone",
+                "Amy Ryan",
+                "Parker Posey",
+                "Nathan Lane",
+                "Armen Nahapetian",
+                "Stephen McKinley Henderson",
+                "Richard Kind",
+                "Kylie Rogers",
+                "Denis Ménochet",
+                "Zoe Lister-Jones",
+                "Julia Antonelli",
+                "Hayley Squires",
+                "Julian Richings",
+                "Bill Hader",
+                "Alicia Rosario",
+                "James Cvetkovski",
+                "Catherine Bérubé",
+                "Stephanie Herrera",
+                "Bradley Fisher",
+                "Peter Seaborne",
+                "Michael Esper",
+                "Manuel Tadros",
+                "Karl Roy",
+                "Anana Rydvald",
+                "Cat Lemieux",
+                "Tristan D. Lalla",
+                "Marc-André Brisebois",
+                "Tyrone Benskin",
+                "Ernest-James Chuipka",
+                "Archie Madekwe",
+                "Greg Halpin",
+                "Luis Oliva",
+                "Charles Hardy",
+                "Marie-Michelle Garon",
+                "Maev Beaty",
+                "Patrick Kwok-Choon",
+                "Michael Gandolfini",
+                "Théodore Pellerin",
+                "Mike Taylor",
+                "Luke Alexander James McPhail",
+                "Ryan S. Hill",
+                "Bentley Hughes",
+                "Kwasi Songui",
+                "Sylvain Landry",
+                "Emmanuel Schwartz",
+                "Cat Lemieux",
+                "Lily Bird",
+                "Arthur Holden",
+                "François Paquette",
+                "Alex Bisping",
+                "Lucas Gosselin",
+                "Joe Cobden",
+                "Harry Standjofski",
+                "Anana Rydvald",
+                "Isabelle Brabant",
+                "Tarah Schwartz",
+                "Barry Morgan",
+                "Karim Bourara",
+                "Lee Villeneuve",
+                "Geneviève Marin",
+                "Julien Fortin",
+                "Luz Tercero",
+                "Marc-André Casavant"
+            ]
+        }
+    },
+    {
+        "pk": 760099,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 760099,
+            "title": "리빙",
+            "genre_ids": [
                 18
             ],
             "overview": "",
-            "poster_path": "/lm0pfF0HSLsSpFlhGCmR6Bhl8EE.jpg",
-            "release_date": "2023-04-05",
-            "vote_average": 7.4
-        }
-    },
-    {
-        "pk": 965150,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 965150,
-            "title": "애프터썬",
-            "genre_ids": [
-                18
+            "poster_path": "/ftUdaxguhUoPAtwTkSLNglAaqfd.jpg",
+            "release_date": "2022-11-04",
+            "vote_average": 7.1,
+            "directors": [
+                "Akira Kurosawa",
+                "Oliver Hermanus",
+                "George Every"
             ],
-            "overview": "평범한 10대 소녀인 소피는 그동안 자신에게 소홀했던 아버지와 단둘이 튀르키예로 여행을 떠난다. 아버지와 처음으로 둘만의 오붓한 시간을 즐기는 동안, 소피는 어떻게든 자신을 즐겁게 해주려는 아버지의 새로운 이면을 보게 되는데…",
-            "poster_path": "/zZh6x7aHtSxsIQCewZVKEykVNtO.jpg",
-            "release_date": "2022-10-21",
-            "vote_average": 7.7
+            "casts": [
+                "Bill Nighy",
+                "Aimee Lou Wood",
+                "Alex Sharp",
+                "Tom Burke",
+                "Adrian Rawlins",
+                "Oliver Chris",
+                "Hubert Burton",
+                "Zoe Boyle",
+                "Barney Fishwick",
+                "Patsy Ferran",
+                "Michael Cochrane",
+                "Lia Williams",
+                "Anant Varman",
+                "Jessica Flood",
+                "Jamie Wilkes",
+                "Richard Cunningham",
+                "John MacKay",
+                "Ffion Jolly",
+                "Celeste Dodwell",
+                "Jonathan Keeble",
+                "Eunice Roberts",
+                "Mark James",
+                "Edward Wolstenholme",
+                "Nichola McAuliffe",
+                "Laurie Denman",
+                "Gleanne Purcell-Brown",
+                "Violeta Valverde",
+                "Michael James",
+                "Rosie Sansom",
+                "Matilda Ziegler",
+                "Grant Gillespie",
+                "Robin Sebastian",
+                "David Summer",
+                "Nicky Goldie",
+                "Thomas Coombes"
+            ]
         }
     },
     {
-        "pk": 459003,
+        "pk": 62,
         "model": "movies.movie",
         "fields": {
-            "movie_id": 459003,
-            "title": "Мавка: Лісова пісня",
-            "genre_ids": [
-                14,
-                16,
-                12,
-                10751
-            ],
-            "overview": "",
-            "poster_path": "/5ELbK0xffYuVtTlxJGRY2wViglM.jpg",
-            "release_date": "2023-03-02",
-            "vote_average": 6.7
-        }
-    },
-    {
-        "pk": 1924,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 1924,
-            "title": "슈퍼맨",
+            "movie_id": 62,
+            "title": "2001 스페이스 오디세이",
             "genre_ids": [
                 878,
-                28,
+                9648,
                 12
             ],
-            "overview": "크립톤 행성의 조엘(Jor-El: 마론 브란도 분)은 행성이 곧 폭발할 것이라는 사실을 알고, 수많은 은하계의 지식을 담은 푸른 수정과 함께 아들인 카렐(Baby Clark Kent: 아론 스모린스키 분)을 지구로 보낸다. 카렐이 타고 온 작은 우주선은 조나단 부부(Jonathan Kent: 글렌 포드 분 / Ma Kent: 필리스 색터 분) 앞에 떨어지고, 아이가 없던 그들이 카렐을 데려와 클락이라 부르며 키운다.  어느 덧 청년으로 성장한 클락(Clark Kent/Superman: 크리스토퍼 리브 분)은 알지못하는 힘에 끌려 북쪽으로 가게 되고, 그 곳에서 아버지 조엘로부터 그 동안의 궁금증을 풀고, 다시 지구로 돌아오게 된다. 지구로 돌아온 클락은 데일리 플리닛지의 기자로 살아가며, 위험한 순간마다 슈퍼맨으로 변신해 사람들을 구해낸다. 슈퍼맨의 활약이 커지면서 신문사마다 다투어 그의 기사를 실었고 클락은 같은 신문사의 여기자 로이스 레인(Lois Lane: 마곳 키더 분)을 짝사랑하게 되는데.",
-            "poster_path": "/qwqXgd7FS0UhjU7SY5aNz6vV3G5.jpg",
-            "release_date": "1978-12-13",
-            "vote_average": 7.1
-        }
-    },
-    {
-        "pk": 844396,
-        "model": "movies.movie",
-        "fields": {
-            "movie_id": 844396,
-            "title": "The Friendship Game",
-            "genre_ids": [
-                878,
-                27
+            "overview": "인류에게 문명의 지혜를 가르쳐 준 검은 돌기둥의 정체를 밝히기 위해서 디스커버리호의 선장 보우만과 승무원 풀은 목성을 향해서 날아간다. 하지만 평온하던 디스커버리호에 갑자기 재난이 찾아온다. 우주선 내부에서 일어난 재난은 컴퓨터 HAL이 반란을 일으킨 것. HAL은 풀을 우주선 밖으로 던져버리고, 보우만까지도 모선 밖으로 끌어내지만 그는 필사의 노력으로 HAL을 제압한다. 보우만은 마침내 목성 궤도에서 문제의 검은 돌기둥을 발견하지만, 그 순간 우주의 급류에 휘말리게 된다. 보우만은 지구로의 귀환을 위해 노력하고, 신비한 시간의 흐름을 경험하는데...",
+            "poster_path": "/2qJjH5mYNlGPdVrPqfEq1J6Mgb4.jpg",
+            "release_date": "1968-04-02",
+            "vote_average": 8.1,
+            "directors": [
+                "Stanley Kubrick",
+                "Stanley Kubrick",
+                "Stanley Kubrick",
+                "Stanley Kubrick",
+                "Derek Cracknell"
             ],
-            "overview": "",
-            "poster_path": "/qXaJkaVTNMhrOylFi6xrWnBQGE8.jpg",
-            "release_date": "2022-11-11",
-            "vote_average": 5.4
+            "casts": [
+                "Keir Dullea",
+                "Gary Lockwood",
+                "William Sylvester",
+                "Douglas Rain",
+                "Daniel Richter",
+                "Leonard Rossiter",
+                "Margaret Tyzack",
+                "Robert Beatty",
+                "Sean Sullivan",
+                "Frank Miller",
+                "Ed Bishop",
+                "Edwina Carroll",
+                "Heather Downham",
+                "Penny Brahms",
+                "Maggie London",
+                "Chela Matthison",
+                "Judy Kiern",
+                "Alan Gifford",
+                "Ann Gillis",
+                "Vivian Kubrick",
+                "Kenneth Kendall",
+                "Kevin Scott",
+                "Martin Amor",
+                "Bill Weston",
+                "Glenn Beck",
+                "Mike Lovell",
+                "John Ashley",
+                "Jimmy Bell",
+                "David Charkham",
+                "Simon Davis",
+                "Jonathan Daw",
+                "Péter Delmár",
+                "Terry Duggan",
+                "David Fleetwood",
+                "Danny Grover",
+                "Brian Hawley",
+                "David Hines",
+                "Tony Jackson",
+                "John Jordan",
+                "Scott MacKee",
+                "Laurence Marchant",
+                "Darryl Paes",
+                "Joe Refalo",
+                "Andy Wallace",
+                "Bob Wilyman",
+                "Richard Woods",
+                "S. Newton Anderson",
+                "Sheraton Blount",
+                "Ann Bormann",
+                "Julie Croft",
+                "Penny Francis",
+                "Marcella Markham",
+                "Irena Marr",
+                "Krystyna Marr",
+                "Kim Neil",
+                "Jane Pearl",
+                "Penny Pearl",
+                "Burnell Tucker",
+                "John Swindells",
+                "John Clifford",
+                "Anthony Jackson"
+            ]
         }
     },
     {
@@ -1639,7 +4889,24 @@
             "overview": "",
             "poster_path": "/yGQAZupyZgT2ESbBSMZ9R0OBToo.jpg",
             "release_date": "2023-04-06",
-            "vote_average": 8
+            "vote_average": 8,
+            "directors": [
+                "Zachary Wigon",
+                "Esha Kallianpur",
+                "Maxwell Nalevansky",
+                "Maxim Dashkin",
+                "Alex Burstein",
+                "Christopher Dagostino"
+            ],
+            "casts": [
+                "Christopher Abbott",
+                "Margaret Qualley",
+                "Francisco Castaneda",
+                "Dominick Defilips",
+                "Rene Calvo",
+                "Danita Battle",
+                "Christian Casatelli"
+            ]
         }
     },
     {
@@ -1658,7 +4925,84 @@
             "overview": "19세기 말 런던. 공화국의 스파이 집단인 팀 백비둘기가 새로운 임무를 수행하게 되었다.  어느 헌책방 점주의 공화국으로의 주고.왕국에 의해 구치소에 구속되어 있던 헌책점주를 안제와 도로시, 치세의 제휴로 탈환에 성공한다.\r 한편 그 무렵, 왕국에서는 여왕 암살 미수 사건을 계기로\"간첩 사냥\"이 격렬해져, 공화국측의 컨트롤에서는 긴장이 긴장되고 있었다.\r 컨트롤은 왕국 왕실에 파견하고 있는 스파이가 \"이중 스파이\"일 가능성이 있다고 추측,\r 진상을 파악하기 위해 팀 백비둘기에 왕실 내에 파견하고 있는 스파이, 코드네임 \"비숍\"과의 접촉을 명한다.  과연 새로운 임무의 향방은.  그리고 \"비숍\"은 무엇일까?",
             "poster_path": "/zjxBUYSV6o1kEeXSA9lYkaZxoFf.jpg",
             "release_date": "2021-02-11",
-            "vote_average": 5.6
+            "vote_average": 5.6,
+            "directors": [
+                "Masaki Tachibana",
+                "Masaki Tachibana",
+                "Jun Takada"
+            ],
+            "casts": [
+                "Aoi Koga",
+                "Akira Sekine",
+                "You Taichi",
+                "Akari Kageyama",
+                "Nozomi Furuki",
+                "Takayuki Sugo",
+                "Miyuki Sawashiro",
+                "Hiroyuki Honda",
+                "Takumi Yamazaki",
+                "Takaya Hashi",
+                "Yuuko Iida",
+                "Nobuo Tobita"
+            ]
+        }
+    },
+    {
+        "pk": 812488,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 812488,
+            "title": "스마일 어게인",
+            "genre_ids": [
+                53,
+                14,
+                27
+            ],
+            "overview": "특수경찰대원 카밀라는 슬럼가에 숨은 갱단의 아지트를 급습하는 과정에서  갱단의 습격으로 대부분의 대원들이 희생당하는 사고를 당한다.  카밀라는 때마침 벌어진 사이비 교주 알비노의 강령술 한가운데에 떨어져  온몸에 심한 화상을 입은 채로 혼수상태에 빠진다.  기억을 잃고 깨어난 그녀는 친구인 파티마의 도움을 받는다.  하지만 기억을 잃은 카밀라의 주변에는 사악한 기운이 맴돌고  주변 사람들이 웃음을 지으며 자살하는 기이한 사건들이 벌어진다.  저주를 받은 카밀라와 파티마와 얽힌 끔찍한 비밀이 밝혀지고  사이비 종교 알비노 일당들과 최후의 대결을 벌이게 된다.",
+            "poster_path": "/qJVhs4BaUOHk3wT8AlTK1zgwq6w.jpg",
+            "release_date": "2022-09-02",
+            "vote_average": 5.8,
+            "directors": [
+                "Néstor Sánchez Sotelo",
+                "Néstor Sánchez Sotelo"
+            ],
+            "casts": [
+                "María Abadi",
+                "Melisa Garat",
+                "Marco de la O",
+                "Ruby Vizcarra",
+                "Fiorela Duranda"
+            ]
+        }
+    },
+    {
+        "pk": 835268,
+        "model": "movies.movie",
+        "fields": {
+            "movie_id": 835268,
+            "title": "Suro",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "overview": "",
+            "poster_path": "/q7pEWV0FxL5AOU9Pr5mUDQWnZ4A.jpg",
+            "release_date": "2022-12-02",
+            "vote_average": 6.5,
+            "directors": [
+                "Mikel Gurrea",
+                "Mikel Gurrea"
+            ],
+            "casts": [
+                "Pol López",
+                "Vicky Luengo",
+                "Ilyass El Ouahdani",
+                "Josep Estragués",
+                "David Parcet",
+                "Vicente Botella",
+                "Josep Maria Gómez",
+                "Irina Moradell"
+            ]
         }
     }
 ]
