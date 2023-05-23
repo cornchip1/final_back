@@ -5,11 +5,13 @@ from django.conf import settings
 class Movie(models.Model):
     movie_id = models.IntegerField(blank=False)
     title = models.TextField(blank=False)
-    genre_ids = models.TextField(blank=True)
-    overview = models.TextField(blank=True)
-    poster_path = models.TextField(blank=True)
-    release_date = models.DateField(blank=True)
-    vote_average = models.FloatField(blank=True)
+    genre_ids = models.TextField(null=True)
+    overview = models.TextField(null=True)
+    poster_path = models.TextField(null=True)
+    release_date = models.DateField(null=True)
+    vote_average = models.FloatField(null=True)
+    directors = models.TextField(null=True)
+    casts = models.TextField(null=True)
     
     
 
@@ -21,3 +23,6 @@ class Review(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
 
+class Genre(models.Model):
+    genre_id = models.IntegerField(null=False)
+    name = models.TextField(null=False)

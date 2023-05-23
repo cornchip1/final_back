@@ -10,7 +10,7 @@ from rest_framework.renderers import JSONRenderer, TemplateHTMLRenderer
 
 from rest_framework import status
 from django.shortcuts import get_object_or_404, get_list_or_404
-from .serializers import ReviewSerializer, MovieSerializer, PopularMovieListSerializer, NowPlayingMovieListSerializer
+from .serializers import ReviewSerializer, MovieSerializer
 from .models import Review, Movie
 
 import requests
@@ -22,8 +22,10 @@ def movie_detail(request, movie_id):
             Movie.objects.get(pk = movie_id)
         except Movie.DoesNotExist: 
             API_KEY = 'af9d86a2c68477bba3c90c0d2f29bbf1'
-            url = f'https://api.themoviedb.org/3/movie/{movie_id}?api_key={API_KEY}&language=ko'
-            movie = requests.get(url).json()
+            movie_url = f'https://api.themoviedb.org/3/movie/{movie_id}?api_key={API_KEY}&language=ko'
+            movie = requests.get(movie_url).json()
+            credits_url = f'https://api.themoviedb.org/3/movie/{movie_id}/credits?api_key={API_KEY}&language=ko'
+            credit = requests.get(credits_url).json()
             if movie.get('id',''):
                 new = Movie.objects.create( 
                     id = movie['id'],
@@ -33,7 +35,9 @@ def movie_detail(request, movie_id):
                     overview = movie['overview'],
                     poster_path = movie['poster_path'],
                     release_date = movie['release_date'],
-                    vote_average = movie['vote_average'],           
+                    vote_average = movie['vote_average'],
+                    directors = [ crew['name'] for crew in credit['crew'] if crew['known_for_department'] == 'Directing' or crew['department'] == 'Directing'],
+                    casts = [ cast['name'] for cast in credit['cast'] if cast['known_for_department'] == 'Acting']
                 )
                 new.save()
 

@@ -1,0 +1,154 @@
+[
+    {
+        "pk": 28,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 28,
+            "name": "액션"
+        }
+    },
+    {
+        "pk": 12,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 12,
+            "name": "모험"
+        }
+    },
+    {
+        "pk": 16,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 16,
+            "name": "애니메이션"
+        }
+    },
+    {
+        "pk": 35,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 35,
+            "name": "코미디"
+        }
+    },
+    {
+        "pk": 80,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 80,
+            "name": "범죄"
+        }
+    },
+    {
+        "pk": 99,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 99,
+            "name": "다큐멘터리"
+        }
+    },
+    {
+        "pk": 18,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 18,
+            "name": "드라마"
+        }
+    },
+    {
+        "pk": 10751,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 10751,
+            "name": "가족"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 14,
+            "name": "판타지"
+        }
+    },
+    {
+        "pk": 36,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 36,
+            "name": "역사"
+        }
+    },
+    {
+        "pk": 27,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 27,
+            "name": "공포"
+        }
+    },
+    {
+        "pk": 10402,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 10402,
+            "name": "음악"
+        }
+    },
+    {
+        "pk": 9648,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 9648,
+            "name": "미스터리"
+        }
+    },
+    {
+        "pk": 10749,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 10749,
+            "name": "로맨스"
+        }
+    },
+    {
+        "pk": 878,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 878,
+            "name": "SF"
+        }
+    },
+    {
+        "pk": 10770,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 10770,
+            "name": "TV 영화"
+        }
+    },
+    {
+        "pk": 53,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 53,
+            "name": "스릴러"
+        }
+    },
+    {
+        "pk": 10752,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 10752,
+            "name": "전쟁"
+        }
+    },
+    {
+        "pk": 37,
+        "model": "movies.genre",
+        "fields": {
+            "genre_id": 37,
+            "name": "서부"
+        }
+    }
+]

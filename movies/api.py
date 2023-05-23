@@ -7,12 +7,15 @@ def popular_movies_data():
     popular_movies = []
 
     for i in range(1,6):
-        url = f'https://api.themoviedb.org/3/movie/popular?api_key={API_KEY}&language=ko&page={i}'
-        
-        movies = requests.get(url).json()
+        movies_url = f'https://api.themoviedb.org/3/movie/popular?api_key={API_KEY}&language=ko&page={i}'
+        movies = requests.get(movies_url).json()
         
         for movie in movies['results']:
             if movie.get('release_date',''):
+                movie_id = movie['id']
+                credits_url = f'https://api.themoviedb.org/3/movie/{movie_id}/credits?api_key={API_KEY}&language=ko'
+                credit = requests.get(credits_url).json()
+
                 fields = {
                     'movie_id':movie['id'],
                     'title':movie['title'],
@@ -20,7 +23,9 @@ def popular_movies_data():
                     'overview':movie['overview'],
                     'poster_path':movie['poster_path'],
                     'release_date':movie['release_date'],
-                    'vote_average':movie['vote_average'],                  
+                    'vote_average':movie['vote_average'],
+                    'directors' : [ crew['name'] for crew in credit['crew'] if crew['known_for_department'] == 'Directing' or crew['department'] == 'Directing'],
+                    'casts':  [ cast['name'] for cast in credit['cast'] if cast['known_for_department'] == 'Acting']       
                 }
                 data = {
                     'pk' : movie['id'],
@@ -37,11 +42,13 @@ def now_playing_movies_data():
     now_playing_movies = []
 
     for i in range(1,6):
-        url = f'https://api.themoviedb.org/3/movie/now_playing?api_key={API_KEY}&language=ko&page={i}'
-        
-        movies = requests.get(url).json()
-        
+        movies_url = f'https://api.themoviedb.org/3/movie/now_playing?api_key={API_KEY}&language=ko&page={i}'
+        movies = requests.get(movies_url).json()
+
         for movie in movies['results']:
+            movie_id = movie['id']
+            credits_url = f'https://api.themoviedb.org/3/movie/{movie_id}/credits?api_key={API_KEY}&language=ko'
+            credit = requests.get(credits_url).json()
             if movie.get('release_date',''):
                 fields = {
                     'movie_id':movie['id'],
@@ -51,6 +58,8 @@ def now_playing_movies_data():
                     'poster_path':movie['poster_path'],
                     'release_date':movie['release_date'],
                     'vote_average':movie['vote_average'],
+                    'directors' : [ crew['name'] for crew in credit['crew'] if crew['known_for_department'] == 'Directing' or crew['department'] == 'Directing'],
+                    'casts':  [ cast['name'] for cast in credit['cast'] if cast['known_for_department'] == 'Acting']              
         
                 }
                 data = {
@@ -64,6 +73,27 @@ def now_playing_movies_data():
     w = open('movies/fixtures/now_playing_movies.json','w',encoding='utf-8')
     json.dump(now_playing_movies, w, indent=4,ensure_ascii=False)
 
+def genres_data():
+    genres_lst = []
+    genres_url = f'https://api.themoviedb.org/3/genre/movie/list?api_key={API_KEY}&language=ko'
+    genres = requests.get(genres_url).json()
 
-popular_movies_data()
-now_playing_movies_data()
+    for genre in genres['genres']:
+        print(genre['id'])
+        fields = {
+            'genre_id' : genre['id'],
+            'name' : genre['name'],
+        }
+        data = {
+            'pk' : int(genre['id']),
+            'model': 'movies.genre',
+            'fields':fields
+        }
+        genres_lst.append(data)
+
+    w = open('movies/fixtures/genres.json','w',encoding='utf-8')
+    json.dump(genres_lst, w, indent=4,ensure_ascii=False)
+
+# popular_movies_data()
+# now_playing_movies_data()
+genres_data()
