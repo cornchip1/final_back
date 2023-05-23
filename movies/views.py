@@ -36,8 +36,8 @@ def movie_detail(request, movie_id):
                     poster_path = movie['poster_path'],
                     release_date = movie['release_date'],
                     vote_average = movie['vote_average'],
-                    directors = [ crew['name'] for crew in credit['crew'] if crew['known_for_department'] == 'Directing' or crew['department'] == 'Directing'],
-                    casts = [ cast['name'] for cast in credit['cast'] if cast['known_for_department'] == 'Acting']
+                    directors = list(set( crew['name'] for crew in credit['crew'] if crew['known_for_department'] == 'Directing' or crew['department'] == 'Directing')),
+                    casts = list(set( cast['name'] for cast in credit['cast'] if cast['known_for_department'] == 'Acting'))
                 )
                 new.save()
 
