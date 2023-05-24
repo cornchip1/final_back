@@ -31,7 +31,7 @@ def actors_data():
         response = requests.get(url).json()
         result = response['peopleInfoResult']['peopleInfo']
 
-        key = name_lst[i]
+        key = quote_plus(name_lst[i])
         search_url = f'https://search.naver.com/search.naver?where=image&sm=tab_jum&query={key}'
         
         # html = urlopen(search_url)
@@ -64,8 +64,6 @@ def actors_data():
         }
         
         actors.append(data)
-
-    # https://sputnik-kr.tistory.com/161
 
     w = open('today/fixtures/actors_list.json','w',encoding = 'utf-8')
     json.dump(actors, w, indent=4,ensure_ascii=False)
