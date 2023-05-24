@@ -32,12 +32,20 @@ class MovieSerializer(serializers.ModelSerializer):
             lst.append(getattr(Genre.objects.get(pk=genre),'name'))
         return lst
 
+    def to_representation(self, instance):
+        response = super().to_representation(instance)
+        response['review_set']=sorted(response['review_set'], key = lambda x : x['created_at'], reverse=True)
+        return response
 
     class Meta:
         model = Movie
         fields = '__all__'
         read_only_fields = ('user', 'rate_avg',)
-    
+
+class RandomMovieSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Movie
+        fields = ('title','overview','poster_path')
 
 # class PopularMovieListSerializer(serializers.ModelSerializer):
 #     class Meta:
