@@ -25,6 +25,7 @@ urlpatterns = [
     path('accounts/',include('accounts.urls')),
     path('accounts/signup/', include('dj_rest_auth.registration.urls')),
     path('movies/', include('movies.urls')),
+    path('today/',include('today.urls')),
 ]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
 # urlpatterns += static(settings.STATIC_URL, document_root = settings.STATIC_ROOT)

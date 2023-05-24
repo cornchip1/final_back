@@ -41,7 +41,11 @@ class MovieSerializer(serializers.ModelSerializer):
         model = Movie
         fields = '__all__'
         read_only_fields = ('user', 'rate_avg',)
-    
+
+class RandomMovieSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Movie
+        fields = ('title','overview','poster_path')
 
 # class PopularMovieListSerializer(serializers.ModelSerializer):
 #     class Meta:
