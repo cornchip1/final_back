@@ -8,7 +8,8 @@ from rest_framework.renderers import JSONRenderer, TemplateHTMLRenderer
 
 from rest_framework import status
 from django.shortcuts import get_object_or_404, get_list_or_404
-from movies.serializers import MovieSerializer, RandomMovieSerializer
+from movies.serializers import MovieSerializer, RandomMovieSerializer, MovieListSerializer
+from today.serializers import ActorListSerializer
 from movies.models import Review, Movie
 from today.models import Actor
 
@@ -28,7 +29,14 @@ def random_movie(request):
 def random_movies(request):
     ids = list(Movie.objects.values_list('id', flat=True).distinct())
     choose = random.sample(ids, 32)
-    return Response(choose)
+    movies = []
+    
+    for m in range(32):
+        movie = get_object_or_404(Movie, pk=choose[m])
+        movies.append(movie)
+        
+    serializer = MovieListSerializer(movies, many=True)
+    return Response(serializer.data)
 
 @api_view(['GET'])
 def movies_result(request, movie_id):
@@ -60,7 +68,14 @@ def movies_result(request, movie_id):
 def random_actors(request):
     ids = list(Actor.objects.values_list('id', flat=True).distinct())
     choose = random.sample(ids, 32)
-    return Response(choose)
+
+    actors = []
+    for a in range(32):
+        actor = get_object_or_404(Actor,pk=choose[a])
+        actors.append(actor)
+    print('\n\n',actors)
+    serializer = ActorListSerializer(actors, many=True)
+    return Response(serializer.data)
 
 import ast
 # 배우가 출연한 영화 중 1개 골라서 보여주기 -> search result 의 첫번째 값 보여주기

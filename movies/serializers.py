@@ -8,6 +8,11 @@ class ReviewSerializer(serializers.ModelSerializer):
         fields = '__all__'
         read_only_fields = ('movie','user',)
 
+class MovieListSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Movie
+        fields = ('title','poster_path')
+
 class MovieSerializer(serializers.ModelSerializer):
     review_set = ReviewSerializer(many=True, read_only=True)
     review_count = serializers.IntegerField(source = 'review_set.count',read_only=True)
