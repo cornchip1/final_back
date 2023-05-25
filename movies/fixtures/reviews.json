@@ -40,7 +40,7 @@
         "pk": 4,
         "fields": {
             "user": 6,
-            "movie": 597,
+            "movie": 502356,
             "rate": 5,
             "review": "고전이 사랑받는 데는 이유가 있음",
             "created_at": "2023-05-22T14:42:11.490Z",
@@ -52,7 +52,7 @@
         "pk": 5,
         "fields": {
             "user": 5,
-            "movie": 597,
+            "movie": 502356,
             "rate": 4,
             "review": "재밌음",
             "created_at": "2023-05-22T14:42:45.278Z",
@@ -64,9 +64,9 @@
         "pk": 6,
         "fields": {
             "user": 4,
-            "movie": 597,
+            "movie": 502356,
             "rate": 5,
-            "review": "디카프리오 정말 잘생겼음...",
+            "review": "아이가 좋아해요...",
             "created_at": "2023-05-22T14:43:18.894Z",
             "updated_at": "2023-05-22T14:43:18.894Z"
         }
