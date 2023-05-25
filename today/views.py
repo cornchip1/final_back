@@ -45,23 +45,28 @@ def movies_result(request, movie_id):
     url = f'https://api.themoviedb.org/3/movie/{selected}/similar?api_key={API_KEY}&language=ko'
     data = requests.get(url).json()
     
-    start, end = data['page'], data['total_pages']
-    if end > 10: end = 10
-    similar_movies = []
+    ids = list(Movie.objects.values_list('id', flat=True).distinct())
+    movie = get_object_or_404(Movie, pk=random.choice(ids))
+    if len(data['results']) < 1 :
+        serializer = RandomMovieSerializer(movie)
+    else:
+        start, end = data['page'], data['total_pages']
+        if end > 10: end = 10
+        similar_movies = []
 
-    for page in range(start,end):
-        page_url = f'{url}&page={page}'
-        d = requests.get(page_url).json() # 각 page 에 있는 data
-        for result in d['results']:
-            if result['vote_average'] >= 8.0 and result['vote_count'] >= 1000 and result['adult'] == False:
-                context = {
-                    'title':result['title'],
-                    'overview':result['overview'],
-                    'poster_path':result['poster_path'],
-                }
-                similar_movies.append(context)
-    serializer = RandomMovieSerializer(random.choice(similar_movies))        
-    # print(random.choice(similar_movies))                      
+        for page in range(start,end):
+            page_url = f'{url}&page={page}'
+            d = requests.get(page_url).json() # 각 page 에 있는 data
+            for result in d['results']:
+                if result['vote_average'] >= 8.0 and result['vote_count'] >= 1000 and result['adult'] == False:
+                    context = {
+                        'title':result['title'],
+                        'overview':result['overview'],
+                        'poster_path':result['poster_path'],
+                    }
+                    similar_movies.append(context)
+        if len(similar_movies) == 0 : serializer = RandomMovieSerializer(movie)
+        else : serializer = RandomMovieSerializer(random.choice(similar_movies))                
     return Response(serializer.data)
 
 @api_view(['GET'])
