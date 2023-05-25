@@ -78,74 +78,32 @@ def random_actors(request):
     return Response(serializer.data)
 
 import ast
-# 배우가 출연한 영화 중 1개 골라서 보여주기 -> search result 의 첫번째 값 보여주기
 @api_view(['GET'])
 def actors_result(request, actor_id):
-    actor = get_object_or_404(Actor, pk = actor_id)
-    filmos = ast.literal_eval(actor.filmos)
+    if request.method == 'GET':
+        actor = get_object_or_404(Actor, pk = actor_id)
+        filmos = ast.literal_eval(actor.filmos)
 
-    API_KEY = 'af9d86a2c68477bba3c90c0d2f29bbf1'
+        API_KEY = 'af9d86a2c68477bba3c90c0d2f29bbf1'
 
-    choose = random.choice(filmos)
-    search_url = f'https://api.themoviedb.org/3/search/movie?api_key={API_KEY}&query={choose}&language=en-US&page=1'
-    results = requests.get(search_url).json()
-    
-    while len(results['results']) < 1 : 
-        # print('***************\n','결과 없음')
         choose = random.choice(filmos)
-        search_url = f'https://api.themoviedb.org/3/search/movie?api_key={API_KEY}&query={choose}&language=en-US&page=1'
+        search_url = f'https://api.themoviedb.org/3/search/movie?api_key={API_KEY}&query={choose}&language=ko&page=1'
         results = requests.get(search_url).json()
-    
-    movie_id = results['results'][0]['id']
-    # print('************\n결과\n', results['results'][0])
-
-    url = f'https://api.themoviedb.org/3/movie/{movie_id}/similar?api_key={API_KEY}&language=ko'
-    data = requests.get(url).json()
-    similar_movies = []
-
-    if len(data['results']) < 1 :
-        # print('*****\n예외처리\n')
-        ids = list(Movie.objects.values_list('id', flat=True).distinct())
-        exception_handling = random.choice(ids)
-        movie = get_object_or_404(Movie,pk=exception_handling)
+        
+        # 검색 결과가 없으면 다른 영화로 재검색
+        while len(results['results']) < 1 : 
+            choose = random.choice(filmos)
+            search_url = f'https://api.themoviedb.org/3/search/movie?api_key={API_KEY}&query={choose}&language=ko&page=1'
+            results = requests.get(search_url).json()
+        
+        # 영화 정보 가져오기
+        movie_id = results['results'][0]['id']
+        url = f'https://api.themoviedb.org/3/movie/{movie_id}?api_key={API_KEY}&query={choose}&language=ko'
+        data = requests.get(url).json()
         context = {
-            'title':movie.title,
-            'overview':movie.overview,
-            'poster_path':movie.poster_path
+            'title':data['title'],
+            'overview':data['overview'],
+            'poster_path':data['poster_path']
         }
         serializer = RandomMovieSerializer(context)
-    else:
-        start, end = data['page'], data['total_pages']
-        if end > 10 : end = 10
-        for page in range(start,end+1):
-            page_url = f'{url}&page={page}'
-            d = requests.get(page_url).json() # 각 page 에 있는 data
-            for result in d['results']:
-                if result.get('vote_average',''):
-                    if result['vote_average'] >= 8.0 and result['vote_count'] >= 1000 and result['adult'] == False:
-                        context = {
-                            'title':result['title'],
-                            'overview':result['overview'],
-                            'poster_path':result['poster_path'],
-                        }
-                        similar_movies.append(context)
-    # print('\n\n',similar_movies)
-              
-
-    if len(similar_movies) == 0 :
-        # print('*****\n 조건에 맞는 비슷한 영화가 없는 예외처리\n')
-        ids = list(Movie.objects.values_list('id', flat=True).distinct())
-        exception_handling = random.choice(ids)
-        movie = get_object_or_404(Movie,pk=exception_handling)
-        context = {
-            'title':movie.title,
-            'overview':movie.overview,
-            'poster_path':movie.poster_path
-        }
-        serializer = RandomMovieSerializer(context)
-    else: serializer = RandomMovieSerializer(random.choice(similar_movies)) 
-             
-    # print(random.choice(similar_movies))                      
-    return Response(serializer.data) 
-
-
+        return Response(serializer.data)
