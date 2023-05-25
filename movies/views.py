@@ -26,6 +26,9 @@ def movie_detail(request, movie_id):
             movie = requests.get(movie_url).json()
             credits_url = f'https://api.themoviedb.org/3/movie/{movie_id}/credits?api_key={API_KEY}&language=ko'
             credit = requests.get(credits_url).json()
+            videos_url = f'https://api.themoviedb.org/3/movie/{movie_id}/videos?api_key={API_KEY}&language=ko'
+            video = requests.get(videos_url).json()
+
             if movie.get('id',''):
                 new = Movie.objects.create( 
                     id = movie['id'],
@@ -37,7 +40,9 @@ def movie_detail(request, movie_id):
                     release_date = movie['release_date'],
                     vote_average = movie['vote_average'],
                     directors = list(set( crew['name'] for crew in credit['crew'] if crew['known_for_department'] == 'Directing' or crew['department'] == 'Directing')),
-                    casts = list(set( cast['name'] for cast in credit['cast'] if cast['known_for_department'] == 'Acting'))
+                    casts = list(set( cast['name'] for cast in credit['cast'] if cast['known_for_department'] == 'Acting')),
+                    video_key = list(result['key'] for result in video['results'] if result['type'] == 'Trailer')  
+                    
                 )
                 new.save()
 
